@@ -7749,7 +7749,7 @@
     "EngTime": 3,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 2
   },
   {
     "route": "N247",
@@ -8121,7 +8121,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 2
   },
   {
     "route": "N247",
