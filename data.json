@@ -956,9 +956,9 @@
       "carplate": "XP 8993",
       "fleetnum": "W6S11",
       "depot": "G",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://8653559811",
-      "backad": "rbxassetid://8373801085"
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
     },
     {
       "busname": "GeoBusStreetdeck10650",
@@ -966,9 +966,9 @@
       "carplate": "XP 9053",
       "fleetnum": "W6S12",
       "depot": "G",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://8653559811",
-      "backad": "rbxassetid://8373801085"
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
     },
     {
       "busname": "GeoBusStreetdeck10650",
@@ -976,9 +976,9 @@
       "carplate": "XR 291",
       "fleetnum": "W6S13",
       "depot": "G",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://8653559811",
-      "backad": "rbxassetid://8373801085"
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
     },
     {
       "busname": "GeoBusStreetdeck10650Opentop",
