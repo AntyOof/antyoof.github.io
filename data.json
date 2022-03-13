@@ -1013,7 +1013,7 @@
     {
       "busname": "GeoBusB9TLTraining",
       "number": 1,
-      "carplate": "XW305",
+      "carplate": "XW 305",
       "fleetnum": "T1",
       "depot": "A",
       "leftad": "rbxassetid://",
@@ -1023,7 +1023,7 @@
     {
       "busname": "GeoBusB9TLTraining",
       "number": 2,
-      "carplate": "XW3051",
+      "carplate": "XW 3051",
       "fleetnum": "T2",
       "depot": "A",
       "leftad": "rbxassetid://",
