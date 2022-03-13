@@ -1009,6 +1009,26 @@
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusB9TLTraining",
+      "number": 1,
+      "carplate": "XW305",
+      "fleetnum": "T1",
+      "depot": "A",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusB9TLTraining",
+      "number": 2,
+      "carplate": "XW3051",
+      "fleetnum": "T2",
+      "depot": "A",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
     }
   ],
   "Groutedata": [
