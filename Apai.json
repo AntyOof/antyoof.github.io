@@ -1,0 +1,20 @@
+[
+  {
+    "number": 0,
+    "route": "GB",
+    "front": 1,
+    "frontid1": "rbxassetid://7680260237",
+    "controllerid1": "rbxassetid://7680277700",
+    "side": 1,
+    "sideid1": "rbxassetid://7680266845"
+  },
+  {
+    "number": 1,
+    "route": "OO",
+    "front": 1,
+    "frontid1": "rbxassetid://7680330195",
+    "controllerid1": "rbxassetid://7680339206",
+    "side": 1,
+    "sideid1": "rbxassetid://7680330195"
+  }
+]
