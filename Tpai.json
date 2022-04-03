@@ -168,11 +168,13 @@
     "number": 17,
     "route": "W2Z",
     "front": 2,
-    "frontid1": "rbxassetid://9208164944",
+    "frontid1": "rbxassetid://9270492448",
+    "frontid2": "rbxassetid://9270493193",
     "controllerid1": "rbxassetid://",
     "side": 3,
-    "sideid1": "rbxassetid://9208164944",
-    "sideid2": "rbxassetid://9208102301"
+    "sideid1": "rbxassetid://9270492448",
+    "sideid2": "rbxassetid://9270493193",
+    "sideid3": "rbxassetid://9270494625"
   },
   {
     "number": 18,
