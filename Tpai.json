@@ -182,8 +182,9 @@
     "front": 1,
     "frontid1": "rbxassetid://9270429851",
     "controllerid1": "rbxassetid://",
-    "side": 1,
-    "sideid1": "rbxassetid://9270429851"
+    "side": 2,
+    "sideid1": "rbxassetid://9270429851",
+    "sideid2": "rbxassetid://9278055956"
   },
   {
     "number": 19,
