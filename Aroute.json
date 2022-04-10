@@ -28,9 +28,11 @@
     "route": "26A",
     "destZ": "恆馳碼頭",
     "destY": "氡漕灣",
-    "maxPZ": "1",
+    "maxPZ": "2",
     "priceZ1": "6.8",
     "halfpriceZ1": "3.4",
+    "priceZ2": "3.8",
+    "halfpriceZ2": "1.9",
     "maxPY": "1",
     "priceY1": "6.8",
     "halfpriceY1": "3.4"
