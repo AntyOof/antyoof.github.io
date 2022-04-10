@@ -1,0 +1,38 @@
+[
+  {
+    "number": 0,
+    "route": "GEO",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 1,
+    "route": "22T",
+    "destZ": "恆馳碼頭",
+    "destY": "恆馳東",
+    "maxPZ": "1",
+    "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
+    "maxPY": "1",
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9"
+  },
+  {
+    "number": 2,
+    "route": "26A",
+    "destZ": "恆馳碼頭",
+    "destY": "氡漕灣",
+    "maxPZ": "1",
+    "priceZ1": "6.8",
+    "halfpriceZ1": "3.4",
+    "maxPY": "1",
+    "priceY1": "6.8",
+    "halfpriceY1": "3.4"
+  }
+]
