@@ -5,7 +5,7 @@
       "number": 1,
       "carplate": "XA 175",
       "fleetnum": "V6L1",
-      "depot": "T",
+      "depot": "A",
       "leftad": "rbxassetid://6134113291",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://8360318323"
@@ -465,7 +465,7 @@
       "number": 47,
       "carplate": "XB 3103",
       "fleetnum": "V6L47",
-      "depot": "G",
+      "depot": "A",
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
@@ -515,7 +515,7 @@
       "number": 52,
       "carplate": "XJ 8964",
       "fleetnum": "V6L52",
-      "depot": "G",
+      "depot": "A",
       "leftad": "rbxassetid://8485228633",
       "rightad": "rbxassetid://8487436117",
       "backad": "rbxassetid://"
@@ -535,7 +535,7 @@
       "number": 54,
       "carplate": "XK 451",
       "fleetnum": "V6L54",
-      "depot": "G",
+      "depot": "A",
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
@@ -645,7 +645,7 @@
       "number": 65,
       "carplate": "XL 2047",
       "fleetnum": "V6L65",
-      "depot": "G",
+      "depot": "A",
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://8373801085"
@@ -665,7 +665,7 @@
       "number": 67,
       "carplate": "XL 2136",
       "fleetnum": "V6L67",
-      "depot": "G",
+      "depot": "A",
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
@@ -865,7 +865,7 @@
       "number": 2,
       "carplate": "XP 5683",
       "fleetnum": "W6S2",
-      "depot": "G",
+      "depot": "A",
       "leftad": "rbxassetid://8141719689",
       "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
@@ -885,7 +885,7 @@
       "number": 4,
       "carplate": "XP 5703",
       "fleetnum": "W6S4",
-      "depot": "G",
+      "depot": "A",
       "leftad": "rbxassetid://8141719689",
       "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
@@ -895,7 +895,7 @@
       "number": 5,
       "carplate": "XP 6103",
       "fleetnum": "W6S5",
-      "depot": "G",
+      "depot": "A",
       "leftad": "rbxassetid://8141719689",
       "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
@@ -905,7 +905,7 @@
       "number": 6,
       "carplate": "XP 6305",
       "fleetnum": "W6S6",
-      "depot": "G",
+      "depot": "A",
       "leftad": "rbxassetid://8141719689",
       "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
@@ -915,7 +915,7 @@
       "number": 7,
       "carplate": "XP 6593",
       "fleetnum": "W6S7",
-      "depot": "G",
+      "depot": "A",
       "leftad": "rbxassetid://8141719689",
       "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
@@ -945,7 +945,7 @@
       "number": 10,
       "carplate": "XP 8992",
       "fleetnum": "W6S10",
-      "depot": "G",
+      "depot": "A",
       "leftad": "rbxassetid://8141719689",
       "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
@@ -955,7 +955,7 @@
       "number": 11,
       "carplate": "XP 8993",
       "fleetnum": "W6S11",
-      "depot": "G",
+      "depot": "A",
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
@@ -965,7 +965,7 @@
       "number": 12,
       "carplate": "XP 9053",
       "fleetnum": "W6S12",
-      "depot": "G",
+      "depot": "A",
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
@@ -975,7 +975,7 @@
       "number": 13,
       "carplate": "XR 291",
       "fleetnum": "W6S13",
-      "depot": "G",
+      "depot": "A",
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
@@ -995,7 +995,7 @@
       "number": 2,
       "carplate": "XR 1101",
       "fleetnum": "W6O2",
-      "depot": "A",
+      "depot": "G",
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
