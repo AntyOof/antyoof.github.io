@@ -136,9 +136,9 @@
     "direction": 0,
     "NextStop": 10,
     "Chi": "復星⼯業⼤廈",
-    "ChiTime": 3.25,
+    "ChiTime": 3.5,
     "Eng": "FUK SHING\nINDUSTRIAL BUILDING",
-    "EngTime": 3,
+    "EngTime": 2.75,
     "SoundId": "rbxassetid://9465242926",
     "TimePosition": 0,
     "Notification": 0
