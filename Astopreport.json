@@ -42,8 +42,8 @@
     "Chi": "歡迎乘搭豬怕巴士",
     "ChiTime": 8.5,
     "Eng": "WELCOME ONBOARD",
-    "EngTime": 7,
-    "SoundId": "rbxassetid://9463137494",
+    "EngTime": 8,
+    "SoundId": "rbxassetid://9465359954",
     "TimePosition": 0,
     "Notification": 0
   },
@@ -54,7 +54,7 @@
     "Chi": "恆馳醫院",
     "ChiTime": 2,
     "Eng": "HANG CHI HOSPITAL",
-    "EngTime": 3.5,
+    "EngTime": 3.25,
     "SoundId": "rbxassetid://9465244790",
     "TimePosition": 0,
     "Notification": 0
