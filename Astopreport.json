@@ -105,7 +105,7 @@
     "EngTime": 3.5,
     "SoundId": "rbxassetid://9465245221",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 3
   },
   {
     "route": "22T",
@@ -237,7 +237,7 @@
     "EngTime": 4,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 1
+    "Notification": 2
   },
   {
     "route": "26A",
@@ -477,7 +477,7 @@
     "EngTime": 4,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 2
   },
   {
     "route": "26A",
