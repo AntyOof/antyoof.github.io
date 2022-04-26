@@ -448,9 +448,9 @@
     "direction": 1,
     "NextStop": 10,
     "Chi": "禮雋圍商場",
-    "ChiTime": 2.25,
+    "ChiTime": 2.5,
     "Eng": "LAI CHUN WAI\nSHOPPING CENTRE",
-    "EngTime": 3.25,
+    "EngTime": 3.5,
     "SoundId": "rbxassetid://9470408920",
     "TimePosition": 0,
     "Notification": 0
