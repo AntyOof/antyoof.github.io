@@ -856,8 +856,8 @@
       "carplate": "XP 5015",
       "fleetnum": "W6S1",
       "depot": "A",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://8653559811",
+      "leftad": "rbxassetid://9527887259",
+      "rightad": "rbxassetid://",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -866,8 +866,8 @@
       "carplate": "XP 5683",
       "fleetnum": "W6S2",
       "depot": "A",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://8653559811",
+      "leftad": "rbxassetid://9527887259",
+      "rightad": "rbxassetid://",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -876,8 +876,8 @@
       "carplate": "XP 5698",
       "fleetnum": "W6S3",
       "depot": "A",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://8653559811",
+      "leftad": "rbxassetid://9527887259",
+      "rightad": "rbxassetid://",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -886,8 +886,8 @@
       "carplate": "XP 5703",
       "fleetnum": "W6S4",
       "depot": "A",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://8653559811",
+      "leftad": "rbxassetid://9527887259",
+      "rightad": "rbxassetid://",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -896,8 +896,8 @@
       "carplate": "XP 6103",
       "fleetnum": "W6S5",
       "depot": "A",
-      "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://8653559811",
+      "leftad": "rbxassetid://9527887259",
+      "rightad": "rbxassetid://",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -907,7 +907,7 @@
       "fleetnum": "W6S6",
       "depot": "A",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://8653559811",
+      "rightad": "rbxassetid://",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -917,7 +917,7 @@
       "fleetnum": "W6S7",
       "depot": "A",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://8653559811",
+      "rightad": "rbxassetid://",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -927,7 +927,7 @@
       "fleetnum": "W6S8",
       "depot": "A",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://8653559811",
+      "rightad": "rbxassetid://",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -937,7 +937,7 @@
       "fleetnum": "W6S9",
       "depot": "A",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://8653559811",
+      "rightad": "rbxassetid://",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -947,7 +947,7 @@
       "fleetnum": "W6S10",
       "depot": "A",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://8653559811",
+      "rightad": "rbxassetid://",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -956,7 +956,7 @@
       "carplate": "XP 8993",
       "fleetnum": "W6S11",
       "depot": "A",
-      "leftad": "rbxassetid://",
+      "leftad": "rbxassetid://9527887259",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
@@ -966,7 +966,7 @@
       "carplate": "XP 9053",
       "fleetnum": "W6S12",
       "depot": "A",
-      "leftad": "rbxassetid://",
+      "leftad": "rbxassetid://9527887259",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
@@ -976,7 +976,7 @@
       "carplate": "XR 291",
       "fleetnum": "W6S13",
       "depot": "A",
-      "leftad": "rbxassetid://",
+      "leftad": "rbxassetid://9527887259",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
