@@ -957,7 +957,7 @@
       "fleetnum": "W6S11",
       "depot": "A",
       "leftad": "rbxassetid://9527887259",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://9898217508",
       "backad": "rbxassetid://"
     },
     {
@@ -967,7 +967,7 @@
       "fleetnum": "W6S12",
       "depot": "A",
       "leftad": "rbxassetid://9527887259",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://9898217508",
       "backad": "rbxassetid://"
     },
     {
@@ -977,11 +977,11 @@
       "fleetnum": "W6S13",
       "depot": "A",
       "leftad": "rbxassetid://9527887259",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://9898217508",
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusStreetdeck10650",
+      "busname": "GeoBusStreetdeck10650new",
       "number": 14,
       "carplate": "XY 170",
       "fleetnum": "W6S14",
@@ -991,7 +991,7 @@
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusStreetdeck10650",
+      "busname": "GeoBusStreetdeck10650new",
       "number": 15,
       "carplate": "XY 6001",
       "fleetnum": "W6S15",
