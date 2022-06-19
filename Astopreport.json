@@ -126,7 +126,8 @@
     "EngTime": 4.5,
     "SoundId": "rbxassetid://9465243348",
     "TimePosition": 0,
-    "Notification": 1
+    "Notification": 1,
+    "ETA": 3
   },
   {
     "route": "22T",
@@ -138,7 +139,8 @@
     "EngTime": 2,
     "SoundId": "rbxassetid://9465246258",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 3
   },
   {
     "route": "22T",
@@ -150,7 +152,8 @@
     "EngTime": 2.75,
     "SoundId": "rbxassetid://9465242926",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 2
   },
   {
     "route": "22T",
@@ -162,7 +165,8 @@
     "EngTime": 2.5,
     "SoundId": "rbxassetid://9465246832",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 1
   },
   {
     "route": "22T",
@@ -174,7 +178,8 @@
     "EngTime": 2.5,
     "SoundId": "rbxassetid://9465243814",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 1
   },
   {
     "route": "22T",
@@ -186,7 +191,8 @@
     "EngTime": 2.5,
     "SoundId": "rbxassetid://9465244790",
     "TimePosition": 0,
-    "Notification": 1
+    "Notification": 1,
+    "ETA": 5
   },
   {
     "route": "22T",
@@ -198,7 +204,8 @@
     "EngTime": 2.75,
     "SoundId": "rbxassetid://9465244222",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 2
   },
   {
     "route": "22T",
@@ -210,7 +217,8 @@
     "EngTime": 4,
     "SoundId": "rbxassetid://7010707574",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 0
   },
   {
     "route": "26A",
