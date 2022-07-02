@@ -38,5 +38,21 @@
     "halfpriceY1": "3.4",
     "priceY2": "3.8",
     "halfpriceY2": "1.9"
+  },
+  {
+    "number": 3,
+    "route": "N26",
+    "destZ": "恆馳碼頭",
+    "destY": "氡漕灣",
+    "maxPZ": "2",
+    "priceZ1": "9.0",
+    "halfpriceZ1": "4.5",
+    "priceZ2": "5.0",
+    "halfpriceZ2": "2.5",
+    "maxPY": "2",
+    "priceY1": "9.0",
+    "halfpriceY1": "4.5",
+    "priceY2": "5.0",
+    "halfpriceY2": "2.5"
   }
 ]
