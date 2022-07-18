@@ -1001,6 +1001,16 @@
       "backad": "rbxassetid://"
     },
     {
+      "busname": "GeoBusStreetdeck106502nd",
+      "number": 16,
+      "carplate": "XV 9183",
+      "fleetnum": "W6S16",
+      "depot": "A",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
       "busname": "GeoBusStreetdeck10650Opentop",
       "number": 1,
       "carplate": "XR 783",
