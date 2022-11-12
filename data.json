@@ -671,12 +671,12 @@
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusB8L12000highway",
+      "busname": "GeoBusB8L12000admin",
       "number": 68,
       "carplate": "XL 4466",
       "fleetnum": "V6L68",
       "depot": "G",
-      "leftad": "rbxassetid://8005029103",
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
