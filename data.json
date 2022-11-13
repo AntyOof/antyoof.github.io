@@ -521,7 +521,7 @@
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusB8L12000highway",
+      "busname": "GeoBusB8L12000admin",
       "number": 53,
       "carplate": "XJ 9734",
       "fleetnum": "V6L53",
@@ -671,7 +671,7 @@
       "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusB8L12000admin",
+      "busname": "GeoBusB8L12000highway",
       "number": 68,
       "carplate": "XL 4466",
       "fleetnum": "V6L68",
