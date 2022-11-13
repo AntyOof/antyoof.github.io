@@ -526,9 +526,9 @@
       "carplate": "XJ 9734",
       "fleetnum": "V6L53",
       "depot": "A",
-      "leftad": "rbxassetid://8485228633",
-      "rightad": "rbxassetid://8487436117",
-      "backad": "rbxassetid://7016805780"
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
     },
     {
       "busname": "GeoBusB8L12000highway",
