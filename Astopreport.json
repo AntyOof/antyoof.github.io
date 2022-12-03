@@ -230,7 +230,8 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 0
   },
   {
     "route": "26A",
@@ -242,7 +243,8 @@
     "EngTime": 9,
     "SoundId": "rbxassetid://9463138146",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 0
   },
   {
     "route": "26A",
@@ -254,7 +256,8 @@
     "EngTime": 4,
     "SoundId": "rbxassetid://9470211912",
     "TimePosition": 0,
-    "Notification": 2
+    "Notification": 2,
+    "ETA": 7
   },
   {
     "route": "26A",
@@ -266,7 +269,8 @@
     "EngTime": 2.75,
     "SoundId": "rbxassetid://9470217455",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 1
   },
   {
     "route": "26A",
@@ -278,7 +282,8 @@
     "EngTime": 2.75,
     "SoundId": "rbxassetid://9470225494",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 4
   },
   {
     "route": "26A",
@@ -290,7 +295,8 @@
     "EngTime": 3.25,
     "SoundId": "rbxassetid://9470226734",
     "TimePosition": 0,
-    "Notification": 1
+    "Notification": 1,
+    "ETA": 3
   },
   {
     "route": "26A",
@@ -302,7 +308,8 @@
     "EngTime": 1.75,
     "SoundId": "rbxassetid://9470234826",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 2
   },
   {
     "route": "26A",
@@ -314,7 +321,8 @@
     "EngTime": 3,
     "SoundId": "rbxassetid://9470243635",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 1
   },
   {
     "route": "26A",
@@ -326,7 +334,8 @@
     "EngTime": 3,
     "SoundId": "rbxassetid://9470244412",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 3
   },
   {
     "route": "26A",
@@ -338,7 +347,8 @@
     "EngTime": 2.75,
     "SoundId": "rbxassetid://9465244222",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 2
   },
   {
     "route": "26A",
@@ -350,7 +360,8 @@
     "EngTime": 4,
     "SoundId": "rbxassetid://7010707574",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0,
+    "ETA": 0
   },
   {
     "route": "26A",
