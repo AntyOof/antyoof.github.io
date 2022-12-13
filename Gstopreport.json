@@ -1,4 +1,4 @@
-[
+
   {
     "route": "0",
     "direction": 0,
@@ -42,7 +42,7 @@
     "Chi": "馬晴商場",
     "ChiTime": 4,
     "Eng": "MA CHING COMPLEX",
-    "EngTime": 4,
+    "EngTime": 4
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 1
@@ -52,7 +52,7 @@
     "direction": 0,
     "NextStop": 4,
     "Chi": "比亞迪酒店",
-    "ChiTime": 4,
+    "ChiTime": 4
     "Eng": "BYD HOTEL",
     "EngTime": 4,
     "SoundId": "rbxassetid://",
@@ -62,7 +62,7 @@
   {
     "route": "23",
     "direction": 0,
-    "NextStop": 5,
+    "NextStop": 5
     "Chi": "豬怕市中心",
     "ChiTime": 4,
     "Eng": "GEO TOWN CENTRE",
@@ -70,9 +70,7 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
-  },
-  {
-    "route": "23",
+  }
     "direction": 0,
     "NextStop": 6,
     "Chi": "豬怕雅蘭中心",
@@ -8012,54 +8010,7 @@
     "Eng": "SHUU HING\nINDUSTRY",
     "EngTime": 3,
     "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 7,
-    "Chi": "中國武漢肺炎",
-    "ChiTime": 4,
-    "Eng": "CHINA\nWU HAN VIRUS",
-    "EngTime": 4,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 8,
-    "Chi": "甘怡站",
-    "ChiTime": 3,
-    "Eng": "KAM YEE STATION",
-    "EngTime": 3,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 9,
-    "Chi": "甘怡軍營",
-    "ChiTime": 4,
-    "Eng": "KAM YEE\nMILITARY CAMP",
-    "EngTime": 4,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 10,
-    "Chi": "政府設施中心",
-    "ChiTime": 5,
-    "Eng": "GOVERNMENT\nFACILITIES CENTRE",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
+   
     "TimePosition": 0,
     "Notification": 1
   },
@@ -8074,161 +8025,30 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
-  },
+  }
+[
   {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 12,
-    "Chi": "松泰樓",
-    "ChiTime": 3,
-    "Eng": "CHUNG TAI HOUSE",
-    "EngTime": 3,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 13,
-    "Chi": "松蔭(東)邨",
-    "ChiTime": 4,
-    "Eng": "CHUNG YAM (EAST)\nESTATE",
-    "EngTime": 4,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 14,
-    "Chi": "松蔭邨",
-    "ChiTime": 4,
-    "Eng": "CHUNG YAM ESTATE",
-    "EngTime": 3,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 15,
-    "Chi": "沙怡隧道轉乘站",
+    "route": "0",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
     "ChiTime": 5,
-    "Eng": "SHA YEE TUNNEL\nBUS-BUS INTERCHANGE",
+    "Eng": "WELCOME ONBOARD",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 1
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 16,
-    "Chi": "馬嶺醫院",
-    "ChiTime": 4,
-    "Eng": "MA LENG HOSPITAL",
-    "EngTime": 3,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
     "Notification": 0
   },
   {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 17,
-    "Chi": "馬奶邨",
-    "ChiTime": 3,
-    "Eng": "MA MILK ESTATE",
-    "EngTime": 3,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 18,
-    "Chi": "馬嶺站",
-    "ChiTime": 3,
-    "Eng": "MA LENG STATION",
-    "EngTime": 3,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 19,
-    "Chi": "馬嶺邨",
-    "ChiTime": 3,
-    "Eng": "MA LENG ESTATE",
-    "EngTime": 3,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 20,
-    "Chi": "沙嶺邨",
-    "ChiTime": 3,
-    "Eng": "SHA LENG ESTATE",
-    "EngTime": 3,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 21,
-    "Chi": "駿田商場",
-    "ChiTime": 4,
-    "Eng": "CHUN TIN\nSHOPPING CENTRE",
-    "EngTime": 3,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 22,
-    "Chi": "豬怕舊邨",
-    "ChiTime": 4,
-    "Eng": "OLD GEO ESTATE",
-    "EngTime": 4,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 23,
-    "Chi": "大新中心",
-    "ChiTime": 4,
-    "Eng": "NEW CENTRE",
-    "EngTime": 3,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 1
-  },
-  {
-    "route": "N247",
-    "direction": 1,
-    "NextStop": 24,
-    "Chi": "多謝選乘豬怕巴士",
+    "route": "22",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
     "ChiTime": 5,
-    "Eng": "THANK YOU\nFOR TRAVELLING",
-    "EngTime": 4,
-    "SoundId": "rbxassetid://7010707574",
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
-  }
+  },
 ]
