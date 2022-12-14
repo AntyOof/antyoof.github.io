@@ -8447,4 +8447,100 @@
     "TimePosition": 0,
     "Notification": 0
   },
+  {
+    "route": "24",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "24",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "豬怕舊邨",
+    "ChiTime": 5,
+    "Eng": "OLD GEO ESTATE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "24",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "豬怕公園",
+    "ChiTime": 5,
+    "Eng": "GEO PARK",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "24",
+    "direction": 0,
+    "NextStop": 4
+    "Chi": "駿田商場",
+    "ChiTime": 5,
+    "Eng": "CHUN TIN\nSHOPPING MALL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "24",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "駿田閣",
+    "ChiTime": 5,
+    "Eng": "CHUN TIN COURT",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "24",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "沙嶺中心",
+    "ChiTime": 5,
+    "Eng": "SHA LENG CENTRE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "24",
+    "direction": 0,
+    "NextStop": 7,
+    "Chi": "沙朗邨",
+    "ChiTime": 5,
+    "Eng": "SHA LONG ESTATE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "24",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "沙善(寰宇路)",
+    "ChiTime": 5,
+    "Eng": "SHA SIN\n(SKYE ROAD)",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
 ]
