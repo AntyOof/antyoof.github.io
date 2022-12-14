@@ -8543,4 +8543,16 @@
     "TimePosition": 0,
     "Notification": 0
   },
+  {
+    "route": "24",
+    "direction": 0,
+    "NextStop": 9,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiTime": 5,
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
 ]
