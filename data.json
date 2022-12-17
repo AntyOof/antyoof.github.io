@@ -1,6 +1,16 @@
 {
   "fleetdata": [
     {
+      "busname": "GeoBusB8L12000G2",
+      "number": 1,
+      "carplate": "UX 681",
+      "fleetnum": "V6BL1",
+      "depot": "A",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
       "busname": "GeoBusB8L12000highway",
       "number": 1,
       "carplate": "XA 175",
