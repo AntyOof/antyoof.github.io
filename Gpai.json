@@ -253,15 +253,11 @@
   {
     "number": 24,
     "route": "23UZ",
-    "front": 2,
+    "front": 1,
     "frontid1": "rbxassetid://11863395479",
-    "frontid2": "rbxassetid://11863397050",
     "controllerid1": "rbxassetid://11868351790",
-    "controllerid2": "rbxassetid://11868352629",
-    "side": 3,
-    "sideid1": "rbxassetid://11863395479",
-    "sideid2": "rbxassetid://11863397050",
-    "sideid3": "rbxassetid://11863398806"
+    "side": 1,
+    "sideid1": "rbxassetid://11863395479"
   },
   {
     "number": 25,
