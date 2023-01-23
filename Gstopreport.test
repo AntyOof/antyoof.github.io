@@ -1,0 +1,32 @@
+[
+  {
+    "route": "0",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "0",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "0",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngSoundId": "",
+    "Notification": 0
+  }
+]
