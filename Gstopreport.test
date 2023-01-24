@@ -14,9 +14,9 @@
     "direction": 0,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://9470234826",
+    "ChiSoundId": "rbxassetid://12257700558",
     "Eng": "WELCOME ONBOARD",
-    "EngSoundId": "rbxassetid://9470226734",
+    "EngSoundId": "rbxassetid://12257521444",
     "Notification": 0
   },
   {
@@ -24,9 +24,9 @@
     "direction": 0,
     "NextStop": 3,
     "Chi": "多謝選乘豬怕巴士",
-    "ChiSoundId": "rbxassetid://9470234826",
+    "ChiSoundId": "rbxassetid://12257709302",
     "Eng": "THANK YOU\nFOR TRAVELLING",
-    "EngSoundId": "rbxassetid://9470226734",
+    "EngSoundId": "rbxassetid://12257522400",
     "Notification": 0
   }
 ]
