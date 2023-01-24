@@ -12,7 +12,7 @@
   {
     "route": "GEO",
     "direction": 0,
-    "NextStop": 1,
+    "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
     "ChiSoundId": "",
     "Eng": "WELCOME ONBOARD",
@@ -22,7 +22,7 @@
   {
     "route": "GEO",
     "direction": 0,
-    "NextStop": 1,
+    "NextStop": 3,
     "Chi": "多謝選乘豬怕巴士",
     "ChiSoundId": "",
     "Eng": "THANK YOU\nFOR TRAVELLING",
