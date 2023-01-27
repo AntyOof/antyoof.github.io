@@ -1156,7 +1156,7 @@
     "Chi": "沙怡運動場",
     "ChiSoundId": "rbxassetid://12257696288",
     "Eng": "SHA YEE\nSPORTS GROUND",
-    "EngSoundId": "rbxassetid://12257518584",
+    "EngSoundId": "rbxassetid://12290863092",
     "Notification": 1
   },
   {
@@ -1213,20 +1213,20 @@
     "route": "24H",
     "direction": 0,
     "NextStop": 15,
-    "Chi": "駿田閣",
-    "ChiSoundId": "rbxassetid://12257702316",
-    "Eng": "CHUN TIN COURT",
-    "EngSoundId": "rbxassetid://12257523552",
+    "Chi": "沙嶺邨",
+    "ChiSoundId": "rbxassetid://12285644005",
+    "Eng": "SHA LENG ESTATE",
+    "EngSoundId": "rbxassetid://12285717582",
     "Notification": 1
   },
   {
     "route": "24H",
     "direction": 0,
     "NextStop": 16,
-    "Chi": "沙嶺邨",
-    "ChiSoundId": "rbxassetid://12285644005",
-    "Eng": "SHA LENG ESTATE",
-    "EngSoundId": "rbxassetid://12285717582",
+    "Chi": "駿田閣",
+    "ChiSoundId": "rbxassetid://12257702316",
+    "Eng": "CHUN TIN COURT",
+    "EngSoundId": "rbxassetid://12257523552",
     "Notification": 1
   },
   {
@@ -1273,20 +1273,20 @@
     "route": "24H",
     "direction": 1,
     "NextStop": 3,
-    "Chi": "沙嶺邨",
-    "ChiSoundId": "rbxassetid://12285644005",
-    "Eng": "SHA LENG ESTATE",
-    "EngSoundId": "rbxassetid://12285717582",
+    "Chi": "駿田閣",
+    "ChiSoundId": "rbxassetid://12257702316",
+    "Eng": "CHUN TIN COURT",
+    "EngSoundId": "rbxassetid://12257523552",
     "Notification": 1
   },
   {
     "route": "24H",
     "direction": 1,
     "NextStop": 4,
-    "Chi": "駿田閣",
-    "ChiSoundId": "rbxassetid://12257702316",
-    "Eng": "CHUN TIN COURT",
-    "EngSoundId": "rbxassetid://12257523552",
+    "Chi": "沙嶺邨",
+    "ChiSoundId": "rbxassetid://12285644005",
+    "Eng": "SHA LENG ESTATE",
+    "EngSoundId": "rbxassetid://12285717582",
     "Notification": 1
   },
   {
@@ -1346,7 +1346,7 @@
     "Chi": "沙怡運動場",
     "ChiSoundId": "rbxassetid://12257696288",
     "Eng": "SHA YEE\nSPORTS GROUND",
-    "EngSoundId": "rbxassetid://12257518584",
+    "EngSoundId": "rbxassetid://12290863092",
     "Notification": 1
   },
   {
