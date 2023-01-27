@@ -357,7 +357,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "GEO WEST",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23",
@@ -367,7 +367,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "GEO LODGE\nSTAGE 4",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23",
@@ -377,7 +377,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "GEO TOWN CENTRE",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23",
@@ -387,7 +387,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "INTERNATIONAL SQUARE",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23",
@@ -397,7 +397,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "TAI SUN\FERRY PIERS",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23",
@@ -437,7 +437,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "MA LENG HOSPITAL",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -447,7 +447,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "HOLIDAY DAY INN EXPRESS\nMA LENG",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -457,7 +457,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "MA LENG STATION",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -467,7 +467,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "MA LENG ESTATE",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -477,7 +477,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "GEO\nSCHOOL VILLAGE",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -487,7 +487,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "GEO PARK",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -497,7 +497,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "GEO ESTATE",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -507,7 +507,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "G YEE HOUSE\nGEO ESTATE",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -517,7 +517,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "GEO SOUTH",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -557,7 +557,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "G YEE HOUSE\nGEO ESTATE",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -567,7 +567,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "G YAT HOUSE\nGEO ESTATE",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -577,7 +577,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "GEO ESTATE",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -587,7 +587,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "GEO PARK",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -597,7 +597,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "GEO SCHOOL VILLAGE",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -607,7 +607,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "MA LENG ESTATE",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -617,7 +617,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "MA LENG STATION",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -627,7 +627,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "MA LENG HOSPITAL",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
@@ -637,7 +637,7 @@
     "ChiSoundId": "rbxassetid://",
     "Eng": "MA LENG",
     "EngSoundId": "rbxassetid://",
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "23U",
