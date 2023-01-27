@@ -273,6 +273,16 @@
     "route": "23",
     "direction": 0,
     "NextStop": 5,
+    "Chi": "豬怕舊邨",
+    "ChiSoundId": "rbxassetid://12257709302",
+    "Eng": "OLD GEO ESTATE,
+    "EngSoundId": "rbxassetid://12257522400",
+    "Notification": 1
+  },
+  {
+    "route": "23",
+    "direction": 0,
+    "NextStop": 6,
     "Chi": "豬怕豪庭四期",
     "ChiSoundId": "rbxassetid://12257709302",
     "Eng": "GEO LODGE\nSTAGE 4",
@@ -282,7 +292,7 @@
   {
     "route": "23",
     "direction": 0,
-    "NextStop": 6,
+    "NextStop": 7,
     "Chi": "豬怕西",
     "ChiSoundId": "rbxassetid://12257700558",
     "Eng": "GEO WEST",
@@ -292,7 +302,7 @@
   {
     "route": "23",
     "direction": 0,
-    "NextStop": 7,
+    "NextStop": 8,
     "Chi": "豬怕邨豬逸樓",
     "ChiSoundId": "rbxassetid://12257701027",
     "Eng": "G YAT HOUSE\nGEO ESTATE",
@@ -302,7 +312,7 @@
   {
     "route": "23",
     "direction": 0,
-    "NextStop": 8,
+    "NextStop": 9,
     "Chi": "豬怕邨",
     "ChiSoundId": "rbxassetid://12257702185",
     "Eng": "GEO ESTATE",
@@ -312,7 +322,7 @@
   {
     "route": "23",
     "direction": 0,
-    "NextStop": 9,
+    "NextStop": 10,
     "Chi": "多謝選乘豬怕巴士",
     "ChiSoundId": "rbxassetid://12285327650",
     "Eng": "THANK YOU\nFOR TRAVELLING",
