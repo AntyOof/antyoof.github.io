@@ -1,7 +1,19 @@
 [
   {
-    "route": "0",
+    "route": "GEO",
     "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "GEO",
+    "direction": 1,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
     "ChiTime": 5,
@@ -999,7 +1011,7 @@
   {
     "route": "24",
     "direction": 0,
-    "NextStop": 4
+    "NextStop": 4,
     "Chi": "駿田商場",
     "ChiTime": 5,
     "Eng": "CHUN TIN\nSHOPPING MALL",
