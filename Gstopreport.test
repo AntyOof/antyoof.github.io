@@ -94,7 +94,7 @@
     "direction": 0,
     "NextStop": 8,
     "Chi": "沙嶺圍邨",
-    "ChiSoundId": "rbxassetid://12257698322",
+    "ChiSoundId": "rbxassetid://12257698213",
     "Eng": "SHA LENG WAI\nESTATE",
     "EngSoundId": "rbxassetid://12257518897",
     "Notification": 1
@@ -154,7 +154,7 @@
     "direction": 1,
     "NextStop": 4,
     "Chi": "沙嶺圍邨",
-    "ChiSoundId": "rbxassetid://12257698322",
+    "ChiSoundId": "rbxassetid://12257698213",
     "Eng": "SHA LENG WAI\nESTATE",
     "EngSoundId": "rbxassetid://12257518897",
     "Notification": 1
