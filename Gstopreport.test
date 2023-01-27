@@ -908,5 +908,725 @@
     "Eng": "THANK YOU\nFOR TRAVELLING",
     "EngSoundId": "rbxassetid://12285327925",
     "Notification": 0
-  }
+  },
+  {
+    "route": "24D",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "24D",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 0
+  },
+  {
+    "route": "24D",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "沙嶺邨",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LENG ESTATE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24D",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "駿田閣",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "CHUN TIN COURT",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24D",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "沙嶺中心",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LENG CENTRE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24D",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "沙朗邨",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LONG ESTATE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24D",
+    "direction": 0,
+    "NextStop": 7,
+    "Chi": "沙善邨",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA SIN ESTATE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24D",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiSoundId": "rbxassetid://12285327650",
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngSoundId": "rbxassetid://12285327925",
+    "Notification": 0
+  },
+  {
+    "route": "24D",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "24D",
+    "direction": 1,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 0
+  },
+  {
+    "route": "24D",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "沙朗邨",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LONG ESTATE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24D",
+    "direction": 1,
+    "NextStop": 4,
+    "Chi": "沙嶺車廠",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LENG DEPOT",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24D",
+    "direction": 1,
+    "NextStop": 5,
+    "Chi": "駿田閣",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "CHUN TIN COURT",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24D",
+    "direction": 1,
+    "NextStop": 6,
+    "Chi": "沙嶺邨",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LENG ESTATE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24D",
+    "direction": 1,
+    "NextStop": 7,
+    "Chi": "豬怕學校村",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "GEO\nSCHOOL VILLAGE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24D",
+    "direction": 1,
+    "NextStop": 8,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiSoundId": "rbxassetid://12285327650",
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngSoundId": "rbxassetid://12285327925",
+    "Notification": 0
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 0
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "豬怕市中心",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "GEO TOWN CENTRE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "豬怕雅蘭中心",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "GEO GRAND PLACE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "馬嶺站",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "MA LENG STATION",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "馬嶺",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "MA LENG",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 7,
+    "Chi": "馬嶺醫院",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "MA LENG HOSPITAL",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "馬奶邨",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "HORSE MILK ESTATE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 9,
+    "Chi": "沙怡運動場",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA YEE\nSPORTS GROUND",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 10,
+    "Chi": "柳絮大廈",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "LAU SHUI DAI HA",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 11,
+    "Chi": "沙怡道",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA YEE ROAD",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 12,
+    "Chi": "沙嶺圍驗車中心",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LENG WAI VEHICLE\nEXAMINATION CENTRE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 13,
+    "Chi": "百合臺",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "LILY TERRACE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 14,
+    "Chi": "馬嶺圍",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "MA LENG WAI",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 15,
+    "Chi": "駿田閣",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "CHUN TIN COURT",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 16,
+    "Chi": "沙嶺邨",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LENG ESTATE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 17,
+    "Chi": "沙嶺市中心",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LENG\nTOWN CENTRE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 0,
+    "NextStop": 18,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiSoundId": "rbxassetid://12285327650",
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngSoundId": "rbxassetid://12285327925",
+    "Notification": 0
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 0
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "沙嶺邨",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LENG ESTATE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 4,
+    "Chi": "駿田閣",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "CHUN TIN COURT",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 5,
+    "Chi": "馬嶺圍",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "MA LENG WAI",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 6,
+    "Chi": "沙嶺圍廣場",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LENG WAI\nSQUARE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 7,
+    "Chi": "沙嶺圍驗車中心",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LENG WAI VEHICLE\nEXAMINATION CENTRE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 8,
+    "Chi": "沙怡道",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA YEE ROAD",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 9,
+    "Chi": "柳絮大廈",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "LAU SHUI DAI HA",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 10,
+    "Chi": "沙怡運動場",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA YEE\nPORTS GROUND",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 11,
+    "Chi": "哈特蘭大球場",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "THE\nHARTLAND STADIUM",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 12,
+    "Chi": "馬嶺",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "MA LENG",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 13,
+    "Chi": "馬嶺醫院",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "MA LENG HOSPITAL",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 14,
+    "Chi": "馬嶺站",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "MA LENG STATION",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 15,
+    "Chi": "豬怕雅蘭中心",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "GEO GRAND PLACE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 16,
+    "Chi": "豬怕市中心",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "GEO TOWN CENTRE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 17,
+    "Chi": "聖保祿國際火車站",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "ST. PAUL'S\nINTERNATIONAL",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24H",
+    "direction": 1,
+    "NextStop": 18,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiSoundId": "rbxassetid://12285327650",
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngSoundId": "rbxassetid://12285327925",
+    "Notification": 0
+  },
+  {
+    "route": "24U",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "24U",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 0
+  },
+  {
+    "route": "24U",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "馬嶺智選假日酒店",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "HOLIDAY INN EXPRESS\nMA LENG",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "馬嶺站",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "MA LENG STATION",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "馬嶺邨",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "MA LENG ESTATE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "沙嶺市中心",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LENG\nTOWN CENTRE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 0,
+    "NextStop": 7,
+    "Chi": "沙嶺中心",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LENG CENTRE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "沙朗邨",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LONG ESTATE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 0,
+    "NextStop": 9,
+    "Chi": "寰宇",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "THE SKYE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 0,
+    "NextStop": 10,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiSoundId": "rbxassetid://12285327650",
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngSoundId": "rbxassetid://12285327925",
+    "Notification": 0
+  },
+  {
+    "route": "24U",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "24U",
+    "direction": 1,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 0
+  },
+  {
+    "route": "24U",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "沙朗邨",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LONG ESTATE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 1,
+    "NextStop": 4,
+    "Chi": "沙嶺車廠",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LENG DEPOT",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 1,
+    "NextStop": 5,
+    "Chi": "沙嶺市中心",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "SHA LENG\nTOWN CENTRE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 1,
+    "NextStop": 6,
+    "Chi": "馬嶺邨",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "MA LENG ESTATE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 1,
+    "NextStop": 7,
+    "Chi": "馬嶺站",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "MA LENG STATION",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 1,
+    "NextStop": 8,
+    "Chi": "哈特蘭坊",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "HARTLAND SQUARE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 1,
+    "NextStop": 9,
+    "Chi": "馬嶺",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "MA LENG",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 1,
+    "NextStop": 10,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiSoundId": "rbxassetid://12285327650",
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngSoundId": "rbxassetid://12285327925",
+    "Notification": 0
+  },
 ]
