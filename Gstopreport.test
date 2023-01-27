@@ -55,7 +55,7 @@
     "NextStop": 4,
     "Chi": "馬嶺站",
     "ChiSoundId": "rbxassetid://12257709138",
-    "Eng": "WMA LENG STATION",
+    "Eng": "MA LENG STATION",
     "EngSoundId": "rbxassetid://12257520094",
     "Notification": 1
   },
@@ -195,7 +195,7 @@
     "NextStop": 8,
     "Chi": "馬嶺站",
     "ChiSoundId": "rbxassetid://12257709138",
-    "Eng": "WMA LENG STATION",
+    "Eng": "MA LENG STATION",
     "EngSoundId": "rbxassetid://12257520094",
     "Notification": 1
   },
