@@ -383,6 +383,16 @@
     "route": "23",
     "direction": 1,
     "NextStop": 6,
+    "Chi": "豬怕舊邨",
+    "ChiSoundId": "rbxassetid://12257709302",
+    "Eng": "OLD GEO ESTATE",
+    "EngSoundId": "rbxassetid://12257522400",
+    "Notification": 1
+  },
+  {
+    "route": "23",
+    "direction": 1,
+    "NextStop": 7,
     "Chi": "豬怕市中心",
     "ChiSoundId": "rbxassetid://12257700687",
     "Eng": "GEO TOWN CENTRE",
@@ -392,7 +402,7 @@
   {
     "route": "23",
     "direction": 1,
-    "NextStop": 7,
+    "NextStop": 8,
     "Chi": "車站廣場",
     "ChiSoundId": "rbxassetid://12257700015",
     "Eng": "INTERNATIONAL\nSQUARE",
@@ -402,7 +412,7 @@
   {
     "route": "23",
     "direction": 1,
-    "NextStop": 8,
+    "NextStop": 9,
     "Chi": "大新碼頭",
     "ChiSoundId": "rbxassetid://12257695776",
     "Eng": "TAI SUN\nFERRY PIERS",
@@ -412,7 +422,7 @@
   {
     "route": "23",
     "direction": 1,
-    "NextStop": 9,
+    "NextStop": 10,
     "Chi": "多謝選乘豬怕巴士",
     "ChiSoundId": "rbxassetid://12285327650",
     "Eng": "THANK YOU\nFOR TRAVELLING",
