@@ -274,9 +274,9 @@
     "direction": 0,
     "NextStop": 5,
     "Chi": "豬怕舊邨",
-    "ChiSoundId": "rbxassetid://12257709302",
+    "ChiSoundId": "rbxassetid://12257698419",
     "Eng": "OLD GEO ESTATE",
-    "EngSoundId": "rbxassetid://12257522400",
+    "EngSoundId": "rbxassetid://12257519257",
     "Notification": 1
   },
   {
@@ -384,9 +384,9 @@
     "direction": 1,
     "NextStop": 6,
     "Chi": "豬怕舊邨",
-    "ChiSoundId": "rbxassetid://12257709302",
+    "ChiSoundId": "rbxassetid://12257698419",
     "Eng": "OLD GEO ESTATE",
-    "EngSoundId": "rbxassetid://12257522400",
+    "EngSoundId": "rbxassetid://12257519257",
     "Notification": 1
   },
   {
