@@ -24,7 +24,7 @@
     "direction": 0,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "",
+    "ChiSoundId": "rbxassetid://12325302256",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "",
     "Notification": 0
@@ -34,7 +34,7 @@
     "direction": 0,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://12300668239",
+    "ChiSoundId": "rbxassetid://12325244566",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "rbxassetid://12300414559",
     "Notification": 0
@@ -124,7 +124,7 @@
     "direction": 1,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "",
+    "ChiSoundId": "rbxassetid://12325302256",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "",
     "Notification": 0
@@ -134,7 +134,7 @@
     "direction": 1,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://12300666755",
+    "ChiSoundId": "rbxassetid://12325244153",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "rbxassetid://12300410514",
     "Notification": 0
@@ -234,7 +234,7 @@
     "direction": 0,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "",
+    "ChiSoundId": "rbxassetid://12325302256",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "",
     "Notification": 0
@@ -244,7 +244,7 @@
     "direction": 0,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://12300659450",
+    "ChiSoundId": "rbxassetid://12325243159",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "rbxassetid://12300428946",
     "Notification": 0
@@ -334,7 +334,7 @@
     "direction": 1,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "",
+    "ChiSoundId": "rbxassetid://12325302256",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "",
     "Notification": 0
@@ -344,7 +344,7 @@
     "direction": 1,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://12300657798",
+    "ChiSoundId": "rbxassetid://12325242513",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "rbxassetid://12300426084",
     "Notification": 0
@@ -434,7 +434,7 @@
     "direction": 0,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "",
+    "ChiSoundId": "rbxassetid://12325302256",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "",
     "Notification": 0
@@ -444,7 +444,7 @@
     "direction": 0,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://12300655221",
+    "ChiSoundId": "rbxassetid://12325242087",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "rbxassetid://12300421502",
     "Notification": 0
@@ -554,7 +554,7 @@
     "direction": 1,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "",
+    "ChiSoundId": "rbxassetid://12325302256",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "",
     "Notification": 0
@@ -564,7 +564,7 @@
     "direction": 1,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://12300669560",
+    "ChiSoundId": "rbxassetid://12325244879",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "rbxassetid://12300420209",
     "Notification": 0
@@ -674,7 +674,7 @@
     "direction": 0,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "",
+    "ChiSoundId": "rbxassetid://12325302256",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "",
     "Notification": 0
@@ -684,7 +684,7 @@
     "direction": 0,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://12300672235",
+    "ChiSoundId": "rbxassetid://12325246478",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "rbxassetid://12300676230",
     "Notification": 0
@@ -804,7 +804,7 @@
     "direction": 1,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "",
+    "ChiSoundId": "rbxassetid://12325302256",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "",
     "Notification": 0
@@ -814,7 +814,7 @@
     "direction": 1,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://12300673142",
+    "ChiSoundId": "rbxassetid://12325246222",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "rbxassetid://12300675122",
     "Notification": 0
@@ -934,7 +934,7 @@
     "direction": 0,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "",
+    "ChiSoundId": "rbxassetid://12325302256",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "",
     "Notification": 0
@@ -944,7 +944,7 @@
     "direction": 0,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://12300661991",
+    "ChiSoundId": "rbxassetid://12325243794",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "rbxassetid://12300433913",
     "Notification": 0
@@ -1014,7 +1014,7 @@
     "direction": 1,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "",
+    "ChiSoundId": "rbxassetid://12325302256",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "",
     "Notification": 0
@@ -1024,7 +1024,7 @@
     "direction": 1,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://12300660685",
+    "ChiSoundId": "rbxassetid://12325243535",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "rbxassetid://12300433004",
     "Notification": 0
@@ -1094,7 +1094,7 @@
     "direction": 0,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "",
+    "ChiSoundId": "rbxassetid://12325302256",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "",
     "Notification": 0
@@ -1104,7 +1104,7 @@
     "direction": 0,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://12300665065",
+    "ChiSoundId": "rbxassetid://12325245185",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "rbxassetid://12300441287",
     "Notification": 0
@@ -1274,7 +1274,7 @@
     "direction": 1,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "",
+    "ChiSoundId": "rbxassetid://12325302256",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "",
     "Notification": 0
@@ -1284,7 +1284,7 @@
     "direction": 1,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://12300663646",
+    "ChiSoundId": "rbxassetid://12325246856",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "rbxassetid://12300439261",
     "Notification": 0
@@ -1454,7 +1454,7 @@
     "direction": 0,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "",
+    "ChiSoundId": "rbxassetid://12325302256",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "",
     "Notification": 0
@@ -1464,7 +1464,7 @@
     "direction": 0,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://12300670619",
+    "ChiSoundId": "rbxassetid://12325245835",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "rbxassetid://12300445813",
     "Notification": 0
@@ -1554,7 +1554,7 @@
     "direction": 1,
     "NextStop": 1,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "",
+    "ChiSoundId": "rbxassetid://12325302256",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "",
     "Notification": 0
@@ -1564,7 +1564,7 @@
     "direction": 1,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://12300674021",
+    "ChiSoundId": "rbxassetid://12325245381",
     "Eng": "WELCOME ONBOARD",
     "EngSoundId": "rbxassetid://12300444379",
     "Notification": 0
