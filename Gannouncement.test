@@ -23,7 +23,7 @@
   {
     "name": "Bell",
     "number": 4,
-    "texture": "rbxassetid://12448032913,rbxassetid://12448033117,rbxassetid://12448032765,rbxassetid://12448032598,rbxassetid://12448032442,rbxassetid://12448032278",
+    "texture": "rbxassetid://12448033117,rbxassetid://12448032913,rbxassetid://12448032765,rbxassetid://12448032598,rbxassetid://12448032442,rbxassetid://12448032278",
     "chisound": "",
     "engsound": ""
   }
