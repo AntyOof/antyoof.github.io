@@ -2,7 +2,7 @@
   {
     "name": "Handrail",
     "number": 1,
-    "texture": "rbxassetid://12407905111,rbxassetid://12407907478,rbxassetid://12407910258,rbxassetid://12407909263,rbxassetid://12407912595,rbxassetid://12407913467,rbxassetid://12407914277,rbxassetid://12407915066", 
+    "texture": "rbxassetid://12407905111,rbxassetid://12407907478,rbxassetid://12407909263,rbxassetid://12407910258,rbxassetid://12407912595,rbxassetid://12407913467,rbxassetid://12407914277,rbxassetid://12407915066", 
     "chisound": "",
     "engsound": ""
   },
@@ -23,7 +23,7 @@
   {
     "name": "Bell",
     "number": 4,
-    "texture": "rbxassetid://12448033117,rbxassetid://12448032913,rbxassetid://12448032765,rbxassetid://12448032598,rbxassetid://12448032278,rbxassetid://12448032442",
+    "texture": "rbxassetid://12448033117,rbxassetid://12448032913,rbxassetid://12448032765,rbxassetid://12448032598,rbxassetid://12448032442,rbxassetid://12448032278",
     "chisound": "",
     "engsound": ""
   }
