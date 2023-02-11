@@ -1,11 +1,26 @@
-{
-  "random": [
-    "rbxassetid://12407905111,rbxassetid://12407907478,rbxassetid://12407909263,rbxassetid://12407910258,rbxassetid://12407912595,rbxassetid://12407913467,rbxassetid://12407914277,rbxassetid://12407915066", 
-    "rbxassetid://12447874085,rbxassetid://12447873854,rbxassetid://12447873677,rbxassetid://12447873572,rbxassetid://12447873473,rbxassetid://12447873370,rbxassetid://12447873249",
-    "rbxassetid://12448025343,rbxassetid://12448025086,rbxassetid://12448024955,rbxassetid://12448024820,rbxassetid://12448024612", 
-    "rbxassetid://12448032913,rbxassetid://12448033117,rbxassetid://12448032765,rbxassetid://12448032598,rbxassetid://12448032442,rbxassetid://12448032278"
-  ],
-  "driver": [
-    
-  ]
-}
+[
+  {
+    "name": "Handrail",
+    "number": 1,
+    "texture": "rbxassetid://12407905111,rbxassetid://12407907478,rbxassetid://12407909263,rbxassetid://12407910258,rbxassetid://12407912595,rbxassetid://12407913467,rbxassetid://12407914277,rbxassetid://12407915066", 
+    "sound": ""
+  },
+  {
+    "name": "Seatbelt",
+    "number": 2,
+    "texture": "rbxassetid://12447874085,rbxassetid://12447873854,rbxassetid://12447873677,rbxassetid://12447873572,rbxassetid://12447873473,rbxassetid://12447873370,rbxassetid://12447873249",
+    "sound": ""
+  },
+  {
+    "name": "Mask",
+    "number": 3,
+    "texture": "rbxassetid://12448025343,rbxassetid://12448025086,rbxassetid://12448024955,rbxassetid://12448024820,rbxassetid://12448024612", 
+    "sound": ""
+  },
+  {
+    "name": "Bell",
+    "number": 4,
+    "texture": "rbxassetid://12448032913,rbxassetid://12448033117,rbxassetid://12448032765,rbxassetid://12448032598,rbxassetid://12448032442,rbxassetid://12448032278",
+    "sound": ""
+  }
+]
