@@ -244,9 +244,9 @@
     "direction": 0,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://",
+    "ChiSoundId": "rbxassetid://12953174998",
     "Eng": "WELCOME ONBOARD",
-    "EngSoundId": "rbxassetid://",
+    "EngSoundId": "rbxassetid://12953176796",
     "Notification": 0
   },
   {
@@ -294,9 +294,9 @@
     "direction": 1,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiSoundId": "rbxassetid://",
+    "ChiSoundId": "rbxassetid://12953175144",
     "Eng": "WELCOME ONBOARD",
-    "EngSoundId": "rbxassetid://",
+    "EngSoundId": "rbxassetid://12953177085",
     "Notification": 0
   },
   {
@@ -314,9 +314,9 @@
     "direction": 1,
     "NextStop": 4,
     "Chi": "沙嶺國殤紀念墳場",
-    "ChiSoundId": "rbxassetid://",
+    "ChiSoundId": "rbxassetid://12953158214",
     "Eng": "SHA LENG\nWAR CEMETERY",
-    "EngSoundId": "rbxassetid://",
+    "EngSoundId": "rbxassetid://12953154330",
     "Notification": 1
   },
   {
@@ -334,9 +334,9 @@
     "direction": 1,
     "NextStop": 6,
     "Chi": "沙嶺墳場",
-    "ChiSoundId": "rbxassetid://",
+    "ChiSoundId": "rbxassetid://12953158406",
     "Eng": "SHA LENG CEMETERY",
-    "EngSoundId": "rbxassetid://",
+    "EngSoundId": "rbxassetid://12953154766",
     "Notification": 1
   },
   {
