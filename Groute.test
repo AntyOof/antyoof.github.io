@@ -1,0 +1,122 @@
+[
+  {
+    "number": 0,
+    "route": "GEO",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 1,
+    "route": "22",
+    "destZ": "沙嶺圍",
+    "destY": "大新中心",
+    "maxPZ": "1",
+    "priceZ1": "4.3",
+    "halfpriceZ1": "2.2",
+    "maxPY": "1",
+    "priceY1": "4.3",
+    "halfpriceY1": "2.2"
+  },
+  {
+    "number": 2,
+    "route": "22C",
+    "destZ": "馬嶺站",
+    "destY": "沙嶺墳場",
+    "maxPZ": "1",
+    "priceZ1": "5.6",
+    "halfpriceZ1": "2.8",
+    "maxPY": "1",
+    "priceY1": "5.6",
+    "halfpriceY1": "2.8"
+  },
+  {
+    "number": 3,
+    "route": "23",
+    "destZ": "豬怕邨",
+    "destY": "大新碼頭",
+    "maxPZ": "1",
+    "priceZ1": "4.3",
+    "halfpriceZ1": "2.2",
+    "maxPY": "1",
+    "priceY1": "4.3",
+    "halfpriceY1": "2.2"
+  },
+  {
+    "number": 4,
+    "route": "23U",
+    "destZ": "豬怕南",
+    "destY": "馬嶺",
+    "maxPZ": "1",
+    "priceZ1": "4.3",
+    "halfpriceZ1": "2.2",
+    "maxPY": "1",
+    "priceY1": "4.3",
+    "halfpriceY1": "2.2"
+  },
+  {
+    "number": 5,
+    "route": "24",
+    "destZ": "沙善邨",
+    "destY": "大新碼頭",
+    "maxPZ": "1",
+    "priceZ1": "4.3",
+    "halfpriceZ1": "2.2",
+    "maxPY": "1",
+    "priceY1": "4.3",
+    "halfpriceY1": "2.2"
+  },
+  {
+    "number": 6,
+    "route": "24D",
+    "destZ": "沙善邨",
+    "destY": "豬怕學校村",
+    "maxPZ": "1",
+    "priceZ1": "4.3",
+    "halfpriceZ1": "2.2",
+    "maxPY": "1",
+    "priceY1": "4.3",
+    "halfpriceY1": "2.2"
+  },
+  {
+    "number": 7,
+    "route": "24H",
+    "destZ": "沙嶺市中心",
+    "destY": "聖保祿火車站",
+    "maxPZ": "1",
+    "priceZ1": "4.3",
+    "halfpriceZ1": "2.2",
+    "maxPY": "1",
+    "priceY1": "4.3",
+    "halfpriceY1": "2.2"
+  },
+  {
+    "number": 8,
+    "route": "24U",
+    "destZ": "寰宇",
+    "destY": "馬嶺",
+    "maxPZ": "1",
+    "priceZ1": "4.3",
+    "halfpriceZ1": "2.2",
+    "maxPY": "1",
+    "priceY1": "4.3",
+    "halfpriceY1": "2.2"
+  },
+  {
+    "number": 9,
+    "route": "N23",
+    "destZ": "豬怕邨",
+    "destY": "馬嶺(哈特蘭大球場)",
+    "maxPZ": "1",
+    "priceZ1": "5.9",
+    "halfpriceZ1": "3.0",
+    "maxPY": "1",
+    "priceY1": "5.9",
+    "halfpriceY1": "3.0"
+  }  
+]
