@@ -1,5 +1,15 @@
 [
   {
+    "route": "",
+    "direction": 0,
+    "nextstop": 1,
+    "chi": "歡迎乘搭豬怕巴士",
+    "chisound": "",
+    "eng": "Welcome Onboard",
+    "engsound": "",
+    "notification": 0
+  },
+  {
     "route": "GEO",
     "direction": 0,
     "NextStop": 1,
