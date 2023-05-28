@@ -861,6 +861,16 @@
       "backad": "rbxassetid://"
     },
     {
+      "busname": "GeoBusA9512800",
+      "number": 1,
+      "carplate": "YP 1984",
+      "fleetnum": "M6X1",
+      "depot": "A",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
       "busname": "GeoBusStreetdeck10650",
       "number": 1,
       "carplate": "XP 5015",
