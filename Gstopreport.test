@@ -9,7 +9,7 @@
     "engsound": "",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 0
   },
   {
@@ -42,7 +42,7 @@
     "engsound": "",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 0
   },
   {
@@ -55,7 +55,7 @@
     "engsound": "rbxassetid://12300414559",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 0
   },
   {
@@ -68,7 +68,7 @@
     "engsound": "rbxassetid://12257523335",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -81,7 +81,7 @@
     "engsound": "rbxassetid://12257520094",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -94,7 +94,7 @@
     "engsound": "rbxassetid://12257519966",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -107,7 +107,7 @@
     "engsound": "rbxassetid://12257519854",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -120,7 +120,7 @@
     "engsound": "rbxassetid://12257519004",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -133,7 +133,7 @@
     "engsound": "rbxassetid://12257518897",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -146,7 +146,7 @@
     "engsound": "rbxassetid://12257519130",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -159,7 +159,7 @@
     "engsound": "rbxassetid://12285327925",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 0
   },
   {
@@ -172,7 +172,7 @@
     "engsound": "",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 0
   },
   {
@@ -185,7 +185,7 @@
     "engsound": "rbxassetid://12300410514",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 0
   },
   {
@@ -198,7 +198,7 @@
     "engsound": "rbxassetid://12257520371",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -211,7 +211,7 @@
     "engsound": "rbxassetid://12257518897",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -224,7 +224,7 @@
     "engsound": "rbxassetid://12257519004",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -237,7 +237,7 @@
     "engsound": "rbxassetid://12257519854",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -250,7 +250,7 @@
     "engsound": "rbxassetid://12257519966",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -263,7 +263,7 @@
     "engsound": "rbxassetid://12257520094",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -276,7 +276,7 @@
     "engsound": "rbxassetid://12257523335",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -289,7 +289,7 @@
     "engsound": "rbxassetid://12257518701",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 1
   },
   {
@@ -302,7 +302,7 @@
     "engsound": "rbxassetid://12285327925",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "rbxassetid://13755274576",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 0
   },
   {
