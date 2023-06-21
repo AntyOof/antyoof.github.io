@@ -2,7 +2,7 @@
   {
     "route": "",
     "direction": 0,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "",
     "eng": "Welcome Onboard",
@@ -15,7 +15,7 @@
   {
     "route": "GEO",
     "direction": 0,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "",
     "eng": "WELCOME ONBOARD",
@@ -25,7 +25,7 @@
   {
     "route": "GEO",
     "direction": 1,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "",
     "eng": "WELCOME ONBOARD",
@@ -35,7 +35,7 @@
   {
     "route": "22",
     "direction": 0,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -48,7 +48,7 @@
   {
     "route": "22",
     "direction": 0,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325244566",
     "eng": "WELCOME ONBOARD",
@@ -61,98 +61,98 @@
   {
     "route": "22",
     "direction": 0,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "皇后徑",
     "chisound": "rbxassetid://12257701416",
     "eng": "EMPRESS RISE",
     "engsound": "rbxassetid://12257523335",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
+    "arrtexture": "rbxassetid://13816999552",
+    "texture": "rbxassetid://13817000684,rbxassetid://13817001327",
+    "stoptexture": "rbxassetid://13817002037",
+    "notification": 1
+  },
+  {
+    "route": "22",
+    "direction": 0,
+    "nextstop": 3,
+    "chi": "馬嶺站",
+    "chisound": "rbxassetid://12257709138",
+    "eng": "MA LENG STATION",
+    "engsound": "rbxassetid://12257520094",
+    "arrtexture": "rbxassetid://13817013623",
+    "texture": "rbxassetid://13817013507,rbxassetid://13817013343",
+    "stoptexture": "rbxassetid://13817013224",
     "notification": 1
   },
   {
     "route": "22",
     "direction": 0,
     "nextstop": 4,
-    "chi": "馬嶺站",
-    "chisound": "rbxassetid://12257709138",
-    "eng": "MA LENG STATION",
-    "engsound": "rbxassetid://12257520094",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
+    "chi": "馬嶺邨",
+    "chisound": "rbxassetid://12257699645",
+    "eng": "MA LENG ESTATE",
+    "engsound": "rbxassetid://12257519966",
+    "arrtexture": "rbxassetid://13817017870",
+    "texture": "rbxassetid://13817019956,rbxassetid://13817017606",
+    "stoptexture": "rbxassetid://13817017499",
     "notification": 1
   },
   {
     "route": "22",
     "direction": 0,
     "nextstop": 5,
-    "chi": "馬嶺邨",
-    "chisound": "rbxassetid://12257699645",
-    "eng": "MA LENG ESTATE",
-    "engsound": "rbxassetid://12257519966",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
+    "chi": "馬嶺圍",
+    "chisound": "rbxassetid://12257699504",
+    "eng": "MA LENG WAI",
+    "engsound": "rbxassetid://12257519854",
+    "arrtexture": "rbxassetid://13817017426",
+    "texture": "rbxassetid://13817017285,rbxassetid://13817017152",
+    "stoptexture": "rbxassetid://13817017014",
     "notification": 1
   },
   {
     "route": "22",
     "direction": 0,
     "nextstop": 6,
-    "chi": "馬嶺圍",
-    "chisound": "rbxassetid://12257699504",
-    "eng": "MA LENG WAI",
-    "engsound": "rbxassetid://12257519854",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
+    "chi": "沙嶺圍廣場",
+    "chisound": "rbxassetid://12257697772",
+    "eng": "SHA LENG WAI\nSQUARE",
+    "engsound": "rbxassetid://12257519004",
+    "arrtexture": "rbxassetid://13817015645",
+    "texture": "rbxassetid://13817015492,rbxassetid://13817015270,rbxassetid://13817015092",
+    "stoptexture": "rbxassetid://13817014929",
     "notification": 1
   },
   {
     "route": "22",
     "direction": 0,
     "nextstop": 7,
-    "chi": "沙嶺圍廣場",
-    "chisound": "rbxassetid://12257697772",
-    "eng": "SHA LENG WAI\nSQUARE",
-    "engsound": "rbxassetid://12257519004",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
+    "chi": "沙嶺圍邨",
+    "chisound": "rbxassetid://12257698213",
+    "eng": "SHA LENG WAI\nESTATE",
+    "engsound": "rbxassetid://12257518897",
+    "arrtexture": "rbxassetid://13817016428",
+    "texture": "rbxassetid://13817016307,rbxassetid://13817016153,rbxassetid://13817015955",
+    "stoptexture": "rbxassetid://13817015775",
     "notification": 1
   },
   {
     "route": "22",
     "direction": 0,
     "nextstop": 8,
-    "chi": "沙嶺圍邨",
-    "chisound": "rbxassetid://12257698213",
-    "eng": "SHA LENG WAI\nESTATE",
-    "engsound": "rbxassetid://12257518897",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
+    "chi": "沙嶺圍",
+    "chisound": "rbxassetid://12257697900",
+    "eng": "SHA LENG WAI",
+    "engsound": "rbxassetid://12257519130",
+    "arrtexture": "rbxassetid://13817016899",
+    "texture": "rbxassetid://13817016751,rbxassetid://13817016634",
+    "stoptexture": "rbxassetid://13817016539",
     "notification": 1
   },
   {
     "route": "22",
     "direction": 0,
     "nextstop": 9,
-    "chi": "沙嶺圍",
-    "chisound": "rbxassetid://12257697900",
-    "eng": "SHA LENG WAI",
-    "engsound": "rbxassetid://12257519130",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
-    "notification": 1
-  },
-  {
-    "route": "22",
-    "direction": 0,
-    "nextstop": 10,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -165,7 +165,7 @@
   {
     "route": "22",
     "direction": 1,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -178,7 +178,7 @@
   {
     "route": "22",
     "direction": 1,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325244153",
     "eng": "WELCOME ONBOARD",
@@ -191,7 +191,7 @@
   {
     "route": "22",
     "direction": 1,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "百合臺",
     "chisound": "rbxassetid://12257699910",
     "eng": "LILY TERRACE",
@@ -204,7 +204,7 @@
   {
     "route": "22",
     "direction": 1,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "沙嶺圍邨",
     "chisound": "rbxassetid://12257698213",
     "eng": "SHA LENG WAI\nESTATE",
@@ -217,7 +217,7 @@
   {
     "route": "22",
     "direction": 1,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "沙嶺圍廣場",
     "chisound": "rbxassetid://12257697772",
     "eng": "SHA LENG WAI\nSQUARE",
@@ -230,7 +230,7 @@
   {
     "route": "22",
     "direction": 1,
-    "nextstop": 6,
+    "nextstop": 5,
     "chi": "馬嶺圍",
     "chisound": "rbxassetid://12257699504",
     "eng": "MA LENG WAI",
@@ -243,7 +243,7 @@
   {
     "route": "22",
     "direction": 1,
-    "nextstop": 7,
+    "nextstop": 6,
     "chi": "馬嶺邨",
     "chisound": "rbxassetid://12257699645",
     "eng": "MA LENG ESTATE",
@@ -256,7 +256,7 @@
   {
     "route": "22",
     "direction": 1,
-    "nextstop": 8,
+    "nextstop": 7,
     "chi": "馬嶺站",
     "chisound": "rbxassetid://12257709138",
     "eng": "MA LENG STATION",
@@ -269,7 +269,7 @@
   {
     "route": "22",
     "direction": 1,
-    "nextstop": 9,
+    "nextstop": 8,
     "chi": "皇后徑",
     "chisound": "rbxassetid://12257701416",
     "eng": "EMPRESS RISE",
@@ -282,7 +282,7 @@
   {
     "route": "22",
     "direction": 1,
-    "nextstop": 10,
+    "nextstop": 9,
     "chi": "大新中心",
     "chisound": "rbxassetid://12257708933",
     "eng": "TAI SUN CENTRE",
@@ -295,7 +295,7 @@
   {
     "route": "22",
     "direction": 1,
-    "nextstop": 11,
+    "nextstop": 10,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -308,7 +308,7 @@
   {
     "route": "22C",
     "direction": 0,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -318,7 +318,7 @@
   {
     "route": "22C",
     "direction": 0,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12953174998",
     "eng": "WELCOME ONBOARD",
@@ -328,7 +328,7 @@
   {
     "route": "22C",
     "direction": 0,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "馬嶺邨",
     "chisound": "rbxassetid://12257699645",
     "eng": "MA LENG ESTATE",
@@ -338,7 +338,7 @@
   {
     "route": "22C",
     "direction": 0,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "馬嶺站",
     "chisound": "rbxassetid://12257709138",
     "eng": "MA LENG STATION",
@@ -348,7 +348,7 @@
   {
     "route": "22C",
     "direction": 0,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -358,7 +358,7 @@
   {
     "route": "22C",
     "direction": 1,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -368,7 +368,7 @@
   {
     "route": "22C",
     "direction": 1,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12953175144",
     "eng": "WELCOME ONBOARD",
@@ -378,7 +378,7 @@
   {
     "route": "22C",
     "direction": 1,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "馬嶺邨",
     "chisound": "rbxassetid://12257699645",
     "eng": "MA LENG ESTATE",
@@ -388,7 +388,7 @@
   {
     "route": "22C",
     "direction": 1,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "沙嶺國殤紀念墳場",
     "chisound": "rbxassetid://12953158214",
     "eng": "SHA LENG\nWAR CEMETERY",
@@ -398,7 +398,7 @@
   {
     "route": "22C",
     "direction": 1,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "豬怕天主教基督教聯會沙嶺墳場道墳場",
     "chisound": "rbxassetid://12953158699",
     "eng": "GCCCU SHA LENG\nCEMETERY ROAD CEMETERY",
@@ -408,7 +408,7 @@
   {
     "route": "22C",
     "direction": 1,
-    "nextstop": 6,
+    "nextstop": 5,
     "chi": "沙嶺墳場",
     "chisound": "rbxassetid://12953158406",
     "eng": "SHA LENG CEMETERY",
@@ -418,7 +418,7 @@
   {
     "route": "22C",
     "direction": 1,
-    "nextstop": 7,
+    "nextstop": 6,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -428,7 +428,7 @@
   {
     "route": "23",
     "direction": 0,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -438,7 +438,7 @@
   {
     "route": "23",
     "direction": 0,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325243159",
     "eng": "WELCOME ONBOARD",
@@ -448,7 +448,7 @@
   {
     "route": "23",
     "direction": 0,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "車站廣場",
     "chisound": "rbxassetid://12257700015",
     "eng": "INTERNATIONAL\nSQUARE",
@@ -458,7 +458,7 @@
   {
     "route": "23",
     "direction": 0,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "豬怕市中心",
     "chisound": "rbxassetid://12257700687",
     "eng": "GEO TOWN CENTRE",
@@ -468,7 +468,7 @@
   {
     "route": "23",
     "direction": 0,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "豬怕舊邨",
     "chisound": "rbxassetid://12257698419",
     "eng": "OLD GEO ESTATE",
@@ -478,7 +478,7 @@
   {
     "route": "23",
     "direction": 0,
-    "nextstop": 6,
+    "nextstop": 5,
     "chi": "豬怕豪庭四期",
     "chisound": "rbxassetid://12257709302",
     "eng": "GEO LODGE\nSTAGE 4",
@@ -488,7 +488,7 @@
   {
     "route": "23",
     "direction": 0,
-    "nextstop": 7,
+    "nextstop": 6,
     "chi": "豬怕西",
     "chisound": "rbxassetid://12257700558",
     "eng": "GEO WEST",
@@ -498,7 +498,7 @@
   {
     "route": "23",
     "direction": 0,
-    "nextstop": 8,
+    "nextstop": 7,
     "chi": "豬怕邨豬逸樓",
     "chisound": "rbxassetid://12257701027",
     "eng": "G YAT HOUSE\nGEO ESTATE",
@@ -508,7 +508,7 @@
   {
     "route": "23",
     "direction": 0,
-    "nextstop": 9,
+    "nextstop": 8,
     "chi": "豬怕邨",
     "chisound": "rbxassetid://12257702185",
     "eng": "GEO ESTATE",
@@ -518,7 +518,7 @@
   {
     "route": "23",
     "direction": 0,
-    "nextstop": 10,
+    "nextstop": 9,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -528,7 +528,7 @@
   {
     "route": "23",
     "direction": 1,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -538,7 +538,7 @@
   {
     "route": "23",
     "direction": 1,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325242513",
     "eng": "WELCOME ONBOARD",
@@ -548,7 +548,7 @@
   {
     "route": "23",
     "direction": 1,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "豬怕邨豬逸樓",
     "chisound": "rbxassetid://12257701027",
     "eng": "G YAT HOUSE\nGEO ESTATE",
@@ -558,7 +558,7 @@
   {
     "route": "23",
     "direction": 1,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "豬怕西",
     "chisound": "rbxassetid://12257700558",
     "eng": "GEO WEST",
@@ -568,7 +568,7 @@
   {
     "route": "23",
     "direction": 1,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "豬怕豪庭四期",
     "chisound": "rbxassetid://12257709302",
     "eng": "GEO LODGE\nSTAGE 4",
@@ -578,7 +578,7 @@
   {
     "route": "23",
     "direction": 1,
-    "nextstop": 6,
+    "nextstop": 5,
     "chi": "豬怕舊邨",
     "chisound": "rbxassetid://12257698419",
     "eng": "OLD GEO ESTATE",
@@ -588,7 +588,7 @@
   {
     "route": "23",
     "direction": 1,
-    "nextstop": 7,
+    "nextstop": 6,
     "chi": "豬怕市中心",
     "chisound": "rbxassetid://12257700687",
     "eng": "GEO TOWN CENTRE",
@@ -598,7 +598,7 @@
   {
     "route": "23",
     "direction": 1,
-    "nextstop": 8,
+    "nextstop": 7,
     "chi": "車站廣場",
     "chisound": "rbxassetid://12257700015",
     "eng": "INTERNATIONAL\nSQUARE",
@@ -608,7 +608,7 @@
   {
     "route": "23",
     "direction": 1,
-    "nextstop": 9,
+    "nextstop": 8,
     "chi": "大新碼頭",
     "chisound": "rbxassetid://12257695776",
     "eng": "TAI SUN\nFERRY PIERS",
@@ -618,7 +618,7 @@
   {
     "route": "23",
     "direction": 1,
-    "nextstop": 10,
+    "nextstop": 9,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -628,7 +628,7 @@
   {
     "route": "23U",
     "direction": 0,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -638,7 +638,7 @@
   {
     "route": "23U",
     "direction": 0,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325242087",
     "eng": "WELCOME ONBOARD",
@@ -648,7 +648,7 @@
   {
     "route": "23U",
     "direction": 0,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "馬嶺醫院",
     "chisound": "rbxassetid://12257699295",
     "eng": "MA LENG HOSPITAL",
@@ -658,7 +658,7 @@
   {
     "route": "23U",
     "direction": 0,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "馬嶺智選假日酒店",
     "chisound": "rbxassetid://12257700858",
     "eng": "HOLIDAY INN EXPRESS\nMA LENG",
@@ -668,7 +668,7 @@
   {
     "route": "23U",
     "direction": 0,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "馬嶺站",
     "chisound": "rbxassetid://12257709138",
     "eng": "MA LENG STATION",
@@ -678,7 +678,7 @@
   {
     "route": "23U",
     "direction": 0,
-    "nextstop": 6,
+    "nextstop": 5,
     "chi": "馬嶺邨",
     "chisound": "rbxassetid://12257699645",
     "eng": "MA LENG ESTATE",
@@ -688,7 +688,7 @@
   {
     "route": "23U",
     "direction": 0,
-    "nextstop": 7,
+    "nextstop": 6,
     "chi": "豬怕學校村",
     "chisound": "rbxassetid://12257701185",
     "eng": "GEO\nSCHOOL VILLAGE",
@@ -698,7 +698,7 @@
   {
     "route": "23U",
     "direction": 0,
-    "nextstop": 8,
+    "nextstop": 7,
     "chi": "豬怕公園",
     "chisound": "rbxassetid://12257701508",
     "eng": "GEO PARK",
@@ -708,7 +708,7 @@
   {
     "route": "23U",
     "direction": 0,
-    "nextstop": 9,
+    "nextstop": 8,
     "chi": "豬怕邨",
     "chisound": "rbxassetid://12257702185",
     "eng": "GEO ESTATE",
@@ -718,7 +718,7 @@
   {
     "route": "23U",
     "direction": 0,
-    "nextstop": 10,
+    "nextstop": 9,
     "chi": "豬怕邨豬逸樓",
     "chisound": "rbxassetid://12257701027",
     "eng": "G YAT HOUSE\nGEO ESTATE",
@@ -728,7 +728,7 @@
   {
     "route": "23U",
     "direction": 0,
-    "nextstop": 11,
+    "nextstop": 10,
     "chi": "豬怕南",
     "chisound": "rbxassetid://12257700230",
     "eng": "GEO SOUTH",
@@ -738,7 +738,7 @@
   {
     "route": "23U",
     "direction": 0,
-    "nextstop": 12,
+    "nextstop": 11,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -748,7 +748,7 @@
   {
     "route": "23U",
     "direction": 1,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -758,7 +758,7 @@
   {
     "route": "23U",
     "direction": 1,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325244879",
     "eng": "WELCOME ONBOARD",
@@ -768,7 +768,7 @@
   {
     "route": "23U",
     "direction": 1,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "豬怕邨豬怡樓",
     "chisound": "rbxassetid://12257700427",
     "eng": "G YEE HOUSE\nGEO ESTATE",
@@ -778,7 +778,7 @@
   {
     "route": "23U",
     "direction": 1,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "豬怕邨豬逸樓",
     "chisound": "rbxassetid://12257701027",
     "eng": "G YAT HOUSE\nGEO ESTATE",
@@ -788,7 +788,7 @@
   {
     "route": "23U",
     "direction": 1,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "豬怕邨",
     "chisound": "rbxassetid://12257702185",
     "eng": "GEO ESTATE",
@@ -798,7 +798,7 @@
   {
     "route": "23U",
     "direction": 1,
-    "nextstop": 6,
+    "nextstop": 5,
     "chi": "豬怕公園",
     "chisound": "rbxassetid://12257701508",
     "eng": "GEO PARK",
@@ -808,7 +808,7 @@
   {
     "route": "23U",
     "direction": 1,
-    "nextstop": 7,
+    "nextstop": 6,
     "chi": "豬怕學校村",
     "chisound": "rbxassetid://12257701185",
     "eng": "GEO\nSCHOOL VILLAGE",
@@ -818,7 +818,7 @@
   {
     "route": "23U",
     "direction": 1,
-    "nextstop": 8,
+    "nextstop": 7,
     "chi": "馬嶺邨",
     "chisound": "rbxassetid://12257699645",
     "eng": "MA LENG ESTATE",
@@ -828,7 +828,7 @@
   {
     "route": "23U",
     "direction": 1,
-    "nextstop": 9,
+    "nextstop": 8,
     "chi": "馬嶺站",
     "chisound": "rbxassetid://12257709138",
     "eng": "MA LENG STATION",
@@ -838,7 +838,7 @@
   {
     "route": "23U",
     "direction": 1,
-    "nextstop": 10,
+    "nextstop": 9,
     "chi": "馬嶺醫院",
     "chisound": "rbxassetid://12257699295",
     "eng": "MA LENG HOSPITAL",
@@ -848,7 +848,7 @@
   {
     "route": "23U",
     "direction": 1,
-    "nextstop": 11,
+    "nextstop": 10,
     "chi": "馬嶺",
     "chisound": "rbxassetid://12257699780",
     "eng": "MA LENG",
@@ -858,7 +858,7 @@
   {
     "route": "23U",
     "direction": 1,
-    "nextstop": 12,
+    "nextstop": 11,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -868,7 +868,7 @@
   {
     "route": "24",
     "direction": 0,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -878,7 +878,7 @@
   {
     "route": "24",
     "direction": 0,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325246478",
     "eng": "WELCOME ONBOARD",
@@ -888,7 +888,7 @@
   {
     "route": "24",
     "direction": 0,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "車站廣場",
     "chisound": "rbxassetid://12257700015",
     "eng": "INTERNATIONAL\nSQUARE",
@@ -898,7 +898,7 @@
   {
     "route": "24",
     "direction": 0,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "聖保祿國際火車站",
     "chisound": "rbxassetid://12257696129",
     "eng": "ST. PAUL'S\nINTERNATIONAL",
@@ -908,7 +908,7 @@
   {
     "route": "24",
     "direction": 0,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "豬怕市中心",
     "chisound": "rbxassetid://12257700687",
     "eng": "GEO TOWN CENTRE",
@@ -918,7 +918,7 @@
   {
     "route": "24",
     "direction": 0,
-    "nextstop": 6,
+    "nextstop": 5,
     "chi": "豬怕舊邨",
     "chisound": "rbxassetid://12257698419",
     "eng": "OLD GEO ESTATE",
@@ -928,7 +928,7 @@
   {
     "route": "24",
     "direction": 0,
-    "nextstop": 7,
+    "nextstop": 6,
     "chi": "豬怕公園",
     "chisound": "rbxassetid://12257701508",
     "eng": "GEO PARK",
@@ -938,7 +938,7 @@
   {
     "route": "24",
     "direction": 0,
-    "nextstop": 8,
+    "nextstop": 7,
     "chi": "駿田商場",
     "chisound": "rbxassetid://12257701294",
     "eng": "CHUN TIN\nSHOPPING CENTRE",
@@ -948,7 +948,7 @@
   {
     "route": "24",
     "direction": 0,
-    "nextstop": 9,
+    "nextstop": 8,
     "chi": "駿田閣",
     "chisound": "rbxassetid://12257702316",
     "eng": "CHUN TIN COURT",
@@ -958,7 +958,7 @@
   {
     "route": "24",
     "direction": 0,
-    "nextstop": 10,
+    "nextstop": 9,
     "chi": "沙嶺中心",
     "chisound": "rbxassetid://12257698057",
     "eng": "SHA LENG CENTRE",
@@ -968,7 +968,7 @@
   {
     "route": "24",
     "direction": 0,
-    "nextstop": 11,
+    "nextstop": 10,
     "chi": "沙朗邨",
     "chisound": "rbxassetid://12257697488",
     "eng": "SHA LONG ESTATE",
@@ -978,7 +978,7 @@
   {
     "route": "24",
     "direction": 0,
-    "nextstop": 12,
+    "nextstop": 11,
     "chi": "沙善邨",
     "chisound": "rbxassetid://12257696421",
     "eng": "SHA SIN ESTATE",
@@ -988,7 +988,7 @@
   {
     "route": "24",
     "direction": 0,
-    "nextstop": 13,
+    "nextstop": 12,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -998,7 +998,7 @@
   {
     "route": "24",
     "direction": 1,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -1008,7 +1008,7 @@
   {
     "route": "24",
     "direction": 1,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325246222",
     "eng": "WELCOME ONBOARD",
@@ -1018,7 +1018,7 @@
   {
     "route": "24",
     "direction": 1,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "沙朗邨",
     "chisound": "rbxassetid://12257697488",
     "eng": "SHA LONG ESTATE",
@@ -1028,7 +1028,7 @@
   {
     "route": "24",
     "direction": 1,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "沙嶺車廠",
     "chisound": "rbxassetid://12257698322",
     "eng": "SHA LENG DEPOT",
@@ -1038,7 +1038,7 @@
   {
     "route": "24",
     "direction": 1,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "駿田閣",
     "chisound": "rbxassetid://12257702316",
     "eng": "CHUN TIN COURT",
@@ -1048,7 +1048,7 @@
   {
     "route": "24",
     "direction": 1,
-    "nextstop": 6,
+    "nextstop": 5,
     "chi": "駿田商場",
     "chisound": "rbxassetid://12257701294",
     "eng": "CHUN TIN\nSHOPPING CENTRE",
@@ -1058,7 +1058,7 @@
   {
     "route": "24",
     "direction": 1,
-    "nextstop": 7,
+    "nextstop": 6,
     "chi": "豬怕公園",
     "chisound": "rbxassetid://12257701508",
     "eng": "GEO PARK",
@@ -1068,7 +1068,7 @@
   {
     "route": "24",
     "direction": 1,
-    "nextstop": 8,
+    "nextstop": 7,
     "chi": "豬怕舊邨",
     "chisound": "rbxassetid://12257698419",
     "eng": "OLD GEO ESTATE",
@@ -1078,7 +1078,7 @@
   {
     "route": "24",
     "direction": 1,
-    "nextstop": 9,
+    "nextstop": 8,
     "chi": "豬怕市中心",
     "chisound": "rbxassetid://12257700687",
     "eng": "GEO TOWN CENTRE",
@@ -1088,7 +1088,7 @@
   {
     "route": "24",
     "direction": 1,
-    "nextstop": 10,
+    "nextstop": 9,
     "chi": "聖保祿國際火車站",
     "chisound": "rbxassetid://12257696129",
     "eng": "ST. PAUL'S\nINTERNATIONAL",
@@ -1098,7 +1098,7 @@
   {
     "route": "24",
     "direction": 1,
-    "nextstop": 11,
+    "nextstop": 10,
     "chi": "車站廣場",
     "chisound": "rbxassetid://12257700015",
     "eng": "INTERNATIONAL\nSQUARE",
@@ -1108,7 +1108,7 @@
   {
     "route": "24",
     "direction": 1,
-    "nextstop": 12,
+    "nextstop": 11,
     "chi": "大新碼頭",
     "chisound": "rbxassetid://12257695776",
     "eng": "TAI SUN\nFERRY PIERS",
@@ -1118,7 +1118,7 @@
   {
     "route": "24",
     "direction": 1,
-    "nextstop": 13,
+    "nextstop": 12,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -1128,7 +1128,7 @@
   {
     "route": "24D",
     "direction": 0,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -1138,7 +1138,7 @@
   {
     "route": "24D",
     "direction": 0,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325243794",
     "eng": "WELCOME ONBOARD",
@@ -1148,7 +1148,7 @@
   {
     "route": "24D",
     "direction": 0,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "沙嶺邨",
     "chisound": "rbxassetid://12285644005",
     "eng": "SHA LENG ESTATE",
@@ -1158,7 +1158,7 @@
   {
     "route": "24D",
     "direction": 0,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "駿田閣",
     "chisound": "rbxassetid://12257702316",
     "eng": "CHUN TIN COURT",
@@ -1168,7 +1168,7 @@
   {
     "route": "24D",
     "direction": 0,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "沙嶺中心",
     "chisound": "rbxassetid://12257698057",
     "eng": "SHA LENG CENTRE",
@@ -1178,7 +1178,7 @@
   {
     "route": "24D",
     "direction": 0,
-    "nextstop": 6,
+    "nextstop": 5,
     "chi": "沙朗邨",
     "chisound": "rbxassetid://12257697488",
     "eng": "SHA LONG ESTATE",
@@ -1188,7 +1188,7 @@
   {
     "route": "24D",
     "direction": 0,
-    "nextstop": 7,
+    "nextstop": 6,
     "chi": "沙善邨",
     "chisound": "rbxassetid://12257696421",
     "eng": "SHA SIN ESTATE",
@@ -1198,7 +1198,7 @@
   {
     "route": "24D",
     "direction": 0,
-    "nextstop": 8,
+    "nextstop": 7,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -1208,7 +1208,7 @@
   {
     "route": "24D",
     "direction": 1,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -1218,7 +1218,7 @@
   {
     "route": "24D",
     "direction": 1,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325243535",
     "eng": "WELCOME ONBOARD",
@@ -1228,7 +1228,7 @@
   {
     "route": "24D",
     "direction": 1,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "沙朗邨",
     "chisound": "rbxassetid://12257697488",
     "eng": "SHA LONG ESTATE",
@@ -1238,7 +1238,7 @@
   {
     "route": "24D",
     "direction": 1,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "沙嶺車廠",
     "chisound": "rbxassetid://12257698322",
     "eng": "SHA LENG DEPOT",
@@ -1248,7 +1248,7 @@
   {
     "route": "24D",
     "direction": 1,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "駿田閣",
     "chisound": "rbxassetid://12257702316",
     "eng": "CHUN TIN COURT",
@@ -1258,7 +1258,7 @@
   {
     "route": "24D",
     "direction": 1,
-    "nextstop": 6,
+    "nextstop": 5,
     "chi": "沙嶺邨",
     "chisound": "rbxassetid://12285644005",
     "eng": "SHA LENG ESTATE",
@@ -1268,7 +1268,7 @@
   {
     "route": "24D",
     "direction": 1,
-    "nextstop": 7,
+    "nextstop": 6,
     "chi": "豬怕學校村",
     "chisound": "rbxassetid://12257701185",
     "eng": "GEO\nSCHOOL VILLAGE",
@@ -1278,7 +1278,7 @@
   {
     "route": "24D",
     "direction": 1,
-    "nextstop": 8,
+    "nextstop": 7,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -1288,7 +1288,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -1298,7 +1298,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325245185",
     "eng": "WELCOME ONBOARD",
@@ -1308,7 +1308,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "豬怕市中心",
     "chisound": "rbxassetid://12257700687",
     "eng": "GEO TOWN CENTRE",
@@ -1318,7 +1318,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "豬怕雅蘭中心",
     "chisound": "rbxassetid://12285643325",
     "eng": "GEO GRAND PLACE",
@@ -1328,7 +1328,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "馬嶺站",
     "chisound": "rbxassetid://12257709138",
     "eng": "MA LENG STATION",
@@ -1338,7 +1338,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 6,
+    "nextstop": 5,
     "chi": "馬嶺",
     "chisound": "rbxassetid://12257699780",
     "eng": "MA LENG",
@@ -1348,7 +1348,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 7,
+    "nextstop": 6,
     "chi": "馬嶺醫院",
     "chisound": "rbxassetid://12257699295",
     "eng": "MA LENG HOSPITAL",
@@ -1358,7 +1358,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 8,
+    "nextstop": 7,
     "chi": "馬奶邨",
     "chisound": "rbxassetid://12257700127",
     "eng": "HORSE MILK ESTATE",
@@ -1368,7 +1368,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 9,
+    "nextstop": 8,
     "chi": "沙怡運動場",
     "chisound": "rbxassetid://12257696288",
     "eng": "SHA YEE\nSPORTS GROUND",
@@ -1378,7 +1378,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 10,
+    "nextstop": 9,
     "chi": "柳絮大廈",
     "chisound": "rbxassetid://12257699398",
     "eng": "LAU SHUI DAI HA",
@@ -1388,7 +1388,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 11,
+    "nextstop": 10,
     "chi": "沙怡道",
     "chisound": "rbxassetid://12257697310",
     "eng": "SHA YEE ROAD",
@@ -1398,7 +1398,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 12,
+    "nextstop": 11,
     "chi": "沙嶺圍驗車中心",
     "chisound": "rbxassetid://12257697634",
     "eng": "SHA LENG WAI VEHICLE\nEXAMINATION CENTRE",
@@ -1408,7 +1408,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 13,
+    "nextstop": 12,
     "chi": "百合臺",
     "chisound": "rbxassetid://12257699910",
     "eng": "LILY TERRACE",
@@ -1418,7 +1418,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 14,
+    "nextstop": 13,
     "chi": "馬嶺圍",
     "chisound": "rbxassetid://12257699504",
     "eng": "MA LENG WAI",
@@ -1428,7 +1428,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 15,
+    "nextstop": 14,
     "chi": "沙嶺邨",
     "chisound": "rbxassetid://12285644005",
     "eng": "SHA LENG ESTATE",
@@ -1438,7 +1438,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 16,
+    "nextstop": 15,
     "chi": "駿田閣",
     "chisound": "rbxassetid://12257702316",
     "eng": "CHUN TIN COURT",
@@ -1448,7 +1448,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 17,
+    "nextstop": 16,
     "chi": "沙嶺市中心",
     "chisound": "rbxassetid://12285645091",
     "eng": "SHA LENG\nTOWN CENTRE",
@@ -1458,7 +1458,7 @@
   {
     "route": "24H",
     "direction": 0,
-    "nextstop": 18,
+    "nextstop": 17,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -1468,7 +1468,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -1478,7 +1478,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325246856",
     "eng": "WELCOME ONBOARD",
@@ -1488,7 +1488,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "駿田閣",
     "chisound": "rbxassetid://12257702316",
     "eng": "CHUN TIN COURT",
@@ -1498,7 +1498,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "沙嶺邨",
     "chisound": "rbxassetid://12285644005",
     "eng": "SHA LENG ESTATE",
@@ -1508,7 +1508,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "馬嶺圍",
     "chisound": "rbxassetid://12257699504",
     "eng": "MA LENG WAI",
@@ -1518,7 +1518,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 6,
+    "nextstop": 5,
     "chi": "沙嶺圍廣場",
     "chisound": "rbxassetid://12257697772",
     "eng": "SHA LENG WAI\nSQUARE",
@@ -1528,7 +1528,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 7,
+    "nextstop": 6,
     "chi": "沙嶺圍驗車中心",
     "chisound": "rbxassetid://12257697634",
     "eng": "SHA LENG WAI VEHICLE\nEXAMINATION CENTRE",
@@ -1538,7 +1538,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 8,
+    "nextstop": 7,
     "chi": "沙怡道",
     "chisound": "rbxassetid://12257697310",
     "eng": "SHA YEE ROAD",
@@ -1548,7 +1548,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 9,
+    "nextstop": 8,
     "chi": "柳絮大廈",
     "chisound": "rbxassetid://12257699398",
     "eng": "LAU SHUI DAI HA",
@@ -1558,7 +1558,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 10,
+    "nextstop": 9,
     "chi": "沙怡運動場",
     "chisound": "rbxassetid://12257696288",
     "eng": "SHA YEE\nSPORTS GROUND",
@@ -1568,7 +1568,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 11,
+    "nextstop": 10,
     "chi": "哈特蘭大球場",
     "chisound": "rbxassetid://12257695936",
     "eng": "THE\nHARTLAND STADIUM",
@@ -1578,7 +1578,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 12,
+    "nextstop": 11,
     "chi": "馬嶺",
     "chisound": "rbxassetid://12257699780",
     "eng": "MA LENG",
@@ -1588,7 +1588,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 13,
+    "nextstop": 12,
     "chi": "馬嶺醫院",
     "chisound": "rbxassetid://12257699295",
     "eng": "MA LENG HOSPITAL",
@@ -1598,7 +1598,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 14,
+    "nextstop": 13,
     "chi": "馬嶺站",
     "chisound": "rbxassetid://12257709138",
     "eng": "MA LENG STATION",
@@ -1608,7 +1608,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 15,
+    "nextstop": 14,
     "chi": "豬怕雅蘭中心",
     "chisound": "rbxassetid://12285643325",
     "eng": "GEO GRAND PLACE",
@@ -1618,7 +1618,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 16,
+    "nextstop": 15,
     "chi": "豬怕市中心",
     "chisound": "rbxassetid://12257700687",
     "eng": "GEO TOWN CENTRE",
@@ -1628,7 +1628,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 17,
+    "nextstop": 16,
     "chi": "聖保祿國際火車站",
     "chisound": "rbxassetid://12257696129",
     "eng": "ST. PAUL'S\nINTERNATIONAL",
@@ -1638,7 +1638,7 @@
   {
     "route": "24H",
     "direction": 1,
-    "nextstop": 18,
+    "nextstop": 17,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -1648,7 +1648,7 @@
   {
     "route": "24U",
     "direction": 0,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -1658,7 +1658,7 @@
   {
     "route": "24U",
     "direction": 0,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325245835",
     "eng": "WELCOME ONBOARD",
@@ -1668,7 +1668,7 @@
   {
     "route": "24U",
     "direction": 0,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "馬嶺智選假日酒店",
     "chisound": "rbxassetid://12257700858",
     "eng": "HOLIDAY INN EXPRESS\nMA LENG",
@@ -1678,7 +1678,7 @@
   {
     "route": "24U",
     "direction": 0,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "馬嶺站",
     "chisound": "rbxassetid://12257709138",
     "eng": "MA LENG STATION",
@@ -1688,7 +1688,7 @@
   {
     "route": "24U",
     "direction": 0,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "馬嶺邨",
     "chisound": "rbxassetid://12257699645",
     "eng": "MA LENG ESTATE",
@@ -1698,7 +1698,7 @@
   {
     "route": "24U",
     "direction": 0,
-    "nextstop": 6,
+    "nextstop": 5,
     "chi": "沙嶺市中心",
     "chisound": "rbxassetid://12285645091",
     "eng": "SHA LENG\nTOWN CENTRE",
@@ -1708,7 +1708,7 @@
   {
     "route": "24U",
     "direction": 0,
-    "nextstop": 7,
+    "nextstop": 6,
     "chi": "沙嶺中心",
     "chisound": "rbxassetid://12257698057",
     "eng": "SHA LENG CENTRE",
@@ -1718,7 +1718,7 @@
   {
     "route": "24U",
     "direction": 0,
-    "nextstop": 8,
+    "nextstop": 7,
     "chi": "沙朗邨",
     "chisound": "rbxassetid://12257697488",
     "eng": "SHA LONG ESTATE",
@@ -1728,7 +1728,7 @@
   {
     "route": "24U",
     "direction": 0,
-    "nextstop": 9,
+    "nextstop": 8,
     "chi": "寰宇",
     "chisound": "rbxassetid://12257695629",
     "eng": "THE SKYE",
@@ -1738,7 +1738,7 @@
   {
     "route": "24U",
     "direction": 0,
-    "nextstop": 10,
+    "nextstop": 9,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
@@ -1748,7 +1748,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "nextstop": 1,
+    "nextstop": 0,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325302256",
     "eng": "WELCOME ONBOARD",
@@ -1758,7 +1758,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "nextstop": 2,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "rbxassetid://12325245381",
     "eng": "WELCOME ONBOARD",
@@ -1768,7 +1768,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "nextstop": 3,
+    "nextstop": 2,
     "chi": "沙朗邨",
     "chisound": "rbxassetid://12257697488",
     "eng": "SHA LONG ESTATE",
@@ -1778,7 +1778,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "nextstop": 4,
+    "nextstop": 3,
     "chi": "沙嶺車廠",
     "chisound": "rbxassetid://12257698322",
     "eng": "SHA LENG DEPOT",
@@ -1788,7 +1788,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "nextstop": 5,
+    "nextstop": 4,
     "chi": "沙嶺市中心",
     "chisound": "rbxassetid://12285645091",
     "eng": "SHA LENG\nTOWN CENTRE",
@@ -1798,7 +1798,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "nextstop": 6,
+    "nextstop": 5,
     "chi": "馬嶺邨",
     "chisound": "rbxassetid://12257699645",
     "eng": "MA LENG ESTATE",
@@ -1808,7 +1808,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "nextstop": 7,
+    "nextstop": 6,
     "chi": "馬嶺站",
     "chisound": "rbxassetid://12257709138",
     "eng": "MA LENG STATION",
@@ -1818,7 +1818,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "nextstop": 8,
+    "nextstop": 7,
     "chi": "哈特蘭坊",
     "chisound": "rbxassetid://12257700329",
     "eng": "HARTLAND SQUARE",
@@ -1828,7 +1828,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "nextstop": 9,
+    "nextstop": 8,
     "chi": "馬嶺",
     "chisound": "rbxassetid://12257699780",
     "eng": "MA LENG",
@@ -1838,7 +1838,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "nextstop": 10,
+    "nextstop": 9,
     "chi": "多謝選乘豬怕巴士",
     "chisound": "rbxassetid://12285327650",
     "eng": "THANK YOU\nFOR TRAVELLING",
