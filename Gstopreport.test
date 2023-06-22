@@ -35,23 +35,10 @@
   {
     "route": "22",
     "direction": 0,
-    "nextstop": 0,
-    "chi": "歡迎乘搭豬怕巴士",
-    "chisound": "rbxassetid://12325302256",
-    "eng": "WELCOME ONBOARD",
-    "engsound": "",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
-    "notification": 0
-  },
-  {
-    "route": "22",
-    "direction": 0,
     "nextstop": 1,
-    "chi": "歡迎乘搭豬怕巴士",
+    "chi": "大新中心",
     "chisound": "rbxassetid://12325244566",
-    "eng": "WELCOME ONBOARD",
+    "eng": "Tai Sun Centre",
     "engsound": "rbxassetid://12300414559",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
@@ -151,37 +138,11 @@
   },
   {
     "route": "22",
-    "direction": 0,
-    "nextstop": 9,
-    "chi": "多謝選乘豬怕巴士",
-    "chisound": "rbxassetid://12285327650",
-    "eng": "THANK YOU\nFOR TRAVELLING",
-    "engsound": "rbxassetid://12285327925",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
-    "notification": 0
-  },
-  {
-    "route": "22",
-    "direction": 1,
-    "nextstop": 0,
-    "chi": "歡迎乘搭豬怕巴士",
-    "chisound": "rbxassetid://12325302256",
-    "eng": "WELCOME ONBOARD",
-    "engsound": "",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
-    "notification": 0
-  },
-  {
-    "route": "22",
     "direction": 1,
     "nextstop": 1,
-    "chi": "歡迎乘搭豬怕巴士",
+    "chi": "沙嶺圍",
     "chisound": "rbxassetid://12325244153",
-    "eng": "WELCOME ONBOARD",
+    "eng": "Sha Leng Wai",
     "engsound": "rbxassetid://12300410514",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
@@ -196,9 +157,9 @@
     "chisound": "rbxassetid://12257699910",
     "eng": "LILY TERRACE",
     "engsound": "rbxassetid://12257520371",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
+    "arrtexture": "rbxassetid://13817018402",
+    "texture": "rbxassetid://13817018258,rbxassetid://13817018125",
+    "stoptexture": "rbxassetid://13817017978",
     "notification": 1
   },
   {
@@ -209,9 +170,9 @@
     "chisound": "rbxassetid://12257698213",
     "eng": "SHA LENG WAI\nESTATE",
     "engsound": "rbxassetid://12257518897",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
+    "arrtexture": "rbxassetid://13817016428",
+    "texture": "rbxassetid://13817016307,rbxassetid://13817016153,rbxassetid://13817015955",
+    "stoptexture": "rbxassetid://13817015775",
     "notification": 1
   },
   {
@@ -222,9 +183,9 @@
     "chisound": "rbxassetid://12257697772",
     "eng": "SHA LENG WAI\nSQUARE",
     "engsound": "rbxassetid://12257519004",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
+    "arrtexture": "rbxassetid://13817015645",
+    "texture": "rbxassetid://13817015492,rbxassetid://13817015270,rbxassetid://13817015092",
+    "stoptexture": "rbxassetid://13817014929",
     "notification": 1
   },
   {
@@ -235,9 +196,9 @@
     "chisound": "rbxassetid://12257699504",
     "eng": "MA LENG WAI",
     "engsound": "rbxassetid://12257519854",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
+    "arrtexture": "rbxassetid://13817017426",
+    "texture": "rbxassetid://13817017285,rbxassetid://13817017152",
+    "stoptexture": "rbxassetid://13817017014",
     "notification": 1
   },
   {
@@ -248,9 +209,9 @@
     "chisound": "rbxassetid://12257699645",
     "eng": "MA LENG ESTATE",
     "engsound": "rbxassetid://12257519966",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
+    "arrtexture": "rbxassetid://13817017870",
+    "texture": "rbxassetid://13817019956,rbxassetid://13817017606",
+    "stoptexture": "rbxassetid://13817017499",
     "notification": 1
   },
   {
@@ -261,9 +222,9 @@
     "chisound": "rbxassetid://12257709138",
     "eng": "MA LENG STATION",
     "engsound": "rbxassetid://12257520094",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
+    "arrtexture": "rbxassetid://13817013623",
+    "texture": "rbxassetid://13817013507,rbxassetid://13817013343",
+    "stoptexture": "rbxassetid://13817013224",
     "notification": 1
   },
   {
@@ -274,9 +235,9 @@
     "chisound": "rbxassetid://12257701416",
     "eng": "EMPRESS RISE",
     "engsound": "rbxassetid://12257523335",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
+    "arrtexture": "rbxassetid://13816999552",
+    "texture": "rbxassetid://13817000684,rbxassetid://13817001327",
+    "stoptexture": "rbxassetid://13817002037",
     "notification": 1
   },
   {
@@ -287,23 +248,10 @@
     "chisound": "rbxassetid://12257708933",
     "eng": "TAI SUN CENTRE",
     "engsound": "rbxassetid://12257518701",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
-    "notification": 1
-  },
-  {
-    "route": "22",
-    "direction": 1,
-    "nextstop": 10,
-    "chi": "多謝選乘豬怕巴士",
-    "chisound": "rbxassetid://12285327650",
-    "eng": "THANK YOU\nFOR TRAVELLING",
-    "engsound": "rbxassetid://12285327925",
-    "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
-    "notification": 0
+    "arrtexture": "rbxassetid://13817014835",
+    "texture": "rbxassetid://13817014725,rbxassetid://13817014725",
+    "stoptexture": "rbxassetid://13817014443",
+    "notification": 2
   },
   {
     "route": "22C",
