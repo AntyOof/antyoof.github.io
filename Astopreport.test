@@ -1,0 +1,74 @@
+[
+  {
+    "route": "",
+    "direction": 0,
+    "nextstop": 0,
+    "chi": "歡迎乘搭豬怕巴士",
+    "chisound": "",
+    "eng": "Welcome Onboard",
+    "engsound": "",
+    "arrtexture": "rbxassetid://13755271179",
+    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
+    "stoptexture": "!rbxassetid://13755274576",
+    "notification": 0
+  },
+  {
+    "route": "GEO",
+    "direction": 0,
+    "nextstop": 0,
+    "chi": "歡迎乘搭豬怕巴士",
+    "chisound": "",
+    "eng": "WELCOME ONBOARD",
+    "engsound": "",
+    "notification": 0
+  },
+  {
+    "route": "GEO",
+    "direction": 1,
+    "nextstop": 0,
+    "chi": "歡迎乘搭豬怕巴士",
+    "chisound": "",
+    "eng": "WELCOME ONBOARD",
+    "engsound": "",
+    "notification": 0
+  },
+  {
+    "route": "22T",
+    "direction": 0,
+    "nextstop": 1,
+    "chi": "大新中心",
+    "chisound": "rbxassetid://12325244566",
+    "eng": "Tai Sun Centre",
+    "engsound": "rbxassetid://12300414559",
+    "arrtexture": "rbxassetid://13755271179",
+    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
+    "stoptexture": "!rbxassetid://13755274576",
+    "notification": 0
+  },
+  {
+    "route": "22",
+    "direction": 0,
+    "nextstop": 2,
+    "chi": "皇后徑",
+    "chisound": "rbxassetid://12257701416",
+    "eng": "EMPRESS RISE",
+    "engsound": "rbxassetid://12257523335",
+    "arrtexture": "rbxassetid://13816999552",
+    "texture": "rbxassetid://13817000684,rbxassetid://13817001327",
+    "stoptexture": "rbxassetid://13817002037",
+    "notification": 1
+  },
+  {
+    "route": "22",
+    "direction": 1,
+    "nextstop": 9,
+    "chi": "大新中心",
+    "chisound": "rbxassetid://12257708933",
+    "eng": "TAI SUN CENTRE",
+    "engsound": "rbxassetid://12257518701",
+    "arrtexture": "rbxassetid://13817014835",
+    "texture": "rbxassetid://13817014725,rbxassetid://13817014548",
+    "stoptexture": "rbxassetid://13817014443",
+    "notification": 2
+  }
+]
