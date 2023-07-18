@@ -2,7 +2,7 @@
   {
     "route": "",
     "direction": 0,
-    "nextstop": 0,
+    "nextstop": 1,
     "chi": "歡迎乘搭豬怕巴士",
     "chisound": "",
     "eng": "Welcome Onboard",
@@ -10,26 +10,6 @@
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
     "stoptexture": "!rbxassetid://13755274576",
-    "notification": 0
-  },
-  {
-    "route": "GEO",
-    "direction": 0,
-    "nextstop": 0,
-    "chi": "歡迎乘搭豬怕巴士",
-    "chisound": "",
-    "eng": "WELCOME ONBOARD",
-    "engsound": "",
-    "notification": 0
-  },
-  {
-    "route": "GEO",
-    "direction": 1,
-    "nextstop": 0,
-    "chi": "歡迎乘搭豬怕巴士",
-    "chisound": "",
-    "eng": "WELCOME ONBOARD",
-    "engsound": "",
     "notification": 0
   },
   {
@@ -108,7 +88,7 @@
     "arrtexture": "rbxassetid://",
     "texture": "",
     "stoptexture": "rbxassetid://",
-    "notification": 0
+    "notification": 1
   },
   {
     "route": "22T",
@@ -121,7 +101,7 @@
     "arrtexture": "rbxassetid://",
     "texture": "",
     "stoptexture": "rbxassetid://",
-    "notification": 0
+    "notification": 1
   },
   {
     "route": "22T",
