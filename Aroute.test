@@ -2,6 +2,7 @@
   {
     "number": 0,
     "route": "GEO",
+    "circular": "false",
     "pigYZ": "",
     "destZ": "暫停服務",
     "engdestZ": "Not In Service",
@@ -19,6 +20,7 @@
   {
     "number": 1,
     "route": "22T",
+    "circular": "true",
     "pigYZ": "",
     "destZ": "恆馳火車站",
     "engdestZ": "Hang Chi Train Station",
@@ -36,6 +38,7 @@
   {
     "number": 2,
     "route": "26A",
+    "circular": "false",
     "pigYZ": "",
     "destZ": "恆馳碼頭",
     "engdestZ": "Hang Chi Ferry Piers",
@@ -57,6 +60,7 @@
   {
     "number": 3,
     "route": "N25",
+    "circular": "false",
     "pigYZ": "",
     "destZ": "恆馳碼頭",
     "engdestZ": "Hang Chi Ferry Piers",
