@@ -108,7 +108,7 @@
     "arrtexture": "rbxassetid://",
     "texture": "",
     "stoptexture": "rbxassetid://",
-    "notification": 1
+    "notification": 0
   },
   {
     "route": "22T",
