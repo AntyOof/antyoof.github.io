@@ -8,8 +8,8 @@
     "eng": "Welcome Onboard",
     "engsound": "",
     "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
-    "stoptexture": "!rbxassetid://13755274576",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://13755274576",
     "notification": 0
   },
   {
@@ -22,7 +22,7 @@
     "engsound": "rbxassetid://",
     "arrtexture": "rbxassetid://14140700258",
     "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
-    "stoptexture": "!rbxassetid://",
+    "stoptexture": "rbxassetid://",
     "notification": 0
   },
   {
