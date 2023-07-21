@@ -7,9 +7,9 @@
     "chisound": "",
     "eng": "Welcome Onboard",
     "engsound": "",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "!rbxassetid://",
+    "arrtexture": "rbxassetid://13755271179",
+    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
+    "stoptexture": "!rbxassetid://13755274576",
     "notification": 0
   },
   {
@@ -20,8 +20,8 @@
     "chisound": "rbxassetid://",
     "eng": "Hang Chi Railway Station",
     "engsound": "rbxassetid://",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
     "stoptexture": "!rbxassetid://",
     "notification": 0
   },
@@ -33,9 +33,9 @@
     "chisound": "rbxassetid://14082866788",
     "eng": "Fuk Shing Industrial Building",
     "engsound": "rbxassetid://14084148677",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -46,9 +46,9 @@
     "chisound": "rbxassetid://14082863706",
     "eng": "Kung Cheong Street",
     "engsound": "rbxassetid://14084145765",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -59,9 +59,9 @@
     "chisound": "rbxassetid://14082865342",
     "eng": "Hang Chi Eye Hospital",
     "engsound": "rbxassetid://14084148174",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -72,9 +72,9 @@
     "chisound": "rbxassetid://14085355316",
     "eng": "Hang Chi Waterfront Park",
     "engsound": "rbxassetid://14084147172",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -85,9 +85,9 @@
     "chisound": "rbxassetid://14082866601",
     "eng": "Hang Chi Ferry Piers",
     "engsound": "rbxassetid://14084147978",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -98,9 +98,9 @@
     "chisound": "rbxassetid://14082864709",
     "eng": "Hang Chi Hospital",
     "engsound": "rbxassetid://14084147648",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -111,9 +111,9 @@
     "chisound": "rbxassetid://14082865342",
     "eng": "Hang Chi Eye Hospital",
     "engsound": "rbxassetid://14084148174",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -124,9 +124,9 @@
     "chisound": "rbxassetid://14082863706",
     "eng": "Kung Cheong Street",
     "engsound": "rbxassetid://14084145765",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -137,9 +137,9 @@
     "chisound": "rbxassetid://14082864293",
     "eng": "Hang Fat Street",
     "engsound": "rbxassetid://14084146879",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -150,9 +150,9 @@
     "chisound": "rbxassetid://14082864495",
     "eng": "Hang Chi Railway Station",
     "engsound": "rbxassetid://14084147506",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 2
   },
   {
@@ -163,9 +163,9 @@
     "chisound": "rbxassetid://",
     "eng": "Radon Bay",
     "engsound": "rbxassetid://",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 0
   },
   {
@@ -176,9 +176,9 @@
     "chisound": "rbxassetid://14085346790",
     "eng": "Radon Bay Pier",
     "engsound": "rbxassetid://14084144717",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -189,9 +189,9 @@
     "chisound": "rbxassetid://14082863558",
     "eng": "Lai Yee House, Lai Chun Wai Estate",
     "engsound": "rbxassetid://14084145410",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -202,9 +202,9 @@
     "chisound": "rbxassetid://14082863377",
     "eng": "Lai Chun Wai Market",
     "engsound": "rbxassetid://14084146424",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -215,9 +215,9 @@
     "chisound": "rbxassetid://14082867540",
     "eng": "Delta Town Plaza",
     "engsound": "rbxassetid://14084149259",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -228,9 +228,9 @@
     "chisound": "rbxassetid://14082865148",
     "eng": "Hang Chi Fire Station",
     "engsound": "rbxassetid://14084147821",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -241,9 +241,9 @@
     "chisound": "rbxassetid://14082868132",
     "eng": "AIRO",
     "engsound": "rbxassetid://14084150027",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -254,9 +254,9 @@
     "chisound": "rbxassetid://14082864909",
     "eng": "Hang Chi Sports Ground",
     "engsound": "rbxassetid://14084147328",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -267,9 +267,9 @@
     "chisound": "rbxassetid://14085355316",
     "eng": "Hang Chi Waterfront Park",
     "engsound": "rbxassetid://14084147172",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -280,9 +280,9 @@
     "chisound": "rbxassetid://14082866601",
     "eng": "Hang Chi Ferry Piers",
     "engsound": "rbxassetid://14084147978",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 2
   },
   {
@@ -293,9 +293,9 @@
     "chisound": "rbxassetid://",
     "eng": "Hang Chi Ferry Piers",
     "engsound": "rbxassetid://",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 0
   },
   {
@@ -306,9 +306,9 @@
     "chisound": "rbxassetid://14085355316",
     "eng": "Hang Chi Waterfront Park",
     "engsound": "rbxassetid://14084147172",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -319,9 +319,9 @@
     "chisound": "rbxassetid://14082864909",
     "eng": "Hang Chi Sports Ground",
     "engsound": "rbxassetid://14084147328",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -332,9 +332,9 @@
     "chisound": "rbxassetid://14082868268",
     "eng": "Air Garden",
     "engsound": "rbxassetid://14084149885",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -345,9 +345,9 @@
     "chisound": "rbxassetid://14082865148",
     "eng": "Hang Chi Fire Station",
     "engsound": "rbxassetid://14084147821",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -358,9 +358,9 @@
     "chisound": "rbxassetid://14082867540",
     "eng": "Delta Town Plaza",
     "engsound": "rbxassetid://14084149259",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -371,9 +371,9 @@
     "chisound": "rbxassetid://14082867788",
     "eng": "Chun Fat Street",
     "engsound": "rbxassetid://14084149710",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -384,9 +384,9 @@
     "chisound": "rbxassetid://14082863377",
     "eng": "Lai Chun Wai Market",
     "engsound": "rbxassetid://14084146424",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -397,9 +397,9 @@
     "chisound": "rbxassetid://14082863262",
     "eng": "Lai Chun Wai Shopping Centre",
     "engsound": "rbxassetid://14084145564",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -410,9 +410,9 @@
     "chisound": "rbxassetid://14082867400",
     "eng": "Chun Loi House, Lai Chun Wai Estate",
     "engsound": "rbxassetid://14084149551",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -423,9 +423,9 @@
     "chisound": "rbxassetid://14085346790",
     "eng": "Radon Bay Pier",
     "engsound": "rbxassetid://14084144717",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -436,9 +436,9 @@
     "chisound": "rbxassetid://14082862667",
     "eng": "Radon Bay",
     "engsound": "rbxassetid://14084144566",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 2
   },
   {
@@ -449,9 +449,9 @@
     "chisound": "rbxassetid://",
     "eng": "Tsing Chong Hill Estate",
     "engsound": "rbxassetid://",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 0
   },
   {
@@ -462,9 +462,9 @@
     "chisound": "rbxassetid://14085346383",
     "eng": "Tsang Hung College",
     "engsound": "rbxassetid://14084142518",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -475,9 +475,9 @@
     "chisound": "rbxassetid://14085347222",
     "eng": "Sheung Cheun",
     "engsound": "rbxassetid://14084144382",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -488,9 +488,9 @@
     "chisound": "rbxassetid://14082864495",
     "eng": "Hang Chi Railway Station",
     "engsound": "rbxassetid://14084147506",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -501,9 +501,9 @@
     "chisound": "rbxassetid://14082862469",
     "eng": "Sze Hang House, Hang Chi East Estate",
     "engsound": "rbxassetid://14084142961",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -514,9 +514,9 @@
     "chisound": "rbxassetid://14082861799",
     "eng": "Shiu Hill Palace",
     "engsound": "rbxassetid://14084143822",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -527,9 +527,9 @@
     "chisound": "rbxassetid://14082862167",
     "eng": "Shiu King Village",
     "engsound": "rbxassetid://14084143261",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -540,9 +540,9 @@
     "chisound": "rbxassetid://14082863558",
     "eng": "Lai Yee House, Lai Chun Wai Estate",
     "engsound": "rbxassetid://14084145410",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -553,9 +553,9 @@
     "chisound": "rbxassetid://14082863377",
     "eng": "Lai Chun Wai Market",
     "engsound": "rbxassetid://14084146424",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -566,9 +566,9 @@
     "chisound": "rbxassetid://14082867788",
     "eng": "Chun Fat Street",
     "engsound": "rbxassetid://14084149710",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -579,9 +579,9 @@
     "chisound": "rbxassetid://14082866972",
     "eng": "Doo Kam Chau Primary School",
     "engsound": "rbxassetid://14084148927",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -592,9 +592,9 @@
     "chisound": "rbxassetid://14082864000",
     "eng": "Hang Sit Road",
     "engsound": "rbxassetid://14084146084",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -605,9 +605,9 @@
     "chisound": "rbxassetid://14082868132",
     "eng": "AIRO",
     "engsound": "rbxassetid://14084150027",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -618,9 +618,9 @@
     "chisound": "rbxassetid://14082864909",
     "eng": "Hang Chi Sports Ground",
     "engsound": "rbxassetid://14084147328",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -631,9 +631,9 @@
     "chisound": "rbxassetid://14082862040",
     "eng": "Tung Shiu Ping Estate",
     "engsound": "rbxassetid://14084142336",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -644,9 +644,9 @@
     "chisound": "rbxassetid://14082863822",
     "eng": "Hang Shiu Road",
     "engsound": "rbxassetid://14084146637",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -657,9 +657,9 @@
     "chisound": "rbxassetid://14082862310",
     "eng": "Shiu Lei House, Tung Shiu Ping Estate",
     "engsound": "rbxassetid://14084142791",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -670,9 +670,9 @@
     "chisound": "rbxassetid://14082864709",
     "eng": "Hang Chi Hospital",
     "engsound": "rbxassetid://14084147648",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -683,9 +683,9 @@
     "chisound": "rbxassetid://14082866601",
     "eng": "Hang Chi Ferry Piers",
     "engsound": "rbxassetid://14084147978",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 2
   },
   {
@@ -696,9 +696,9 @@
     "chisound": "rbxassetid://",
     "eng": "Hang Chi Ferry Piers",
     "engsound": "rbxassetid://",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 0
   },
   {
@@ -709,9 +709,9 @@
     "chisound": "rbxassetid://14082864709",
     "eng": "Hang Chi Hospital",
     "engsound": "rbxassetid://14084147648",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -722,9 +722,9 @@
     "chisound": "rbxassetid://14082862310",
     "eng": "Shiu Lei House, Tung Shiu Ping Estate",
     "engsound": "rbxassetid://14084142791",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -735,9 +735,9 @@
     "chisound": "rbxassetid://14082863822",
     "eng": "Hang Shiu Road",
     "engsound": "rbxassetid://14084146637",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -748,9 +748,9 @@
     "chisound": "rbxassetid://14082862040",
     "eng": "Tung Shiu Ping Estate",
     "engsound": "rbxassetid://14084142336",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -761,9 +761,9 @@
     "chisound": "rbxassetid://14082861400",
     "eng": "Shiu Yiu House, Tung Shiu Ping Estate",
     "engsound": "rbxassetid://14084143102",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -774,9 +774,9 @@
     "chisound": "rbxassetid://14082864909",
     "eng": "Hang Chi Sports Ground",
     "engsound": "rbxassetid://14084147328",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -787,9 +787,9 @@
     "chisound": "rbxassetid://14082868268",
     "eng": "Air Garden",
     "engsound": "rbxassetid://14084149885",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -800,9 +800,9 @@
     "chisound": "rbxassetid://14082867995",
     "eng": "Chun Fu Square",
     "engsound": "rbxassetid://14084149408",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -813,9 +813,9 @@
     "chisound": "rbxassetid://14082863377",
     "eng": "Lai Chun Wai Market",
     "engsound": "rbxassetid://14084146424",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -826,9 +826,9 @@
     "chisound": "rbxassetid://14082863262",
     "eng": "Lai Chun Wai Shopping Centre",
     "engsound": "rbxassetid://14084145564",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -839,9 +839,9 @@
     "chisound": "rbxassetid://14082867400",
     "eng": "Chun Loi House, Lai Chun Wai Estate",
     "engsound": "rbxassetid://14084149551",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -852,9 +852,9 @@
     "chisound": "rbxassetid://14082862167",
     "eng": "Shiu King Village",
     "engsound": "rbxassetid://14084143261",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -865,9 +865,9 @@
     "chisound": "rbxassetid://14082861799",
     "eng": "Shiu Hill Palace",
     "engsound": "rbxassetid://14084143822",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -878,9 +878,9 @@
     "chisound": "rbxassetid://14082862927",
     "eng": "Pui Hang House, Hang Chi East Estate",
     "engsound": "rbxassetid://14084144907",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -891,9 +891,9 @@
     "chisound": "rbxassetid://14082864495",
     "eng": "Hang Chi Railway Station",
     "engsound": "rbxassetid://14084147506",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -904,9 +904,9 @@
     "chisound": "rbxassetid://14085347448",
     "eng": "Ng Sik Driving School",
     "engsound": "rbxassetid://14084145076",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -917,9 +917,9 @@
     "chisound": "rbxassetid://14085347222",
     "eng": "Sheung Cheun",
     "engsound": "rbxassetid://14084144382",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 1
   },
   {
@@ -930,9 +930,9 @@
     "chisound": "rbxassetid://14106283255",
     "eng": "Tsing Chong Hill Estate",
     "engsound": "rbxassetid://14106280377",
-    "arrtexture": "rbxassetid://",
-    "texture": "rbxassetid://14140700258, rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://",
+    "arrtexture": "rbxassetid://14140700258",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://14140700258",
     "notification": 2
   }
 ]
