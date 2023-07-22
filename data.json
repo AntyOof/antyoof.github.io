@@ -16,9 +16,9 @@
       "carplate": "XA 175",
       "fleetnum": "V6L1",
       "depot": "T",
-      "leftad": "rbxassetid://6134113291",
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
-      "backad": "rbxassetid://8360318323"
+      "backad": "rbxassetid://"
     },
     {
       "busname": "GeoBusB8L12000highway",
@@ -186,7 +186,7 @@
       "carplate": "XA 8423",
       "fleetnum": "V6L18",
       "depot": "A",
-      "leftad": "rbxassetid://6938517627",
+      "leftad": "rbxassetid://14126689128",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://8360318323"
     },
@@ -266,7 +266,7 @@
       "carplate": "XA 8964",
       "fleetnum": "V6L26",
       "depot": "A",
-      "leftad": "rbxassetid://6938517627",
+      "leftad": "rbxassetid://14126689128",
       "rightad": "rbxassetid://7058951525",
       "backad": "rbxassetid://"
     },
@@ -386,7 +386,7 @@
       "carplate": "XB 2587",
       "fleetnum": "V6L38",
       "depot": "A",
-      "leftad": "rbxassetid:/6938517627/",
+      "leftad": "rbxassetid:/14126689128/",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
@@ -546,7 +546,7 @@
       "carplate": "XK 451",
       "fleetnum": "V6L54",
       "depot": "A",
-      "leftad": "rbxassetid://",
+      "leftad": "rbxassetid://14126689128",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
