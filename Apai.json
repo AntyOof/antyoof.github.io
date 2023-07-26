@@ -155,7 +155,7 @@
   {
     "number": 15,
     "route": "22TY",
-    "front": 1,
+    "front": 2,
     "frontid1": "rbxassetid://14085551696",
     "frontid2": "rbxassetid://14085561788",
     "controllerid1": "rbxassetid://14086208714",
@@ -172,7 +172,7 @@
     "front": 1,
     "frontid1": "rbxassetid://14085571187",
     "controllerid1": "rbxassetid://14086226215",
-    "side": 3,
+    "side": 2,
     "sideid1": "rbxassetid://14085571187",
     "sideid2": "rbxassetid://14085578889"
   },
