@@ -109,9 +109,9 @@
   },
   {
     "number": 9,
-    "route": "N23",
-    "destZ": "豬怕邨",
-    "destY": "馬嶺(哈特蘭大球場)",
+    "route": "N24",
+    "destZ": "沙善邨",
+    "destY": "馬嶺",
     "maxPZ": "1",
     "priceZ1": "5.9",
     "halfpriceZ1": "3.0",
