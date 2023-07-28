@@ -893,6 +893,16 @@
     "route": "24",
     "direction": 0,
     "NextStop": 11,
+    "Chi": "沙燕公寓",
+    "ChiSoundId": "rbxassetid://14228672617",
+    "Eng": "SAND MARTIN MANSION",
+    "EngSoundId": "rbxassetid://14228790335",
+    "Notification": 1
+  },
+  {
+    "route": "24",
+    "direction": 0,
+    "NextStop": 12,
     "Chi": "沙朗邨",
     "ChiSoundId": "rbxassetid://12257697488",
     "Eng": "SHA LONG ESTATE",
@@ -902,7 +912,7 @@
   {
     "route": "24",
     "direction": 0,
-    "NextStop": 12,
+    "NextStop": 13,
     "Chi": "沙善邨",
     "ChiSoundId": "rbxassetid://12257696421",
     "Eng": "SHA SIN ESTATE",
@@ -912,7 +922,7 @@
   {
     "route": "24",
     "direction": 0,
-    "NextStop": 13,
+    "NextStop": 14,
     "Chi": "多謝選乘豬怕巴士",
     "ChiSoundId": "rbxassetid://12285327650",
     "Eng": "THANK YOU\nFOR TRAVELLING",
@@ -953,6 +963,16 @@
     "route": "24",
     "direction": 1,
     "NextStop": 4,
+    "Chi": "沙朗邨朗德樓",
+    "ChiSoundId": "rbxassetid://14228680248",
+    "Eng": "LONG TAK HOUSE\nSHA LONG ESTATE",
+    "EngSoundId": "rbxassetid://14228788300",
+    "Notification": 1
+  },
+  {
+    "route": "24",
+    "direction": 1,
+    "NextStop": 5,
     "Chi": "沙嶺車廠",
     "ChiSoundId": "rbxassetid://12257698322",
     "Eng": "SHA LENG DEPOT",
@@ -962,7 +982,7 @@
   {
     "route": "24",
     "direction": 1,
-    "NextStop": 5,
+    "NextStop": 6,
     "Chi": "駿田閣",
     "ChiSoundId": "rbxassetid://12257702316",
     "Eng": "CHUN TIN COURT",
@@ -972,7 +992,7 @@
   {
     "route": "24",
     "direction": 1,
-    "NextStop": 6,
+    "NextStop": 7,
     "Chi": "駿田商場",
     "ChiSoundId": "rbxassetid://12257701294",
     "Eng": "CHUN TIN\nSHOPPING CENTRE",
@@ -982,7 +1002,7 @@
   {
     "route": "24",
     "direction": 1,
-    "NextStop": 7,
+    "NextStop": 8,
     "Chi": "豬怕公園",
     "ChiSoundId": "rbxassetid://12257701508",
     "Eng": "GEO PARK",
@@ -992,7 +1012,7 @@
   {
     "route": "24",
     "direction": 1,
-    "NextStop": 8,
+    "NextStop": 9,
     "Chi": "豬怕舊邨",
     "ChiSoundId": "rbxassetid://12257698419",
     "Eng": "OLD GEO ESTATE",
@@ -1002,7 +1022,7 @@
   {
     "route": "24",
     "direction": 1,
-    "NextStop": 9,
+    "NextStop": 10,
     "Chi": "豬怕市中心",
     "ChiSoundId": "rbxassetid://12257700687",
     "Eng": "GEO TOWN CENTRE",
@@ -1012,7 +1032,7 @@
   {
     "route": "24",
     "direction": 1,
-    "NextStop": 10,
+    "NextStop": 11,
     "Chi": "聖保祿國際火車站",
     "ChiSoundId": "rbxassetid://12257696129",
     "Eng": "ST. PAUL'S\nINTERNATIONAL",
@@ -1022,7 +1042,7 @@
   {
     "route": "24",
     "direction": 1,
-    "NextStop": 11,
+    "NextStop": 12,
     "Chi": "車站廣場",
     "ChiSoundId": "rbxassetid://12257700015",
     "Eng": "INTERNATIONAL\nSQUARE",
@@ -1032,7 +1052,7 @@
   {
     "route": "24",
     "direction": 1,
-    "NextStop": 12,
+    "NextStop": 13,
     "Chi": "大新碼頭",
     "ChiSoundId": "rbxassetid://12257695776",
     "Eng": "TAI SUN\nFERRY PIERS",
@@ -1042,7 +1062,7 @@
   {
     "route": "24",
     "direction": 1,
-    "NextStop": 13,
+    "NextStop": 14,
     "Chi": "多謝選乘豬怕巴士",
     "ChiSoundId": "rbxassetid://12285327650",
     "Eng": "THANK YOU\nFOR TRAVELLING",
@@ -1103,6 +1123,16 @@
     "route": "24D",
     "direction": 0,
     "NextStop": 6,
+    "Chi": "沙燕公寓",
+    "ChiSoundId": "rbxassetid://14228672617",
+    "Eng": "SAND MARTIN MANSION",
+    "EngSoundId": "rbxassetid://14228790335",
+    "Notification": 1
+  },
+  {
+    "route": "24D",
+    "direction": 0,
+    "NextStop": 7,
     "Chi": "沙朗邨",
     "ChiSoundId": "rbxassetid://12257697488",
     "Eng": "SHA LONG ESTATE",
@@ -1112,7 +1142,7 @@
   {
     "route": "24D",
     "direction": 0,
-    "NextStop": 7,
+    "NextStop": 8,
     "Chi": "沙善邨",
     "ChiSoundId": "rbxassetid://12257696421",
     "Eng": "SHA SIN ESTATE",
@@ -1122,7 +1152,7 @@
   {
     "route": "24D",
     "direction": 0,
-    "NextStop": 8,
+    "NextStop": 9,
     "Chi": "多謝選乘豬怕巴士",
     "ChiSoundId": "rbxassetid://12285327650",
     "Eng": "THANK YOU\nFOR TRAVELLING",
@@ -1163,6 +1193,16 @@
     "route": "24D",
     "direction": 1,
     "NextStop": 4,
+    "Chi": "沙朗邨朗德樓",
+    "ChiSoundId": "rbxassetid://14228680248",
+    "Eng": "LONG TAK HOUSE\nSHA LONG ESTATE",
+    "EngSoundId": "rbxassetid://14228788300",
+    "Notification": 1
+  },
+  {
+    "route": "24D",
+    "direction": 1,
+    "NextStop": 5,
     "Chi": "沙嶺車廠",
     "ChiSoundId": "rbxassetid://12257698322",
     "Eng": "SHA LENG DEPOT",
@@ -1172,7 +1212,7 @@
   {
     "route": "24D",
     "direction": 1,
-    "NextStop": 5,
+    "NextStop": 6,
     "Chi": "駿田閣",
     "ChiSoundId": "rbxassetid://12257702316",
     "Eng": "CHUN TIN COURT",
@@ -1182,7 +1222,7 @@
   {
     "route": "24D",
     "direction": 1,
-    "NextStop": 6,
+    "NextStop": 7,
     "Chi": "沙嶺邨",
     "ChiSoundId": "rbxassetid://12285644005",
     "Eng": "SHA LENG ESTATE",
@@ -1192,7 +1232,7 @@
   {
     "route": "24D",
     "direction": 1,
-    "NextStop": 7,
+    "NextStop": 8,
     "Chi": "豬怕學校村",
     "ChiSoundId": "rbxassetid://12257701185",
     "Eng": "GEO\nSCHOOL VILLAGE",
@@ -1202,7 +1242,7 @@
   {
     "route": "24D",
     "direction": 1,
-    "NextStop": 8,
+    "NextStop": 9,
     "Chi": "多謝選乘豬怕巴士",
     "ChiSoundId": "rbxassetid://12285327650",
     "Eng": "THANK YOU\nFOR TRAVELLING",
@@ -1643,6 +1683,16 @@
     "route": "24U",
     "direction": 0,
     "NextStop": 8,
+    "Chi": "沙燕公寓",
+    "ChiSoundId": "rbxassetid://14228672617",
+    "Eng": "SAND MARTIN MANSION",
+    "EngSoundId": "rbxassetid://14228790335",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 0,
+    "NextStop": 9,
     "Chi": "沙朗邨",
     "ChiSoundId": "rbxassetid://12257697488",
     "Eng": "SHA LONG ESTATE",
@@ -1652,7 +1702,7 @@
   {
     "route": "24U",
     "direction": 0,
-    "NextStop": 9,
+    "NextStop": 10,
     "Chi": "寰宇",
     "ChiSoundId": "rbxassetid://12257695629",
     "Eng": "THE SKYE",
@@ -1662,7 +1712,7 @@
   {
     "route": "24U",
     "direction": 0,
-    "NextStop": 10,
+    "NextStop": 11,
     "Chi": "多謝選乘豬怕巴士",
     "ChiSoundId": "rbxassetid://12285327650",
     "Eng": "THANK YOU\nFOR TRAVELLING",
@@ -1703,6 +1753,16 @@
     "route": "24U",
     "direction": 1,
     "NextStop": 4,
+    "Chi": "沙朗邨朗德樓",
+    "ChiSoundId": "rbxassetid://14228680248",
+    "Eng": "LONG TAK HOUSE\nSHA LONG ESTATE",
+    "EngSoundId": "rbxassetid://14228788300",
+    "Notification": 1
+  },
+  {
+    "route": "24U",
+    "direction": 1,
+    "NextStop": 5,
     "Chi": "沙嶺車廠",
     "ChiSoundId": "rbxassetid://12257698322",
     "Eng": "SHA LENG DEPOT",
@@ -1712,7 +1772,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "NextStop": 5,
+    "NextStop": 6,
     "Chi": "沙嶺市中心",
     "ChiSoundId": "rbxassetid://12285645091",
     "Eng": "SHA LENG\nTOWN CENTRE",
@@ -1722,7 +1782,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "NextStop": 6,
+    "NextStop": 7,
     "Chi": "馬嶺邨",
     "ChiSoundId": "rbxassetid://12257699645",
     "Eng": "MA LENG ESTATE",
@@ -1732,7 +1792,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "NextStop": 7,
+    "NextStop": 8,
     "Chi": "馬嶺站",
     "ChiSoundId": "rbxassetid://12257709138",
     "Eng": "MA LENG STATION",
@@ -1742,7 +1802,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "NextStop": 8,
+    "NextStop": 9,
     "Chi": "哈特蘭坊",
     "ChiSoundId": "rbxassetid://12257700329",
     "Eng": "HARTLAND SQUARE",
@@ -1752,7 +1812,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "NextStop": 9,
+    "NextStop": 10,
     "Chi": "馬嶺",
     "ChiSoundId": "rbxassetid://12257699780",
     "Eng": "MA LENG",
@@ -1762,7 +1822,7 @@
   {
     "route": "24U",
     "direction": 1,
-    "NextStop": 10,
+    "NextStop": 11,
     "Chi": "多謝選乘豬怕巴士",
     "ChiSoundId": "rbxassetid://12285327650",
     "Eng": "THANK YOU\nFOR TRAVELLING",
