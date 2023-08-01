@@ -1081,7 +1081,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusEnviro40010450(YP1823)",
+      "busname":"GeoBusE40010450(YP1823)",
       "number":1,
       "carplate":"YP 1823",
       "fleetnum":"E4S1",
@@ -1091,7 +1091,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusEnviro40010450",
+      "busname":"GeoBusE40010450",
       "number":2,
       "carplate":"YP 3222",
       "fleetnum":"E4S2",
@@ -1101,7 +1101,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusEnviro40010450",
+      "busname":"GeoBusE40010450",
       "number":3,
       "carplate":"YP 4532",
       "fleetnum":"E4S3",
@@ -1111,7 +1111,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusEnviro40010450",
+      "busname":"GeoBusE40010450",
       "number":4,
       "carplate":"YP 993",
       "fleetnum":"E4S4",
@@ -1121,7 +1121,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusEnviro40010450",
+      "busname":"GeoBusE40010450",
       "number":5,
       "carplate":"YP 9988",
       "fleetnum":"E4S5",
