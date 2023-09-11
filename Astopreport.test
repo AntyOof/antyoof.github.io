@@ -177,7 +177,7 @@
     "engsound": "rbxassetid://14169584041",
     "arrtexture": "rbxassetid://14140700258",
     "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://14140700258",
+    "stoptexture": "rbxassetid://",
     "notification": 0,
     "section": "Z1"
   },
@@ -317,7 +317,7 @@
     "engsound": "rbxassetid://14169583096",
     "arrtexture": "rbxassetid://14140700258",
     "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://14140700258",
+    "stoptexture": "rbxassetid://",
     "notification": 0,
     "section": "Y1"
   },
@@ -485,7 +485,7 @@
     "engsound": "rbxassetid://14169585757",
     "arrtexture": "rbxassetid://14140700258",
     "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://14140700258",
+    "stoptexture": "rbxassetid://",
     "notification": 0,
     "section": "Z1"
   },
@@ -751,7 +751,7 @@
     "engsound": "rbxassetid://14169584907",
     "arrtexture": "rbxassetid://14140700258",
     "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
-    "stoptexture": "rbxassetid://14140700258",
+    "stoptexture": "rbxassetid://",
     "notification": 0,
     "section": "Y1"
   },
