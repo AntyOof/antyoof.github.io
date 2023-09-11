@@ -443,7 +443,7 @@
     "engsound": "rbxassetid://14084149551",
     "arrtexture": "rbxassetid://14742840284",
     "texture": "rbxassetid://14742841624,rbxassetid://14742842481,rbxassetid://14742843334,rbxassetid://14742844114",
-    "stoptexture": "rbxassetid://14732045718",
+    "stoptexture": "!rbxassetid://14732045718",
     "notification": 1,
     "section": "Y1"
   },
@@ -905,7 +905,7 @@
     "engsound": "rbxassetid://14084149551",
     "arrtexture": "rbxassetid://14742840284",
     "texture": "rbxassetid://14742841624,rbxassetid://14742842481,rbxassetid://14742843334,rbxassetid://14742844114",
-    "stoptexture": "rbxassetid://14732045718",
+    "stoptexture": "!rbxassetid://14732045718",
     "notification": 1,
     "section": "Y1"
   },
