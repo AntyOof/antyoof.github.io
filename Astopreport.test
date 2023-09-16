@@ -509,7 +509,7 @@
     "nextstop": 3,
     "chi": "尚村",
     "chisound": "rbxassetid://14085347222",
-    "eng": "Sheung Tseun",
+    "eng": "Sheung Tsuen",
     "engsound": "rbxassetid://14084144382",
     "arrtexture": "rbxassetid://14756466527",
     "texture": "rbxassetid://14750228778,rbxassetid://14750229069",
@@ -985,7 +985,7 @@
     "nextstop": 18,
     "chi": "尚村",
     "chisound": "rbxassetid://14085347222",
-    "eng": "Sheung Tseun",
+    "eng": "Sheung Tsuen",
     "engsound": "rbxassetid://14084144382",
     "arrtexture": "rbxassetid://14756466527",
     "texture": "rbxassetid://14750228778,rbxassetid://14750229069",
@@ -1008,5 +1008,3 @@
     "section": "Y2"
   }
 ]
-
-
