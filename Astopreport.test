@@ -15,6 +15,36 @@
     "hanover": "NIS"
   },
   {
+    "route": "GEO",
+    "direction": 0,
+    "nextstop": 1,
+    "chi": "歡迎乘搭豬怕巴士",
+    "chisound": "",
+    "eng": "Welcome Onboard",
+    "engsound": "",
+    "arrtexture": "rbxassetid://13755271179",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://13755274576",
+    "notification": 0,
+    "section": "Z1",
+    "hanover": "NIS"
+  },
+  {
+    "route": "GEO",
+    "direction": 1,
+    "nextstop": 1,
+    "chi": "歡迎乘搭豬怕巴士",
+    "chisound": "",
+    "eng": "Welcome Onboard",
+    "engsound": "",
+    "arrtexture": "rbxassetid://13755271179",
+    "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
+    "stoptexture": "rbxassetid://13755274576",
+    "notification": 0,
+    "section": "Y1",
+    "hanover": "NIS"
+  },
+  {
     "route": "22T",
     "direction": 0,
     "nextstop": 1,
