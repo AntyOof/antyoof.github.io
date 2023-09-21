@@ -2,6 +2,7 @@
   {
     "number": 0,
     "route": "GEO",
+    "attribute": "normal",
     "pigYZ": "",
     "destZ": "暫停服務",
     "engdestZ": "Not In Service",
@@ -19,13 +20,14 @@
   {
     "number": 1,
     "route": "22T",
+    "attribute": "circular",
     "pigYZ": "",
     "destZ": "恆馳火車站",
     "engdestZ": "Hang Chi Train Station",
-    "routeingZ": "正常路線", 
+    "routeingZ": "循環線並不適用", 
     "destY": "恆馳碼頭",
     "engdestY": "Hang Chi Ferry Piers",
-    "routeingY": "正常路線", 
+    "routeingY": "正常路線,加班車只往恆馳碼頭", 
     "maxPZ": "1",
     "priceZ1": "3.8",
     "halfpriceZ1": "1.9",
@@ -36,6 +38,7 @@
   {
     "number": 2,
     "route": "26A",
+    "attribute": "normal",
     "pigYZ": "",
     "destZ": "恆馳碼頭",
     "engdestZ": "Hang Chi Ferry Piers",
@@ -57,6 +60,7 @@
   {
     "number": 3,
     "route": "N25",
+    "attribute": "normal",
     "pigYZ": "",
     "destZ": "恆馳碼頭",
     "engdestZ": "Hang Chi Ferry Piers",
