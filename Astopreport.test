@@ -218,7 +218,7 @@
     "eng": "Welcome Onboard",
     "engsound": "",
     "arrtexture": "rbxassetid://13755271179",
-    "texture": "rbxassetid://14925273858,rbxassetid://14925273592,rbxassetid://14925273377",
+    "texture": "rbxassetid://14925273095,rbxassetid://14925272781,rbxassetid://14925272481,rbxassetid://14925272309",
     "stoptexture": "rbxassetid://13755274576",
     "notification": 0,
     "section": "Y1",
