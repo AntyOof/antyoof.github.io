@@ -10,7 +10,7 @@
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
     "stoptexture": "rbxassetid://13755274576",
-    "notification": 0,
+    "notification": 8964,
     "section": "Z1",
     "hanover": "NIS"
   },
@@ -25,7 +25,7 @@
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
     "stoptexture": "rbxassetid://13755274576",
-    "notification": 0,
+    "notification": 8964,
     "section": "Z1",
     "hanover": "NIS"
   },
@@ -40,7 +40,7 @@
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
     "stoptexture": "rbxassetid://13755274576",
-    "notification": 0,
+    "notification": 8964,
     "section": "Y1",
     "hanover": "NIS"
   },
