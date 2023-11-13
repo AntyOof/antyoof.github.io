@@ -10,7 +10,7 @@
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
     "stoptexture": "rbxassetid://13755274576",
-    "notification": 8964,
+    "notification": 0,
     "section": "Z1",
     "hanover": "NIS"
   },
@@ -25,7 +25,7 @@
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
     "stoptexture": "rbxassetid://13755274576",
-    "notification": 8964,
+    "notification": 0,
     "section": "Z1",
     "hanover": "NIS"
   },
@@ -40,7 +40,7 @@
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://14140700258,rbxassetid://14140701115",
     "stoptexture": "rbxassetid://13755274576",
-    "notification": 8964,
+    "notification": 0,
     "section": "Y1",
     "hanover": "NIS"
   },
@@ -73,6 +73,8 @@
     "notification": 1,
     "section": "Y1",
     "hanover": "22TY"
+    "distance": 180,
+    "time": 113
   },
   {
     "route": "22T",
@@ -88,6 +90,8 @@
     "notification": 1,
     "section": "Y1",
     "hanover": "22TY"
+    "distance": 180,
+    "time": 33
   },
   {
     "route": "22T",
@@ -103,6 +107,8 @@
     "notification": 1,
     "section": "Y1",
     "hanover": "22TY"
+    "distance": 189,
+    "time": 38
   },
   {
     "route": "22T",
@@ -118,6 +124,8 @@
     "notification": 1,
     "section": "Y1",
     "hanover": "22TY"
+    "distance": 389,
+    "time": 137
   },
   {
     "route": "22T",
@@ -133,6 +141,8 @@
     "notification": 1,
     "section": "Z1",
     "hanover": "22TZ"
+    "distance": 384,
+    "time": 114
   },
   {
     "route": "22T",
@@ -148,6 +158,8 @@
     "notification": 1,
     "section": "Z1",
     "hanover": "22TZ"
+    "distance": 469,
+    "time": 74
   },
   {
     "route": "22T",
@@ -163,6 +175,8 @@
     "notification": 1,
     "section": "Z1",
     "hanover": "22TZ"
+    "distance": 347
+    "time": 153
   },
   {
     "route": "22T",
@@ -178,6 +192,8 @@
     "notification": 1,
     "section": "Z1",
     "hanover": "22TZ"
+    "distance": 144
+    "time": 60
   },
   {
     "route": "22T",
@@ -193,6 +209,8 @@
     "notification": 1,
     "section": "Z1",
     "hanover": "22TZ"
+    "distance": 231
+    "time": 26
   },
   {
     "route": "22T",
@@ -208,6 +226,8 @@
     "notification": 2,
     "section": "Z1",
     "hanover": "22TZ"
+    "distance": 500
+    "time": 98
   },
   {
     "route": "22T",
