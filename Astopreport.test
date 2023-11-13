@@ -57,7 +57,9 @@
     "stoptexture": "rbxassetid://",
     "notification": 0,
     "section": "Y1",
-    "hanover": "22TY"
+    "hanover": "22TY",
+    "distance": 50,
+    "time": 5
   },
   {
     "route": "22T",
@@ -72,7 +74,7 @@
     "stoptexture": "rbxassetid://14732045167",
     "notification": 1,
     "section": "Y1",
-    "hanover": "22TY"
+    "hanover": "22TY",
     "distance": 180,
     "time": 113
   },
@@ -89,7 +91,7 @@
     "stoptexture": "rbxassetid://14732043167",
     "notification": 1,
     "section": "Y1",
-    "hanover": "22TY"
+    "hanover": "22TY",
     "distance": 180,
     "time": 33
   },
@@ -106,7 +108,7 @@
     "stoptexture": "rbxassetid://14732045005",
     "notification": 1,
     "section": "Y1",
-    "hanover": "22TY"
+    "hanover": "22TY",
     "distance": 189,
     "time": 38
   },
@@ -123,7 +125,7 @@
     "stoptexture": "rbxassetid://14756470486",
     "notification": 1,
     "section": "Y1",
-    "hanover": "22TY"
+    "hanover": "22TY",
     "distance": 389,
     "time": 137
   },
@@ -140,7 +142,7 @@
     "stoptexture": "rbxassetid://14732044764",
     "notification": 1,
     "section": "Z1",
-    "hanover": "22TZ"
+    "hanover": "22TZ",
     "distance": 384,
     "time": 114
   },
@@ -157,7 +159,7 @@
     "stoptexture": "rbxassetid://14732044398",
     "notification": 1,
     "section": "Z1",
-    "hanover": "22TZ"
+    "hanover": "22TZ",
     "distance": 469,
     "time": 74
   },
@@ -174,8 +176,8 @@
     "stoptexture": "rbxassetid://14732045005",
     "notification": 1,
     "section": "Z1",
-    "hanover": "22TZ"
-    "distance": 347
+    "hanover": "22TZ",
+    "distance": 347,
     "time": 153
   },
   {
@@ -191,8 +193,8 @@
     "stoptexture": "rbxassetid://14732043167",
     "notification": 1,
     "section": "Z1",
-    "hanover": "22TZ"
-    "distance": 144
+    "hanover": "22TZ",
+    "distance": 144,
     "time": 60
   },
   {
@@ -208,8 +210,8 @@
     "stoptexture": "rbxassetid://14732043508",
     "notification": 1,
     "section": "Z1",
-    "hanover": "22TZ"
-    "distance": 231
+    "hanover": "22TZ",
+    "distance": 231,
     "time": 26
   },
   {
@@ -225,8 +227,8 @@
     "stoptexture": "rbxassetid://14732044107",
     "notification": 2,
     "section": "Z1",
-    "hanover": "22TZ"
-    "distance": 500
+    "hanover": "22TZ",
+    "distance": 500,
     "time": 98
   },
   {
