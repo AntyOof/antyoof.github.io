@@ -1129,6 +1129,66 @@
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
+    },
+    {
+      "busname":"GeoBusB9TL12000",
+      "number":1,
+      "carplate":"PE 8796",
+      "fleetnum":"V5L1",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+   {
+      "busname":"GeoBusB9TL12000",
+      "number":2,
+      "carplate":"PG 9827",
+      "fleetnum":"V5L2",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+   {
+      "busname":"GeoBusB9TL12000",
+      "number":3,
+      "carplate":"PJ 8231",
+      "fleetnum":"V5L3",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+   {
+      "busname":"GeoBusB9TL12000",
+      "number":4,
+      "carplate":"PJ 6068",
+      "fleetnum":"V5L4",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+   {
+      "busname":"GeoBusB9TL12000",
+      "number":5,
+      "carplate":"HH 1686",
+      "fleetnum":"V5L5",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+   {
+      "busname":"GeoBusB9TL12000",
+      "number":6,
+      "carplate":"PS 9027",
+      "fleetnum":"V5L6",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
     }
   ],
   "Groutedata":[
