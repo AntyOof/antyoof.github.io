@@ -216,7 +216,7 @@
   },
   {
     "route":"25A",
-    "direction":0,
+    "direction":1,
     "day":0,
     "time":[
       "07:10",
@@ -231,7 +231,7 @@
   },
   {
     "route":"25B",
-    "direction":0,
+    "direction":1,
     "day":0,
     "time":[
       "07:55",
