@@ -134,6 +134,15 @@
   },
   {
     "number":13,
+    "route":"CNY",
+    "front":1,
+    "frontid1":"rbxassetid://16286531440",
+    "controllerid1":"rbxassetid://16286552633",
+    "side":1,
+    "sideid1":"rbxassetid://16286531440"
+  },
+  {
+    "number":14,
     "route":"MAN",
     "front":1,
     "frontid1":"rbxassetid://16093533240",
@@ -142,7 +151,7 @@
     "sideid1":"rbxassetid://16093533240"
   },
   {
-    "number":14,
+    "number":15,
     "route":"MID",
     "front":2,
     "frontid1":"rbxassetid://14898212058",
@@ -154,7 +163,7 @@
     "sideid2":"rbxassetid://16186184596"
   },
   {
-    "number":15,
+    "number":16,
     "route":"N25",
     "front":1,
     "frontid1":"rbxassetid://15834719454",
@@ -164,7 +173,7 @@
     "sideid2":"rbxassetid://15845214137"
   },
   {
-    "number":16,
+    "number":17,
     "route":"PLG",
     "front":1,
     "frontid1":"rbxassetid://15834718258",
@@ -173,7 +182,7 @@
     "sideid1":"rbxassetid://16186185404"
   },
   {
-    "number":17,
+    "number":18,
     "route":"22TS",
     "front":1,
     "frontid1":"rbxassetid://15834721839",
@@ -183,7 +192,7 @@
     "sideid2":"rbxassetid://15834721628"
   },
   {
-    "number":18,
+    "number":19,
     "route":"22TZ",
     "front":1,
     "frontid1":"rbxassetid://15834721390",
@@ -193,7 +202,7 @@
     "sideid2":"rbxassetid://15834721163"
   },
   {
-    "number":19,
+    "number":20,
     "route":"25AZ",
     "front":1,
     "frontid1":"rbxassetid://15833842914",
@@ -203,7 +212,7 @@
     "sideid2":"rbxassetid://15833844605"
   },
   {
-    "number":20,
+    "number":21,
     "route":"25BZ",
     "front":1,
     "frontid1":"rbxassetid://15833874140",
@@ -213,7 +222,7 @@
     "sideid2":"rbxassetid://15845207606"
   },
   {
-    "number":21,
+    "number":22,
     "route":"26AZ",
     "front":2,
     "frontid1":"rbxassetid://15834720507",
@@ -225,7 +234,7 @@
     "sideid2":"rbxassetid://15834720214"
   },
   {
-    "number":22,
+    "number":23,
     "route":"N25Z",
     "front":1,
     "frontid1":"rbxassetid://15834718989",
@@ -235,7 +244,7 @@
     "sideid2":"rbxassetid://15834718730"
   },
   {
-    "number":23,
+    "number":24,
     "route":"STFF",
     "front":1,
     "frontid1":"rbxassetid://15834717656",
@@ -244,7 +253,7 @@
     "sideid1":"rbxassetid://15834717656"
   },
   {
-    "number":24,
+    "number":25,
     "route":"XMAS",
     "front":1,
     "frontid1":"rbxassetid://9208120050",
