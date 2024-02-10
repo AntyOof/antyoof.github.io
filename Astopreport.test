@@ -12,7 +12,7 @@
     "stoptexture":"rbxassetid://13755274576",
     "notification":0,
     "section":"Z1",
-    "hanover":"P"
+    "hanover":"CNY"
   },
   {
     "route":"GEO",
@@ -27,7 +27,7 @@
     "stoptexture":"rbxassetid://13755274576",
     "notification":8964,
     "section":"Z1",
-    "hanover":"P"
+    "hanover":"CNY"
   },
   {
     "route":"GEO",
@@ -42,7 +42,7 @@
     "stoptexture":"rbxassetid://13755274576",
     "notification":8964,
     "section":"Y1",
-    "hanover":"P"
+    "hanover":"CNY"
   },
   {
     "route":"22T",
@@ -469,7 +469,7 @@
     "stoptexture":"rbxassetid://13755274576",
     "notification":0,
     "section":"Y1",
-    "hanover":"P"
+    "hanover":"CNY"
   },
   {
     "route":"25B",
@@ -702,7 +702,7 @@
     "stoptexture":"rbxassetid://13755274576",
     "notification":0,
     "section":"Y1",
-    "hanover":"P"
+    "hanover":"CNY"
   },
   {
     "route":"26A",
