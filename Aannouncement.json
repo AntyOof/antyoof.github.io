@@ -14,15 +14,8 @@
     "engsound": ""
   },
   {
-    "name": "Mask",
-    "number": 3,
-    "texture": "rbxassetid://12448025343,rbxassetid://12448025086,rbxassetid://12448024955,rbxassetid://12448024820,rbxassetid://12448024612", 
-    "chisound": "",
-    "engsound": ""
-  },
-  {
     "name": "Bell",
-    "number": 4,
+    "number": 3,
     "texture": "rbxassetid://12448033117,rbxassetid://12448032913,rbxassetid://12448032765,rbxassetid://12448032598,rbxassetid://12448032442,rbxassetid://12448032278",
     "chisound": "",
     "engsound": ""
