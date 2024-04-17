@@ -3,15 +3,15 @@
     "name": "Handrail",
     "number": 1,
     "texture": "rbxassetid://12407905111,rbxassetid://12407907478,rbxassetid://12407909263,rbxassetid://12407910258,rbxassetid://12407912595,rbxassetid://12407913467,rbxassetid://12407914277,rbxassetid://12407915066", 
-    "chisound": "rbxassetid://17140575732",
-    "engsound": "rbxassetid://17140576778"
+    "chisound": "",
+    "engsound": ""
   },
   {
     "name": "Seatbelt",
     "number": 2,
     "texture": "rbxassetid://12447874085,rbxassetid://12447873854,rbxassetid://12447873677,rbxassetid://12447873572,rbxassetid://12447873473,rbxassetid://12447873370,rbxassetid://12447873249",
-    "chisound": "rbxassetid://17140586434",
-    "engsound": "rbxassetid://17140587333"
+    "chisound": "",
+    "engsound": ""
   },
   {
     "name": "Bell",
