@@ -34,22 +34,22 @@
       "number":3,
       "route":"V",
       "front":1,
-      "frontid1":"rbxassetid://16478416011",
-      "controllerid1":"rbxassetid://16535267670",
+      "frontid1":"rbxassetid://17270917413",
+      "controllerid1":"rbxassetid://17271234517",
       "side":1,
-      "sideid1":"rbxassetid://16478416011"
+      "sideid1":"rbxassetid://17270917413"
    },
    {
       "number":4,
       "route":"26",
       "front":2,
-      "frontid1":"rbxassetid://17270897441",
-      "frontid2":"rbxassetid://17270898451",
-      "controllerid1":"rbxassetid://16535272952",
-      "controllerid2":"rbxassetid://16535272779",
+      "frontid1":"rbxassetid://17270897420",
+      "frontid2":"rbxassetid://17270898430",
+      "controllerid1":"rbxassetid://17271205321",
+      "controllerid2":"rbxassetid://17271221059",
       "side":2,
-      "sideid1":"rbxassetid://17270897441",
-      "sideid2":"rbxassetid://17270898451"
+      "sideid1":"rbxassetid://17270897420",
+      "sideid2":"rbxassetid://17270898430"
    },
    {
       "number":5,
@@ -150,19 +150,19 @@
       "number":14,
       "route":"26G",
       "front":1,
-      "frontid1":"rbxassetid://17270904666",
-      "controllerid1":"rbxassetid://15834764343",
+      "frontid1":"rbxassetid://17270904656",
+      "controllerid1":"rbxassetid://17271224789",
       "side":1,
-      "sideid1":"rbxassetid://17270904666"
+      "sideid1":"rbxassetid://17270904656"
    },
    {
       "number":15,
       "route":"26N",
       "front":1,
-      "frontid1":"rbxassetid://17270906541",
-      "controllerid1":"rbxassetid://15834764343",
+      "frontid1":"rbxassetid://17270906518",
+      "controllerid1":"rbxassetid://17271227311",
       "side":1,
-      "sideid1":"rbxassetid://17270906541"
+      "sideid1":"rbxassetid://17270906518"
    },
    {
       "number":16,
@@ -201,31 +201,29 @@
       "number":19,
       "route":"27G",
       "front":1,
-      "frontid1":"rbxassetid://17270910617",
-      "controllerid1":"rbxassetid://16535270372",
+      "frontid1":"rbxassetid://17270910610",
+      "controllerid1":"rbxassetid://17271229664",
       "side":1,
-      "sideid1":"rbxassetid://17270910617"
+      "sideid1":"rbxassetid://17270910610"
    },
    {
       "number":20,
       "route":"27N",
       "front":1,
-      "frontid1":"rbxassetid://17270911164",
-      "controllerid1":"rbxassetid://16535270372",
+      "frontid1":"rbxassetid://17270911155",
+      "controllerid1":"rbxassetid://17271230554   ",
       "side":1,
-      "sideid1":"rbxassetid://17270911164"
+      "sideid1":"rbxassetid://17270911155"
    },
    {
       "number":21,
       "route":"27T",
-      "front":2,
-      "frontid1":"rbxassetid://17270915087",
-      "frontid2":"rbxassetid://17270916020",
-      "controllerid1":"rbxassetid://16535269346",
-      "controllerid2":"rbxassetid://16535269115",
+      "front":1,
+      "frontid1":"rbxassetid://17270915074",
+      "controllerid1":"rbxassetid://17270916009",
       "side":2,
-      "sideid1":"rbxassetid://17270915087",
-      "sideid2":"rbxassetid://17270916020"
+      "sideid1":"rbxassetid://17270915074",
+      "sideid2":"rbxassetid://17270916009"
    },
    {
       "number":22,
@@ -298,7 +296,7 @@
    },
    {
       "number":29,
-      "route":"22TA",
+      "route":"22TY",
       "front":1,
       "frontid1":"rbxassetid://15834721839",
       "controllerid1":"rbxassetid://15834766063",
@@ -340,19 +338,19 @@
       "number":33,
       "route":"26AG",
       "front":1,
-      "frontid1":"rbxassetid://17270901768",
-      "controllerid1":"rbxassetid://16535274973",
+      "frontid1":"rbxassetid://17270901753",
+      "controllerid1":"rbxassetid://17271221670",
       "side":1,
-      "sideid1":"rbxassetid://17270901768"
+      "sideid1":"rbxassetid://17270901753"
    },
    {
       "number":34,
       "route":"26AN",
       "front":1,
-      "frontid1":"rbxassetid://17270903506",
-      "controllerid1":"rbxassetid://16535274973",
+      "frontid1":"rbxassetid://17270903490",
+      "controllerid1":"rbxassetid://17271223896",
       "side":1,
-      "sideid1":"rbxassetid://17270903506"
+      "sideid1":"rbxassetid://17270903490"
    },
    {
       "number":35,
@@ -374,19 +372,19 @@
       "number":36,
       "route":"26PG",
       "front":1,
-      "frontid1":"rbxassetid://17270908103",
-      "controllerid1":"rbxassetid://16535274973",
+      "frontid1":"rbxassetid://17270908085",
+      "controllerid1":"rbxassetid://17271228269",
       "side":1,
-      "sideid1":"rbxassetid://17270908103"
+      "sideid1":"rbxassetid://17270908085"
    },
    {
       "number":37,
       "route":"26PN",
       "front":1,
-      "frontid1":"rbxassetid://17270909170",
-      "controllerid1":"rbxassetid://16535274973",
+      "frontid1":"rbxassetid://17270909132",
+      "controllerid1":"rbxassetid://17271229065",
       "side":1,
-      "sideid1":"rbxassetid://17270909170"
+      "sideid1":"rbxassetid://17270909132"
    },
    {
       "number":38,
@@ -407,19 +405,20 @@
       "number":39,
       "route":"27TG",
       "front":1,
-      "frontid1":"rbxassetid://17270912719",
-      "controllerid1":"rbxassetid://16535274973",
+      "frontid1":"rbxassetid://17270912709",
+      "controllerid1":"rbxassetid://17271232428",
       "side":1,
-      "sideid1":"rbxassetid://17270912719"
+      "sideid1":"rbxassetid://17270912709"
    },
    {
       "number":40,
       "route":"27TN",
       "front":1,
-      "frontid1":"rbxassetid://17270913828",
-      "controllerid1":"rbxassetid://16535274973",
-      "side":1,
-      "sideid1":"rbxassetid://17270913828"
+      "frontid1":"rbxassetid://17270913812",
+      "controllerid1":"rbxassetid://17271233241",
+      "side":2,
+      "sideid1":"rbxassetid://17270913812",
+      "sideid2":"rbxassetid://17270914429"
    },
    {
       "number":41,
