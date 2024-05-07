@@ -28,7 +28,7 @@
       "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000highway",
@@ -38,7 +38,7 @@
       "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000highway",
@@ -46,9 +46,9 @@
       "carplate":"XA 5627",
       "fleetnum":"V6L4",
       "depot":"G",
-      "leftad":"rbxassetid://7016816879",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000highway",
@@ -56,9 +56,9 @@
       "carplate":"XA 7700",
       "fleetnum":"V6L5",
       "depot":"G",
-      "leftad":"rbxassetid://6938517627",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000highway",
@@ -66,9 +66,9 @@
       "carplate":"XA 787",
       "fleetnum":"V6L6",
       "depot":"G",
-      "leftad":"rbxassetid://8485228633",
-      "rightad":"rbxassetid://8487436117",
-      "backad":"rbxassetid://8360318323"
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000highway",
@@ -78,7 +78,7 @@
       "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000highway",
@@ -86,9 +86,9 @@
       "carplate":"XA 8736",
       "fleetnum":"V6L8",
       "depot":"G",
-      "leftad":"rbxassetid://6938517627",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000highway",
@@ -96,9 +96,9 @@
       "carplate":"XA 8903",
       "fleetnum":"V6L9",
       "depot":"G",
-      "leftad":"rbxassetid://7016816879",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000highway",
@@ -106,9 +106,9 @@
       "carplate":"XA 9788",
       "fleetnum":"V6L10",
       "depot":"G",
-      "leftad":"rbxassetid://8005029103",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000highway",
@@ -116,9 +116,9 @@
       "carplate":"XA 8372",
       "fleetnum":"V6L11",
       "depot":"G",
-      "leftad":"rbxassetid://8005029103",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000highway",
@@ -126,9 +126,9 @@
       "carplate":"XA 8354",
       "fleetnum":"V6L12",
       "depot":"G",
-      "leftad":"rbxassetid://8485228633",
-      "rightad":"rbxassetid://8487436117",
-      "backad":"rbxassetid://8360318323"
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000highway",
@@ -136,9 +136,9 @@
       "carplate":"XA 8368",
       "fleetnum":"V6L13",
       "depot":"G",
-      "leftad":"rbxassetid://8005029103",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000highway",
@@ -146,9 +146,9 @@
       "carplate":"XA 8382",
       "fleetnum":"V6L14",
       "depot":"G",
-      "leftad":"rbxassetid://8005029103",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000highway",
@@ -156,9 +156,9 @@
       "carplate":"XA 8395",
       "fleetnum":"V6L15",
       "depot":"G",
-      "leftad":"rbxassetid://8005029103",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000normal",
@@ -168,7 +168,7 @@
       "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000normal",
@@ -178,7 +178,7 @@
       "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000normal",
@@ -188,7 +188,7 @@
       "depot":"A",
       "leftad":"rbxassetid://14126689128",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000normal",
@@ -197,8 +197,8 @@
       "fleetnum":"V6L19",
       "depot":"G",
       "leftad":"rbxassetid://",
-      "rightad":"rbxassetid://7058951525",
-      "backad":"rbxassetid://8360318323"
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000normal",
@@ -208,7 +208,7 @@
       "depot":"G",
       "leftad":"rbxassetid://7054846787",
       "rightad":"rbxassetid://",
-      "backad":"rbxassetid://8360318323"
+      "backad":"rbxassetid://"
     },
     {
       "busname":"GeoBusB8L12000normal",
@@ -227,7 +227,7 @@
       "fleetnum":"V6L22",
       "depot":"G",
       "leftad":"rbxassetid://",
-      "rightad":"rbxassetid://7058951525",
+      "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
     },
     {
@@ -267,7 +267,7 @@
       "fleetnum":"V6L26",
       "depot":"A",
       "leftad":"rbxassetid://14126689128",
-      "rightad":"rbxassetid://7058951525",
+      "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
     },
     {
@@ -327,7 +327,7 @@
       "fleetnum":"V6L32",
       "depot":"A",
       "leftad":"rbxassetid://7054846787",
-      "rightad":"rbxassetid://7058951525",
+      "rightad":"rbxassetid://",
       "backad":"rbxassetid://8371886346"
     },
     {
@@ -386,7 +386,7 @@
       "carplate":"XB 2587",
       "fleetnum":"V6L38",
       "depot":"A",
-      "leftad":"rbxassetid:/14126689128/",
+      "leftad":"rbxassetid://14126689128",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
     },
@@ -397,7 +397,7 @@
       "fleetnum":"V6L39",
       "depot":"A",
       "leftad":"rbxassetid://7054846787",
-      "rightad":"rbxassetid://7058951525",
+      "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
     },
     {
@@ -427,7 +427,7 @@
       "fleetnum":"V6L42",
       "depot":"A",
       "leftad":"rbxassetid://17328121027",
-      "rightad":"rbxassetid://8487436117",
+      "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
     },
     {
@@ -516,8 +516,8 @@
       "carplate":"XJ 8900",
       "fleetnum":"V6L51",
       "depot":"G",
-      "leftad":"rbxassetid://8485228633",
-      "rightad":"rbxassetid://8487436117",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
     },
     {
@@ -526,8 +526,8 @@
       "carplate":"XJ 8964",
       "fleetnum":"V6L52",
       "depot":"G",
-      "leftad":"rbxassetid://8485228633",
-      "rightad":"rbxassetid://8487436117",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
     },
     {
@@ -556,8 +556,8 @@
       "carplate":"XK 651",
       "fleetnum":"V6L55",
       "depot":"G",
-      "leftad":"rbxassetid://8485228633",
-      "rightad":"rbxassetid://8487436117",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
     },
     {
@@ -566,8 +566,8 @@
       "carplate":"XK 2356",
       "fleetnum":"V6L56",
       "depot":"G",
-      "leftad":"rbxassetid://8485228633",
-      "rightad":"rbxassetid://8487436117",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
       "backad":"rbxassetid://8373801085"
     },
     {
@@ -576,8 +576,8 @@
       "carplate":"XK 5427",
       "fleetnum":"V6L57",
       "depot":"G",
-      "leftad":"rbxassetid://8485228633",
-      "rightad":"rbxassetid://8487436117",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
       "backad":"rbxassetid://8373801085"
     },
     {
@@ -586,8 +586,8 @@
       "carplate":"XK 6754",
       "fleetnum":"V6L58",
       "depot":"G",
-      "leftad":"rbxassetid://8485228633",
-      "rightad":"rbxassetid://8487436117",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
       "backad":"rbxassetid://8373801085"
     },
     {
@@ -596,8 +596,8 @@
       "carplate":"XK 7291",
       "fleetnum":"V6L59",
       "depot":"G",
-      "leftad":"rbxassetid://8485228633",
-      "rightad":"rbxassetid://8487436117",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
       "backad":"rbxassetid://8373801085"
     },
     {
@@ -606,8 +606,8 @@
       "carplate":"XK 8462",
       "fleetnum":"V6L60",
       "depot":"G",
-      "leftad":"rbxassetid://8485228633",
-      "rightad":"rbxassetid://8487436117",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
     },
     {
@@ -646,7 +646,7 @@
       "carplate":"XL 1823",
       "fleetnum":"V6L64",
       "depot":"G",
-      "leftad":"rbxassetid://8005029103",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://8373801085"
     },
@@ -696,7 +696,7 @@
       "carplate":"XL 7560",
       "fleetnum":"V6L69",
       "depot":"G",
-      "leftad":"rbxassetid://8005029103",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
     },
@@ -706,7 +706,7 @@
       "carplate":"XL 9487",
       "fleetnum":"V6L70",
       "depot":"G",
-      "leftad":"rbxassetid://8005029103",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
     },
