@@ -676,7 +676,7 @@
       "carplate":"XL 2136",
       "fleetnum":"V6L67",
       "depot":"A",
-      "leftad":"rbxassetid://11432143773",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://16330063845"
     },
@@ -1006,7 +1006,7 @@
       "carplate":"XY 170",
       "fleetnum":"W6S14",
       "depot":"A",
-      "leftad":"rbxassetid://11432143773",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
     },
@@ -1016,7 +1016,7 @@
       "carplate":"XY 6001",
       "fleetnum":"W6S15",
       "depot":"A",
-      "leftad":"rbxassetid://11432143773",
+      "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
     },
