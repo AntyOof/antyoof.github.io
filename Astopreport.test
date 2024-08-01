@@ -2623,7 +2623,7 @@
     "stoptexture":"rbxassetid://14732044764",
     "notification":0,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26",
     "distance":0,
     "time":0
   },
@@ -2641,7 +2641,7 @@
     "stoptexture":"rbxassetid://14756470486",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26",
     "distance":0,
     "time":0
   },
@@ -2659,7 +2659,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26",
     "distance":0,
     "time":0
   },
@@ -2677,7 +2677,7 @@
     "stoptexture":"rbxassetid://14732040502",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26",
     "distance":0,
     "time":0
   },
@@ -2695,7 +2695,7 @@
     "stoptexture":"rbxassetid://14756203261",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26",
     "distance":0,
     "time":0
   },
@@ -2713,7 +2713,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26",
     "distance":0,
     "time":0
   },
@@ -2731,7 +2731,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26",
     "distance":0,
     "time":0
   },
@@ -2749,7 +2749,7 @@
     "stoptexture":"rbxassetid://14732045331",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26",
     "distance":0,
     "time":0
   },
@@ -2767,7 +2767,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26",
     "distance":0,
     "time":0
   },
@@ -2785,7 +2785,7 @@
     "stoptexture":"!rbxassetid://14732045718",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26",
     "distance":0,
     "time":0
   },
@@ -2803,7 +2803,7 @@
     "stoptexture":"rbxassetid://14732041982",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26",
     "distance":0,
     "time":0
   },
@@ -2821,7 +2821,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26",
     "distance":0,
     "time":0
   },
@@ -2839,7 +2839,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -2857,7 +2857,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -2875,7 +2875,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -2893,7 +2893,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -2911,7 +2911,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -2929,7 +2929,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -2947,7 +2947,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -2965,7 +2965,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -2983,7 +2983,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3001,7 +3001,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3019,7 +3019,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3037,7 +3037,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3055,7 +3055,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3073,7 +3073,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3091,7 +3091,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3109,7 +3109,7 @@
     "stoptexture":"",
     "notification":2,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3127,7 +3127,7 @@
     "stoptexture":"rbxassetid://14732044764",
     "notification":0,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26B",
     "distance":0,
     "time":0
   },
@@ -3145,7 +3145,7 @@
     "stoptexture":"rbxassetid://14756470486",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26B",
     "distance":0,
     "time":0
   },
@@ -3163,7 +3163,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26B",
     "distance":0,
     "time":0
   },
@@ -3181,7 +3181,7 @@
     "stoptexture":"rbxassetid://14732040502",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26B",
     "distance":0,
     "time":0
   },
@@ -3199,7 +3199,7 @@
     "stoptexture":"rbxassetid://14756203261",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26B",
     "distance":0,
     "time":0
   },
@@ -3217,7 +3217,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26B",
     "distance":0,
     "time":0
   },
@@ -3235,7 +3235,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26B",
     "distance":0,
     "time":0
   },
@@ -3253,7 +3253,7 @@
     "stoptexture":"rbxassetid://14732045331",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26B",
     "distance":0,
     "time":0
   },
@@ -3271,7 +3271,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26B",
     "distance":0,
     "time":0
   },
@@ -3289,7 +3289,7 @@
     "stoptexture":"!rbxassetid://14732045718",
     "notification":1,
     "section":"Y1",
-    "hanover":"26Y",
+    "hanover":"26B",
     "distance":0,
     "time":0
   },
@@ -3307,7 +3307,7 @@
     "stoptexture":"rbxassetid://14732041982",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26B",
     "distance":0,
     "time":0
   },
@@ -3325,7 +3325,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26B",
     "distance":0,
     "time":0
   },
@@ -3343,7 +3343,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3361,7 +3361,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3379,7 +3379,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3397,7 +3397,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3415,7 +3415,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3433,7 +3433,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3451,7 +3451,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3469,7 +3469,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3487,7 +3487,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3505,7 +3505,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3523,7 +3523,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3541,7 +3541,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -3559,7 +3559,7 @@
     "stoptexture":"",
     "notification":2,
     "section":"Y2",
-    "hanover":"26Y",
+    "hanover":"26G",
     "distance":0,
     "time":0
   },
@@ -4081,7 +4081,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"27",
+    "hanover":"27G",
     "distance":0,
     "time":0
   },
@@ -4099,7 +4099,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"27",
+    "hanover":"27G",
     "distance":0,
     "time":0
   },
@@ -4117,7 +4117,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"27",
+    "hanover":"27G",
     "distance":0,
     "time":0
   },
@@ -4135,7 +4135,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"27",
+    "hanover":"27G",
     "distance":0,
     "time":0
   },
@@ -4153,7 +4153,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Y2",
-    "hanover":"27",
+    "hanover":"27G",
     "distance":0,
     "time":0
   },
@@ -4171,7 +4171,7 @@
     "stoptexture":"",
     "notification":2,
     "section":"Y2",
-    "hanover":"27",
+    "hanover":"27G",
     "distance":0,
     "time":0
   },
