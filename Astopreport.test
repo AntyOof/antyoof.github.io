@@ -871,7 +871,7 @@
     "stoptexture":"",
     "notification":0,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -887,7 +887,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -903,7 +903,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -919,7 +919,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -935,7 +935,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -951,7 +951,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -967,7 +967,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -983,7 +983,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -999,7 +999,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1015,7 +1015,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1031,7 +1031,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1047,7 +1047,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1063,7 +1063,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1079,7 +1079,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1095,7 +1095,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z2",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1111,7 +1111,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z2",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1127,7 +1127,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1143,7 +1143,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1159,7 +1159,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1175,7 +1175,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1191,7 +1191,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1207,7 +1207,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1223,7 +1223,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1239,7 +1239,7 @@
     "stoptexture":"",
     "notification":2,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1250,7 +1250,7 @@
     "eng":"Wan Po Kok Road Roundabout",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1261,7 +1261,7 @@
     "eng":"Big House",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1272,7 +1272,7 @@
     "eng":"St. Regina's College",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1283,7 +1283,7 @@
     "eng":"Wan Po Kok Mansion",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1294,7 +1294,7 @@
     "eng":"Majestic Palace",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1305,7 +1305,7 @@
     "eng":"Villa by the Bay",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1316,7 +1316,7 @@
     "eng":"Wan Po Kok Beach",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1327,7 +1327,7 @@
     "eng":"Wan Po Kok",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1338,7 +1338,7 @@
     "eng":"Wan Po Kok Road Lookout",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1349,7 +1349,7 @@
     "eng":"On Luk House Luk Hang Estate",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1360,7 +1360,7 @@
     "eng":"Wan Po Kok Road Service Reservoir",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1376,7 +1376,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z2",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1392,7 +1392,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z2",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1408,7 +1408,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1424,7 +1424,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1440,7 +1440,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1456,7 +1456,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1472,7 +1472,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1488,7 +1488,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1504,7 +1504,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1520,7 +1520,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1536,7 +1536,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1552,7 +1552,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1568,7 +1568,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1584,7 +1584,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1600,7 +1600,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1616,7 +1616,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1632,7 +1632,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1648,7 +1648,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1664,7 +1664,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1680,7 +1680,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1696,7 +1696,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1712,7 +1712,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1728,7 +1728,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1744,7 +1744,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z2",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1760,7 +1760,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z2",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1776,7 +1776,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1792,7 +1792,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1808,7 +1808,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1824,7 +1824,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1840,7 +1840,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1856,7 +1856,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1872,7 +1872,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1888,7 +1888,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -1904,7 +1904,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1920,7 +1920,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1936,7 +1936,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1952,7 +1952,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1968,7 +1968,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -1984,7 +1984,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -2000,7 +2000,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -2016,7 +2016,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -2032,7 +2032,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -2048,7 +2048,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -2064,7 +2064,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -2080,7 +2080,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -2096,7 +2096,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -2112,7 +2112,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -2128,7 +2128,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -2144,7 +2144,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -2160,7 +2160,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z2",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -2176,7 +2176,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z2",
-    "hanover":"26"
+    "hanover":"26Z"
   },
   {
     "route":"26",
@@ -2192,7 +2192,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -2208,7 +2208,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -2224,7 +2224,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -2240,7 +2240,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -2256,7 +2256,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -2272,7 +2272,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -2288,7 +2288,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"26",
@@ -2304,7 +2304,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"26"
+    "hanover":"26N"
   },
   {
     "route":"27",
@@ -2320,7 +2320,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"27"
+    "hanover":"27Z"
   },
   {
     "route":"27",
@@ -2336,7 +2336,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"27"
+    "hanover":"27Z"
   },
   {
     "route":"27",
@@ -2352,7 +2352,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"27"
+    "hanover":"27Z"
   },
   {
     "route":"27",
@@ -2368,7 +2368,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"27"
+    "hanover":"27Z"
   },
   {
     "route":"27",
@@ -2384,7 +2384,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"27"
+    "hanover":"27Z"
   },
   {
     "route":"27",
@@ -2400,7 +2400,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"27"
+    "hanover":"27Z"
   },
   {
     "route":"27",
@@ -2416,7 +2416,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z2",
-    "hanover":"27"
+    "hanover":"27Z"
   },
   {
     "route":"27",
@@ -2432,7 +2432,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z2",
-    "hanover":"27"
+    "hanover":"27Z"
   },
   {
     "route":"27",
@@ -2448,7 +2448,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"27"
+    "hanover":"27N"
   },
   {
     "route":"27",
@@ -2464,7 +2464,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"27"
+    "hanover":"27N"
   },
   {
     "route":"27",
@@ -2480,7 +2480,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"27"
+    "hanover":"27N"
   },
   {
     "route":"27",
@@ -2496,7 +2496,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"27"
+    "hanover":"27N"
   },
   {
     "route":"27",
@@ -2512,7 +2512,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"27"
+    "hanover":"27N"
   },
   {
     "route":"27",
@@ -2528,7 +2528,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"27"
+    "hanover":"27N"
   },
   {
     "route":"27",
@@ -2544,7 +2544,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"27"
+    "hanover":"27N"
   },
   {
     "route":"27",
@@ -2560,7 +2560,7 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z3",
-    "hanover":"27"
+    "hanover":"27N"
   },
   {
     "route":"26A",
