@@ -422,9 +422,8 @@
       "front":1,
       "frontid1":"rbxassetid://17270913812",
       "controllerid1":"rbxassetid://17271233241",
-      "side":2,
-      "sideid1":"rbxassetid://17270913812",
-      "sideid2":"rbxassetid://17270914429"
+      "side":1,
+      "sideid1":"rbxassetid://18770088382"
    },
    {
       "number":42,
@@ -434,9 +433,8 @@
       "frontid2":"rbxassetid://16478417005",
       "controllerid1":"rbxassetid://16535268912",
       "controllerid2":"rbxassetid://16535268660",
-      "side":2,
-      "sideid1":"rbxassetid://16478417279",
-      "sideid2":"rbxassetid://16478417005"
+      "side":1,
+      "sideid1":"rbxassetid://18770088382"
    },
    {
       "number":43,
