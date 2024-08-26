@@ -1172,7 +1172,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":14,
+    "nextstop":15,
     "routeing":1,
     "chi":"環埔角道配水庫",
     "chisound":"rbxassetid://81907099343895",
@@ -1190,7 +1190,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":15,
+    "nextstop":16,
     "routeing":1,
     "chi":"氡漕灣",
     "chisound":"rbxassetid://14082862667",
@@ -1208,7 +1208,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":16,
+    "nextstop":17,
     "routeing":1,
     "chi":"氡漕灣碼頭",
     "chisound":"rbxassetid://14085346790",
@@ -1226,7 +1226,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":17,
+    "nextstop":18,
     "routeing":1,
     "chi":"禮雋圍邨雋萊樓",
     "chisound":"rbxassetid://14082867400",
@@ -1244,7 +1244,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":18,
+    "nextstop":19,
     "routeing":1,
     "chi":"禮雋圍體育館",
     "chisound":"rbxassetid://127631779417585",
@@ -1262,7 +1262,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":19,
+    "nextstop":20,
     "routeing":1,
     "chi":"德爾塔廣場",
     "chisound":"rbxassetid://14082867540",
@@ -1280,7 +1280,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":20,
+    "nextstop":21,
     "routeing":1,
     "chi":"嘟錦秋小學",
     "chisound":"rbxassetid://14082866972",
@@ -1298,7 +1298,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":21,
+    "nextstop":22,
     "routeing":1,
     "chi":"東燒坪邨",
     "chisound":"rbxassetid://14082862040",
@@ -1316,7 +1316,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":22,
+    "nextstop":23,
     "routeing":1,
     "chi":"東燒坪邨燒瑟樓",
     "chisound":"rbxassetid://124153742815533",
@@ -1334,7 +1334,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":23,
+    "nextstop":24,
     "routeing":1,
     "chi":"恆馳海濱公園",
     "chisound":"rbxassetid://14085355316",
@@ -1352,7 +1352,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":24,
+    "nextstop":25,
     "routeing":1,
     "chi":"恆馳碼頭",
     "chisound":"rbxassetid://14082866601",
@@ -2000,7 +2000,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":13,
+    "nextstop":14,
     "routeing":3,
     "chi":"環埔角道配水庫",
     "chisound":"rbxassetid://81907099343895",
@@ -2018,7 +2018,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":14,
+    "nextstop":15,
     "routeing":3,
     "chi":"氡漕灣",
     "chisound":"rbxassetid://14082862667",
@@ -2036,7 +2036,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":15,
+    "nextstop":16,
     "routeing":3,
     "chi":"氡漕灣碼頭",
     "chisound":"rbxassetid://14085346790",
@@ -2054,7 +2054,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":16,
+    "nextstop":17,
     "routeing":3,
     "chi":"禮雋圍邨雋萊樓",
     "chisound":"rbxassetid://14082867400",
@@ -2072,7 +2072,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":17,
+    "nextstop":18,
     "routeing":3,
     "chi":"禮雋圍體育館",
     "chisound":"rbxassetid://127631779417585",
@@ -2090,7 +2090,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":18,
+    "nextstop":19,
     "routeing":3,
     "chi":"德爾塔廣場",
     "chisound":"rbxassetid://14082867540",
@@ -2108,7 +2108,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":19,
+    "nextstop":20,
     "routeing":3,
     "chi":"嘟錦秋小學",
     "chisound":"rbxassetid://14082866972",
@@ -2126,7 +2126,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":20,
+    "nextstop":21,
     "routeing":3,
     "chi":"東燒坪邨",
     "chisound":"rbxassetid://14082862040",
@@ -2144,7 +2144,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":21,
+    "nextstop":22,
     "routeing":3,
     "chi":"東燒坪邨燒瑟樓",
     "chisound":"rbxassetid://124153742815533",
@@ -2162,7 +2162,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":22,
+    "nextstop":23,
     "routeing":3,
     "chi":"恆馳海濱公園",
     "chisound":"rbxassetid://14085355316",
@@ -2180,7 +2180,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":23,
+    "nextstop":24,
     "routeing":3,
     "chi":"恆馳碼頭",
     "chisound":"rbxassetid://14082866601",
@@ -2486,7 +2486,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":16,
+    "nextstop":17,
     "routeing":4,
     "chi":"環埔角道配水庫",
     "chisound":"rbxassetid://81907099343895",
@@ -2504,7 +2504,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":17,
+    "nextstop":18,
     "routeing":4,
     "chi":"氡漕灣",
     "chisound":"rbxassetid://14082862667",
@@ -2522,7 +2522,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":18,
+    "nextstop":19,
     "routeing":4,
     "chi":"氡漕灣碼頭",
     "chisound":"rbxassetid://14085346790",
@@ -2540,7 +2540,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":19,
+    "nextstop":20,
     "routeing":4,
     "chi":"禮雋圍邨雋萊樓",
     "chisound":"rbxassetid://14082867400",
@@ -2558,7 +2558,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":20,
+    "nextstop":21,
     "routeing":4,
     "chi":"禮雋圍體育館",
     "chisound":"rbxassetid://127631779417585",
@@ -2576,7 +2576,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":21,
+    "nextstop":22,
     "routeing":4,
     "chi":"德爾塔廣場",
     "chisound":"rbxassetid://14082867540",
@@ -2594,7 +2594,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":22,
+    "nextstop":23,
     "routeing":4,
     "chi":"嘟錦秋小學",
     "chisound":"rbxassetid://14082866972",
@@ -2612,7 +2612,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":23,
+    "nextstop":24,
     "routeing":4,
     "chi":"東燒坪邨",
     "chisound":"rbxassetid://14082862040",
@@ -2630,7 +2630,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":24,
+    "nextstop":25,
     "routeing":4,
     "chi":"東燒坪邨燒瑟樓",
     "chisound":"rbxassetid://124153742815533",
@@ -2648,7 +2648,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":25,
+    "nextstop":26,
     "routeing":4,
     "chi":"恆馳海濱公園",
     "chisound":"rbxassetid://14085355316",
@@ -2666,7 +2666,7 @@
   {
     "route":"26",
     "direction":0,
-    "nextstop":26,
+    "nextstop":27,
     "routeing":4,
     "chi":"恆馳碼頭",
     "chisound":"rbxassetid://14082866601",
@@ -2936,7 +2936,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":14,
+    "nextstop":15,
     "routeing":1,
     "chi":"鹿坑邨安鹿樓",
     "chisound":"rbxassetid://85253829425938",
@@ -2954,7 +2954,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":15,
+    "nextstop":16,
     "routeing":1,
     "chi":"環埔角道眺望處",
     "chisound":"rbxassetid://121138271269621",
@@ -2972,7 +2972,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":16,
+    "nextstop":17,
     "routeing":1,
     "chi":"鹿欣徑",
     "chisound":"rbxassetid://85337118768026",
@@ -2990,7 +2990,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":17,
+    "nextstop":18,
     "routeing":1,
     "chi":"環欣苑",
     "chisound":"",
@@ -3008,7 +3008,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":18,
+    "nextstop":19,
     "routeing":1,
     "chi":"鹿坑邨",
     "chisound":"rbxassetid://140059707792769",
@@ -3026,7 +3026,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":19,
+    "nextstop":20,
     "routeing":1,
     "chi":"環埔角泳灘",
     "chisound":"rbxassetid://104094536200580",
@@ -3044,7 +3044,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":20,
+    "nextstop":21,
     "routeing":1,
     "chi":"灝景臺",
     "chisound":"rbxassetid://120156244791501",
@@ -3062,7 +3062,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":21,
+    "nextstop":22,
     "routeing":1,
     "chi":"寶雅苑",
     "chisound":"rbxassetid://119878601138705",
@@ -3080,7 +3080,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":22,
+    "nextstop":23,
     "routeing":1,
     "chi":"環埔角道迴旋處",
     "chisound":"rbxassetid://82262620858215",
@@ -3098,7 +3098,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":23,
+    "nextstop":24,
     "routeing":1,
     "chi":"碧居",
     "chisound":"rbxassetid://114355724945623",
@@ -3116,7 +3116,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":24,
+    "nextstop":25,
     "routeing":1,
     "chi":"聖里賈納書院",
     "chisound":"rbxassetid://93038408241074",
@@ -3134,7 +3134,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":25,
+    "nextstop":26,
     "routeing":1,
     "chi":"環埔角別墅",
     "chisound":"rbxassetid://82718737115911",
@@ -3152,7 +3152,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":26,
+    "nextstop":27,
     "routeing":1,
     "chi":"寶雅苑",
     "chisound":"rbxassetid://119878601138705",
@@ -3170,7 +3170,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":27,
+    "nextstop":28,
     "routeing":1,
     "chi":"岸居",
     "chisound":"rbxassetid://135577387067868",
@@ -3188,7 +3188,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":28,
+    "nextstop":29,
     "routeing":1,
     "chi":"環埔角",
     "chisound":"rbxassetid://87730548869769",
@@ -3458,7 +3458,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":14,
+    "nextstop":15,
     "routeing":2,
     "chi":"鹿坑邨安鹿樓",
     "chisound":"rbxassetid://85253829425938",
@@ -3476,7 +3476,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":15,
+    "nextstop":16,
     "routeing":2,
     "chi":"環埔角道眺望處",
     "chisound":"rbxassetid://121138271269621",
@@ -3494,7 +3494,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":16,
+    "nextstop":17,
     "routeing":2,
     "chi":"環埔角泳灘",
     "chisound":"rbxassetid://104094536200580",
@@ -3512,7 +3512,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":17,
+    "nextstop":18,
     "routeing":2,
     "chi":"灝景臺",
     "chisound":"rbxassetid://120156244791501",
@@ -3530,7 +3530,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":18,
+    "nextstop":19,
     "routeing":2,
     "chi":"寶雅苑",
     "chisound":"rbxassetid://119878601138705",
@@ -3548,7 +3548,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":19,
+    "nextstop":20,
     "routeing":2,
     "chi":"環埔角道迴旋處",
     "chisound":"rbxassetid://82262620858215",
@@ -3566,7 +3566,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":20,
+    "nextstop":21,
     "routeing":2,
     "chi":"碧居",
     "chisound":"rbxassetid://114355724945623",
@@ -3584,7 +3584,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":21,
+    "nextstop":22,
     "routeing":2,
     "chi":"聖里賈納書院",
     "chisound":"rbxassetid://93038408241074",
@@ -3602,7 +3602,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":22,
+    "nextstop":23,
     "routeing":2,
     "chi":"環埔角別墅",
     "chisound":"rbxassetid://82718737115911",
@@ -3620,7 +3620,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":23,
+    "nextstop":24,
     "routeing":2,
     "chi":"寶雅苑",
     "chisound":"rbxassetid://119878601138705",
@@ -3638,7 +3638,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":24,
+    "nextstop":25,
     "routeing":2,
     "chi":"岸居",
     "chisound":"rbxassetid://135577387067868",
@@ -3656,7 +3656,7 @@
   {
     "route":"26",
     "direction":1,
-    "nextstop":25,
+    "nextstop":26,
     "routeing":2,
     "chi":"環埔角",
     "chisound":"rbxassetid://87730548869769",
