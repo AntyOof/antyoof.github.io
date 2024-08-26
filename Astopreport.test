@@ -4232,7 +4232,7 @@
   {
     "route":"26P",
     "direction":0,
-    "nextstop":9,
+    "nextstop":10,
     "routeing":1,
     "chi":"環埔角道配水庫",
     "chisound":"",
@@ -4243,24 +4243,6 @@
     "stoptexture":"",
     "notification":1,
     "section":"Z1",
-    "hanover":"26PZ",
-    "distance":0,
-    "time":0
-  },
-  {
-    "route":"26P",
-    "direction":0,
-    "nextstop":10,
-    "routeing":1,
-    "chi":"氡漕灣",
-    "chisound":"",
-    "eng":"Radon Bay",
-    "engsound":"",
-    "arrtexture":"",
-    "texture":"",
-    "stoptexture":"",
-    "notification":1,
-    "section":"Z2",
     "hanover":"26PZ",
     "distance":0,
     "time":0
@@ -4630,24 +4612,6 @@
     "direction":1,
     "nextstop":12,
     "routeing":1,
-    "chi":"氡漕灣",
-    "chisound":"rbxassetid://14082862667",
-    "eng":"Radon Bay",
-    "engsound":"rbxassetid://14084144566",
-    "arrtexture":"rbxassetid://14750204854",
-    "texture":"rbxassetid://14750204326,rbxassetid://14750205219",
-    "stoptexture":"rbxassetid://14732042331",
-    "notification":1,
-    "section":"Y2",
-    "hanover":"26P",
-    "distance":0,
-    "time":0
-  },
-  {
-    "route":"26P",
-    "direction":1,
-    "nextstop":13,
-    "routeing":1,
     "chi":"環埔角道配水庫",
     "chisound":"",
     "eng":"Wan Po Kok Road Service Reservoir",
@@ -4664,7 +4628,7 @@
   {
     "route":"26P",
     "direction":1,
-    "nextstop":14,
+    "nextstop":13,
     "routeing":1,
     "chi":"環埔角變電站",
     "chisound":"",
@@ -4718,7 +4682,7 @@
   {
     "route":"26P",
     "direction":1,
-    "nextstop":20,
+    "nextstop":16,
     "routeing":1,
     "chi":"灝景臺",
     "chisound":"",
@@ -4736,7 +4700,7 @@
   {
     "route":"26P",
     "direction":1,
-    "nextstop":21,
+    "nextstop":17,
     "routeing":1,
     "chi":"寶雅苑",
     "chisound":"",
@@ -4754,7 +4718,7 @@
   {
     "route":"26P",
     "direction":1,
-    "nextstop":22,
+    "nextstop":18,
     "routeing":1,
     "chi":"環埔角道迴旋處",
     "chisound":"",
@@ -4772,7 +4736,7 @@
   {
     "route":"26P",
     "direction":1,
-    "nextstop":23,
+    "nextstop":19,
     "routeing":1,
     "chi":"碧居",
     "chisound":"",
@@ -4790,7 +4754,7 @@
   {
     "route":"26P",
     "direction":1,
-    "nextstop":24,
+    "nextstop":20,
     "routeing":1,
     "chi":"聖里賈納書院",
     "chisound":"",
@@ -4898,7 +4862,7 @@
   {
     "route":"27",
     "direction":0,
-    "nextstop":7,
+    "nextstop":6,
     "routeing":1,
     "chi":"環埔角變電站",
     "chisound":"",
@@ -4916,7 +4880,7 @@
   {
     "route":"27",
     "direction":0,
-    "nextstop":6,
+    "nextstop":7,
     "routeing":1,
     "chi":"環埔角道配水庫",
     "chisound":"",
@@ -4934,7 +4898,7 @@
   {
     "route":"27",
     "direction":0,
-    "nextstop":7,
+    "nextstop":8,
     "routeing":1,
     "chi":"氡漕灣",
     "chisound":"",
@@ -4952,7 +4916,7 @@
   {
     "route":"27",
     "direction":0,
-    "nextstop":8,
+    "nextstop":9,
     "routeing":1,
     "chi":"氡漕灣碼頭",
     "chisound":"rbxassetid://14085346790",
@@ -4970,7 +4934,7 @@
   {
     "route":"27",
     "direction":0,
-    "nextstop":9,
+    "nextstop":10,
     "routeing":1,
     "chi":"禮雋圍邨雋萊樓",
     "chisound":"rbxassetid://14082867400",
@@ -4988,7 +4952,7 @@
   {
     "route":"27",
     "direction":0,
-    "nextstop":10,
+    "nextstop":11,
     "routeing":1,
     "chi":"禮雋圍體育館",
     "chisound":"",
@@ -5006,7 +4970,7 @@
   {
     "route":"27",
     "direction":0,
-    "nextstop":11,
+    "nextstop":12,
     "routeing":1,
     "chi":"德爾塔廣場",
     "chisound":"rbxassetid://14082867540",
@@ -5024,7 +4988,7 @@
   {
     "route":"27",
     "direction":0,
-    "nextstop":12,
+    "nextstop":13,
     "routeing":1,
     "chi":"嘟錦秋小學",
     "chisound":"rbxassetid://14082866972",
@@ -5042,7 +5006,7 @@
   {
     "route":"27",
     "direction":0,
-    "nextstop":13,
+    "nextstop":14,
     "routeing":1,
     "chi":"東燒坪邨",
     "chisound":"rbxassetid://14082862040",
@@ -5060,7 +5024,7 @@
   {
     "route":"27",
     "direction":0,
-    "nextstop":14,
+    "nextstop":15,
     "routeing":1,
     "chi":"東燒坪邨燒瑟樓",
     "chisound":"",
@@ -5078,7 +5042,7 @@
   {
     "route":"27",
     "direction":0,
-    "nextstop":15,
+    "nextstop":16,
     "routeing":1,
     "chi":"恆馳海濱公園",
     "chisound":"rbxassetid://14085355316",
@@ -5096,7 +5060,7 @@
   {
     "route":"27",
     "direction":0,
-    "nextstop":16,
+    "nextstop":17,
     "routeing":1,
     "chi":"恆馳碼頭",
     "chisound":"rbxassetid://14082866601",
@@ -5366,7 +5330,7 @@
   {
     "route":"27",
     "direction":1,
-    "nextstop":14,
+    "nextstop":15,
     "routeing":1,
     "chi":"鹿坑邨安鹿樓",
     "chisound":"",
@@ -5384,7 +5348,7 @@
   {
     "route":"27",
     "direction":1,
-    "nextstop":15,
+    "nextstop":16,
     "routeing":1,
     "chi":"環埔角道眺望處",
     "chisound":"",
@@ -5402,7 +5366,7 @@
   {
     "route":"27",
     "direction":1,
-    "nextstop":16,
+    "nextstop":17,
     "routeing":1,
     "chi":"鹿欣徑",
     "chisound":"",
@@ -5420,7 +5384,7 @@
   {
     "route":"27",
     "direction":1,
-    "nextstop":17,
+    "nextstop":18,
     "routeing":1,
     "chi":"環欣苑",
     "chisound":"",
@@ -5438,7 +5402,7 @@
   {
     "route":"27",
     "direction":1,
-    "nextstop":18,
+    "nextstop":19,
     "routeing":1,
     "chi":"鹿坑邨",
     "chisound":"",
@@ -5564,7 +5528,7 @@
   {
     "route":"27T",
     "direction":0,
-    "nextstop":8,
+    "nextstop":7,
     "routeing":1,
     "chi":"環埔角變電站",
     "chisound":"",
@@ -5582,7 +5546,7 @@
   {
     "route":"27T",
     "direction":0,
-    "nextstop":7,
+    "nextstop":8,
     "routeing":1,
     "chi":"環埔角道配水庫",
     "chisound":"",
@@ -5600,7 +5564,7 @@
   {
     "route":"27T",
     "direction":0,
-    "nextstop":8,
+    "nextstop":9,
     "routeing":1,
     "chi":"吳軾駕駛學院",
     "chisound":"rbxassetid://14085347448",
@@ -5618,7 +5582,7 @@
   {
     "route":"27T",
     "direction":0,
-    "nextstop":9,
+    "nextstop":10,
     "routeing":1,
     "chi":"恆馳火⾞站",
     "chisound":"rbxassetid://14082864495",
@@ -5636,7 +5600,7 @@
   {
     "route":"27T",
     "direction":0,
-    "nextstop":10,
+    "nextstop":11,
     "routeing":1,
     "chi":"恆馳東邨",
     "chisound":"",
@@ -5654,7 +5618,7 @@
   {
     "route":"27T",
     "direction":0,
-    "nextstop":11,
+    "nextstop":12,
     "routeing":1,
     "chi":"東燒坪邨燒理樓",
     "chisound":"rbxassetid://14082862310",
@@ -5672,7 +5636,7 @@
   {
     "route":"27T",
     "direction":0,
-    "nextstop":12,
+    "nextstop":13,
     "routeing":1,
     "chi":"恆馳海濱公園",
     "chisound":"rbxassetid://14085355316",
@@ -5690,7 +5654,7 @@
   {
     "route":"27T",
     "direction":0,
-    "nextstop":13,
+    "nextstop":14,
     "routeing":1,
     "chi":"恆馳碼頭",
     "chisound":"rbxassetid://14082866601",
@@ -5818,6 +5782,24 @@
     "direction": 0,
     "nextstop": 7,
     "routeing": 2,
+    "chi": "環埔角",
+    "chisound": "",
+    "eng": "Wan Po Kok",
+    "engsound": "",
+    "arrtexture": "",
+    "texture": "",
+    "stoptexture": "",
+    "notification": 1,
+    "section": "Z1",
+    "hanover": "27TZ",
+    "distance": 0,
+    "time": 0
+  },
+  {
+    "route": "27T",
+    "direction": 0,
+    "nextstop": 8,
+    "routeing": 2,
     "chi": "鹿坑邨",
     "chisound": "",
     "eng": "Luk Hang Estate",
@@ -5834,7 +5816,7 @@
   {
     "route": "27T",
     "direction": 0,
-    "nextstop": 8,
+    "nextstop": 9,
     "routeing": 2,
     "chi": "鹿坑邨康鹿樓",
     "chisound": "",
@@ -5852,7 +5834,7 @@
   {
     "route": "27T",
     "direction": 0,
-    "nextstop": 9,
+    "nextstop": 10,
     "routeing": 2,
     "chi": "鹿欣徑",
     "chisound": "",
@@ -5870,7 +5852,7 @@
   {
     "route": "27T",
     "direction": 0,
-    "nextstop": 10,
+    "nextstop": 11,
     "routeing": 2,
     "chi": "環埔角道眺望處",
     "chisound": "",
@@ -5888,7 +5870,7 @@
   {
     "route": "27T",
     "direction": 0,
-    "nextstop": 11,
+    "nextstop": 12,
     "routeing": 2,
     "chi": "鹿坑邨安鹿樓",
     "chisound": "",
@@ -5904,9 +5886,27 @@
     "time": 0
   },
   {
+    "route":"27T",
+    "direction":0,
+    "nextstop":13,
+    "routeing":1,
+    "chi":"環埔角變電站",
+    "chisound":"",
+    "eng":"Wan Po Kok Substation",
+    "engsound":"",
+    "arrtexture":"",
+    "texture":"",
+    "stoptexture":"",
+    "notification":1,
+    "section":"Z1",
+    "hanover":"27TZ",
+    "distance":0,
+    "time":0
+  },
+  {
     "route": "27T",
     "direction": 0,
-    "nextstop": 12,
+    "nextstop": 14,
     "routeing": 2,
     "chi": "環埔角道配水庫",
     "chisound": "",
@@ -5924,7 +5924,7 @@
   {
     "route": "27T",
     "direction": 0,
-    "nextstop": 13,
+    "nextstop": 15,
     "routeing": 2,
     "chi": "吳軾駕駛學院",
     "chisound": "rbxassetid://14085347448",
@@ -5942,7 +5942,7 @@
   {
     "route": "27T",
     "direction": 0,
-    "nextstop": 14,
+    "nextstop": 16,
     "routeing": 2,
     "chi": "恆馳火⾞站",
     "chisound": "rbxassetid://14082864495",
@@ -5960,7 +5960,7 @@
   {
     "route": "27T",
     "direction": 0,
-    "nextstop": 15,
+    "nextstop": 17,
     "routeing": 2,
     "chi": "恆馳東邨",
     "chisound": "",
@@ -5978,7 +5978,7 @@
   {
     "route": "27T",
     "direction": 0,
-    "nextstop": 16,
+    "nextstop": 18,
     "routeing": 2,
     "chi": "東燒坪邨燒理樓",
     "chisound": "rbxassetid://14082862310",
@@ -5996,7 +5996,7 @@
   {
     "route": "27T",
     "direction": 0,
-    "nextstop": 17,
+    "nextstop": 19,
     "routeing": 2,
     "chi": "恆馳海濱公園",
     "chisound": "rbxassetid://14085355316",
@@ -6014,7 +6014,7 @@
   {
     "route": "27T",
     "direction": 0,
-    "nextstop": 18,
+    "nextstop": 20,
     "routeing": 2,
     "chi": "恆馳碼頭",
     "chisound": "rbxassetid://14082866601",
@@ -6158,7 +6158,7 @@
   {
     "route": "27T",
     "direction": 1,
-    "nextstop": 7,
+    "nextstop": 8,
     "routeing": 1,
     "chi": "鹿坑邨安鹿樓",
     "chisound": "",
@@ -6176,7 +6176,7 @@
   {
     "route": "27T",
     "direction": 1,
-    "nextstop": 8,
+    "nextstop": 9,
     "routeing": 1,
     "chi": "環埔角道眺望處",
     "chisound": "",
@@ -6194,7 +6194,7 @@
   {
     "route": "27T",
     "direction": 1,
-    "nextstop": 9,
+    "nextstop": 10,
     "routeing": 1,
     "chi": "鹿欣徑",
     "chisound": "",
@@ -6212,7 +6212,7 @@
   {
     "route": "27T",
     "direction": 1,
-    "nextstop": 10,
+    "nextstop": 11,
     "routeing": 1,
     "chi": "環欣苑",
     "chisound": "",
@@ -6230,7 +6230,7 @@
   {
     "route": "27T",
     "direction": 1,
-    "nextstop": 11,
+    "nextstop": 12,
     "routeing": 1,
     "chi": "鹿坑邨",
     "chisound": "",
@@ -6248,7 +6248,7 @@
   {
     "route": "27T",
     "direction": 1,
-    "nextstop": 12,
+    "nextstop": 13,
     "routeing": 1,
     "chi": "環埔角",
     "chisound": "",
@@ -6257,7 +6257,7 @@
     "arrtexture": "",
     "texture": "",
     "stoptexture": "",
-    "notification": 0,
+    "notification": 2,
     "section": "Y2",
     "hanover": "27TG",
     "distance": 0,
@@ -6374,7 +6374,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":14,
+    "nextstop":7,
     "routeing":2,
     "chi":"環埔角變電站",
     "chisound":"",
@@ -6392,7 +6392,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":7,
+    "nextstop":8,
     "routeing":2,
     "chi":"鹿坑邨安鹿樓",
     "chisound":"",
@@ -6410,7 +6410,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":8,
+    "nextstop":9,
     "routeing":2,
     "chi":"環埔角道眺望處",
     "chisound":"",
@@ -6428,7 +6428,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":9,
+    "nextstop":10,
     "routeing":2,
     "chi":"鹿欣徑",
     "chisound":"",
@@ -6446,7 +6446,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":10,
+    "nextstop":11,
     "routeing":2,
     "chi":"環欣苑",
     "chisound":"",
@@ -6464,7 +6464,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":11,
+    "nextstop":12,
     "routeing":2,
     "chi":"鹿坑邨",
     "chisound":"",
@@ -6482,7 +6482,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":12,
+    "nextstop":13,
     "routeing":2,
     "chi":"灝景臺",
     "chisound":"",
@@ -6500,7 +6500,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":13,
+    "nextstop":14,
     "routeing":2,
     "chi":"寶雅苑",
     "chisound":"",
@@ -6518,7 +6518,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":14,
+    "nextstop":15,
     "routeing":2,
     "chi":"環埔角道迴旋處",
     "chisound":"",
@@ -6536,7 +6536,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":15,
+    "nextstop":16,
     "routeing":2,
     "chi":"碧居",
     "chisound":"",
@@ -6554,7 +6554,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":16,
+    "nextstop":17,
     "routeing":2,
     "chi":"聖里賈納書院",
     "chisound":"",
@@ -6572,7 +6572,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":17,
+    "nextstop":18,
     "routeing":2,
     "chi":"環埔角別墅",
     "chisound":"",
@@ -6590,7 +6590,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":18,
+    "nextstop":19,
     "routeing":2,
     "chi":"寶雅苑",
     "chisound":"",
@@ -6608,7 +6608,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":19,
+    "nextstop":20,
     "routeing":2,
     "chi":"岸居",
     "chisound":"",
@@ -6626,7 +6626,7 @@
   {
     "route":"27T",
     "direction":1,
-    "nextstop":20,
+    "nextstop":21,
     "routeing":2,
     "chi":"環埔角",
     "chisound":"",
