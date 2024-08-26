@@ -1131,6 +1131,116 @@
       "backad":"rbxassetid://17406313765"
     },
     {
+      "busname":"GeoBusE40010450new",
+      "number":1,
+      "carplate":"RB 6111",
+      "fleetnum":"E4S6",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+    {
+      "busname":"GeoBusE40010450new",
+      "number":2,
+      "carplate":"RB 6419",
+      "fleetnum":"E4S7",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+    {
+      "busname":"GeoBusE40010450new",
+      "number":3,
+      "carplate":"RB 6725",
+      "fleetnum":"E4S8",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+    {
+      "busname":"GeoBusE40010450new",
+      "number":4,
+      "carplate":"RB 7341",
+      "fleetnum":"E4S9",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+    {
+      "busname":"GeoBusE40010450new",
+      "number":5,
+      "carplate":"RB 7345",
+      "fleetnum":"E4S10",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+    {
+      "busname":"GeoBusE40010450new",
+      "number":6,
+      "carplate":"RE 5367",
+      "fleetnum":"E4S11",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+    {
+      "busname":"GeoBusE40010450new",
+      "number":7,
+      "carplate":"RE 6733",
+      "fleetnum":"E4S12",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+    {
+      "busname":"GeoBusE40010450new",
+      "number":8,
+      "carplate":"RE 6521",
+      "fleetnum":"E4S13",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+    {
+      "busname":"GeoBusE40010450new",
+      "number":9,
+      "carplate":"RE 7231",
+      "fleetnum":"E4S14",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+    {
+      "busname":"GeoBusE40010450new",
+      "number":10,
+      "carplate":"RE 7331",
+      "fleetnum":"E4S15",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+    {
+      "busname":"GeoBusE40010450new",
+      "number":11,
+      "carplate":"RE 851",
+      "fleetnum":"E4S16",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+    {
       "busname":"GeoBusB9TL12000",
       "number":1,
       "carplate":"PE 8796",
