@@ -176,16 +176,16 @@
     "destY":"東燒坪邨",
     "engdestY":"Tung Shiu Ping Estate",
     "routeingY":"循環線並不適用",
-    "maxPZ":"1",
+    "maxPZ":"3",
     "priceZ1":"9.9",
     "halfpriceZ1":"5.0",
-    "maxPY":"3",
+    "priceZ2":"8.3",
+    "halfpriceZ2":"4.2",
+    "priceZ3":"5.9",
+    "halfpriceZ3":"3.0"
+    "maxPY":"1",
     "priceY1":"9.9",
-    "halfpriceY1":"5.0",
-    "priceY2":"8.3",
-    "halfpriceY2":"4.2",
-    "priceY3":"5.9",
-    "halfpriceY3":"3.0"
+    "halfpriceY1":"5.0"
   },
   {
     "number":9,
