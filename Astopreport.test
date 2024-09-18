@@ -5431,7 +5431,7 @@
     "stoptexture":"rbxassetid://",
     "notification":0,
     "section":"Y1",
-    "hanover":"27R",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5449,7 +5449,7 @@
     "stoptexture":"rbxassetid://114570225651578",
     "notification":1,
     "section":"Y1",
-    "hanover":"27R",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5467,7 +5467,7 @@
     "stoptexture":"rbxassetid://111472395234645",
     "notification":1,
     "section":"Y1",
-    "hanover":"27R",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5485,7 +5485,7 @@
     "stoptexture":"rbxassetid://14732042331",
     "notification":1,
     "section":"Y1",
-    "hanover":"27R",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5503,7 +5503,7 @@
     "stoptexture":"!rbxassetid://14756470920",
     "notification":1,
     "section":"Z1",
-    "hanover":"27RZ",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5521,7 +5521,7 @@
     "stoptexture":"rbxassetid://14732042971",
     "notification":1,
     "section":"Z1",
-    "hanover":"27RZ",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5539,7 +5539,7 @@
     "stoptexture":"rbxassetid://14732045331",
     "notification":1,
     "section":"Z1",
-    "hanover":"27RZ",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5557,7 +5557,7 @@
     "stoptexture":"rbxassetid://14756202060",
     "notification":1,
     "section":"Z1",
-    "hanover":"27RZ",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5575,7 +5575,7 @@
     "stoptexture":"rbxassetid://14732046067",
     "notification":1,
     "section":"Z1",
-    "hanover":"27RZ",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5593,7 +5593,7 @@
     "stoptexture":"rbxassetid://14732043771",
     "notification":1,
     "section":"Z1",
-    "hanover":"27RZ",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5611,7 +5611,7 @@
     "stoptexture":"rbxassetid://14732040502",
     "notification":1,
     "section":"Z1",
-    "hanover":"27RZ",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5629,7 +5629,7 @@
     "stoptexture":"rbxassetid://14732043331",
     "notification":1,
     "section":"Z1",
-    "hanover":"27RZ",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5647,7 +5647,7 @@
     "stoptexture":"rbxassetid://14732044107",
     "notification":1,
     "section":"Z2",
-    "hanover":"27RZ",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5665,7 +5665,7 @@
     "stoptexture":"rbxassetid://14732042525",
     "notification":1,
     "section":"Z2",
-    "hanover":"27R",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5683,7 +5683,7 @@
     "stoptexture":"!rbxassetid://121723695697436",
     "notification":1,
     "section":"Z3",
-    "hanover":"27RN",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5701,7 +5701,7 @@
     "stoptexture":"rbxassetid://91306852394106",
     "notification":1,
     "section":"Z3",
-    "hanover":"27RN",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5719,7 +5719,7 @@
     "stoptexture":"rbxassetid://111472395234645",
     "notification":1,
     "section":"Z3",
-    "hanover":"27RN",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5737,7 +5737,7 @@
     "stoptexture":"!rbxassetid://110252692699905",
     "notification":1,
     "section":"Z3",
-    "hanover":"27RN",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5755,7 +5755,7 @@
     "stoptexture":"rbxassetid://72234311699137",
     "notification":1,
     "section":"Z3",
-    "hanover":"27RN",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5773,7 +5773,7 @@
     "stoptexture":"rbxassetid://86741751585521",
     "notification":1,
     "section":"Z3",
-    "hanover":"27RN",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5791,7 +5791,7 @@
     "stoptexture":"rbxassetid://81550038099458",
     "notification":1,
     "section":"Z3",
-    "hanover":"27RN",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
@@ -5809,7 +5809,7 @@
     "stoptexture":"rbxassetid://88170297726378",
     "notification":2,
     "section":"Z3",
-    "hanover":"27RN",
+    "hanover":"MID",
     "distance":0,
     "time":0
   },
