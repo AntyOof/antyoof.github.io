@@ -1301,10 +1301,20 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusE500MMC11300ZF",
+      "busname":"GeoBusE500MMC11300V",
       "number":1,
       "carplate":"ZC 872",
       "fleetnum":"E6M1",
+      "depot":"A",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+    {
+      "busname":"GeoBusE500MMC11300",
+      "number":2,
+      "carplate":"ZR 7210",
+      "fleetnum":"E6M2",
       "depot":"A",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
