@@ -14,5 +14,13 @@
     "frontid":"rbxassetid://15834717862",
     "sideid":"rbxassetid://15834717862",
     "backid":"rbxassetid://15834717862"
+  },
+  {
+    "number":2,
+    "route":"26",
+    "controllerid":"rbxassetid://17271205321,rbxassetid://17271221059",
+    "frontid":"rbxassetid://17270897420,rbxassetid://17270898430",
+    "sideid":"rbxassetid://17270897420,rbxassetid://17270898430",
+    "backid":"rbxassetid://17270897420,rbxassetid://17270898430"
   }
 ]
