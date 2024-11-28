@@ -27,9 +27,9 @@
     "number":3,
     "route":"V",
     "controllerid":"rbxassetid://71195500683620",
-    "frontid":"rbxassetid://101487285044482",
-    "sideid":"rbxassetid://101487285044482",
-    "backid":"rbxassetid://101487285044482"
+    "frontid":"rbxassetid://103748591122512",
+    "sideid":"rbxassetid://103748591122512",
+    "backid":"rbxassetid://103748591122512"
   },
   {
     "number":4,
@@ -92,7 +92,7 @@
     "route":"25A",
     "controllerid":"rbxassetid://15834765521",
     "frontid":"rbxassetid://15833835448",
-    "sideid":"rbxassetid://125746937882689",
+    "sideid":"rbxassetid://140672149242850",
     "backid":"rbxassetid://18770041827"
   },
   {
