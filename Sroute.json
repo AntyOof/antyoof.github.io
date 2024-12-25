@@ -1,0 +1,62 @@
+[
+  {
+    "number": 0,
+    "route": "GEO",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 1,
+    "route": "50",
+    "destZ": "葵芳站",
+    "destY": "會展中心",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 2,
+    "route": "50H",
+    "destZ": "葵芳站",
+    "destY": "神山北邨",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 3,
+    "route": "50X",
+    "destZ": "會展中心",
+    "destY": "神山北邨",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 4,
+    "route": "B5A",
+    "destZ": "會展中心",
+    "destY": "神山口岸",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  }
+]
