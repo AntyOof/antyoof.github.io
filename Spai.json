@@ -1,0 +1,47 @@
+[
+  {
+    "number": 0,
+    "route": "V",
+    "front": 1,
+    "frontid1": "rbxassetid://14228360560",
+    "controllerid1": "rbxassetid://14228362787",
+    "side": 1,
+    "sideid1": "rbxassetid://14228360560"
+  },
+  {
+    "number": 1,
+    "route": "50",
+    "front": 1,
+    "frontid1": "rbxassetid://",
+    "controllerid1": "rbxassetid://",
+    "side": 1,
+    "sideid1": "rbxassetid://"
+  },
+  {
+    "number": 2,
+    "route": "50H",
+    "front": 1,
+    "frontid1": "rbxassetid://",
+    "controllerid1": "rbxassetid://",
+    "side": 1,
+    "sideid1": "rbxassetid://"
+  },
+  {
+    "number": 3,
+    "route": "50X",
+    "front": 1,
+    "frontid1": "rbxassetid://",
+    "controllerid1": "rbxassetid://",
+    "side": 1,
+    "sideid1": "rbxassetid://"
+  },
+  {
+    "number": 4,
+    "route": "B5A",
+    "front": 1,
+    "frontid1": "rbxassetid://",
+    "controllerid1": "rbxassetid://",
+    "side": 1,
+    "sideid1": "rbxassetid://"
+  }
+]
