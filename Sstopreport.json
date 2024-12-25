@@ -65,7 +65,7 @@
     "NextStop": 5,
     "Chi": "神山沙灘",
     "ChiSoundId":"",
-    "Eng": "SHESHAN BEACH",
+    "Eng": "SHENSHAN BEACH",
     "EngSoundId":"",
     "Notification": 1
   },
@@ -75,7 +75,7 @@
     "NextStop": 6,
     "Chi": "神山大學",
     "ChiSoundId":"",
-    "Eng": "SHENSHAN UNIVERSITY",
+    "Eng": "SHENSHAN\nUNIVERSITY",
     "EngSoundId":"",
     "Notification": 1
   },
@@ -185,7 +185,7 @@
     "NextStop": 7,
     "Chi": "神山大學",
     "ChiSoundId": "",
-    "Eng": "SHENSHAN UNIVERSITY",
+    "Eng": "SHENSHAN\nUNIVERSITY",
     "EngSoundId": "",
     "Notification": 1
   },
@@ -195,7 +195,7 @@
     "NextStop": 8,
     "Chi": "神山沙灘",
     "ChiSoundId": "",
-    "Eng": "SHESHAN BEACH",
+    "Eng": "SHENSHAN BEACH",
     "EngSoundId": "",
     "Notification": 1
   },
@@ -265,7 +265,7 @@
     "NextStop": 4,
     "Chi": "神山醫院",
     "ChiSoundId": "",
-    "Eng": "SHENSHAN HOSPITAL",
+    "Eng": "SHENSHAN\nHOSPITAL",
     "EngSoundId": "",
     "Notification": 1
   },
@@ -295,7 +295,7 @@
     "NextStop": 7,
     "Chi": "神山沙灘",
     "ChiSoundId": "",
-    "Eng": "SHESHAN BEACH",
+    "Eng": "SHENSHAN BEACH",
     "EngSoundId": "",
     "Notification": 1
   },
@@ -355,7 +355,7 @@
     "NextStop": 4,
     "Chi": "神山醫院",
     "ChiSoundId": "",
-    "Eng": "SHENSHAN HOSPITAL",
+    "Eng": "SHENSHAN\nHOSPITAL",
     "EngSoundId": "",
     "Notification": 1
   },
@@ -465,7 +465,7 @@
     "NextStop": 5,
     "Chi": "神山邨",
     "ChiSoundId": "",
-    "Eng": "SHESHAN ESTATE",
+    "Eng": "SHENSHAN ESTATE",
     "EngSoundId": "",
     "Notification": 1
   },
@@ -475,7 +475,7 @@
     "NextStop": 6,
     "Chi": "神山大學",
     "ChiSoundId": "",
-    "Eng": "SHESHAN UNIVERSITY",
+    "Eng": "SHENSHAN\nUNIVERSITY",
     "EngSoundId": "",
     "Notification": 1
   },
@@ -485,7 +485,7 @@
     "NextStop": 7,
     "Chi": "神山沙灘",
     "ChiSoundId": "",
-    "Eng": "SHESHAN BEACH",
+    "Eng": "SHENSHAN BEACH",
     "EngSoundId": "",
     "Notification": 1
   },
@@ -495,7 +495,7 @@
     "NextStop": 8,
     "Chi": "神山北邨",
     "ChiSoundId": "",
-    "Eng": "SHESHAN\nNORTH ESTATE",
+    "Eng": "SHENSHAN\nNORTH ESTATE",
     "EngSoundId": "",
     "Notification": 1
   },
@@ -545,7 +545,7 @@
     "NextStop": 4,
     "Chi": "神山邨",
     "ChiSoundId": "",
-    "Eng": "SHESHAN ESTATE",
+    "Eng": "SHENSHAN ESTATE",
     "EngSoundId": "",
     "Notification": 1
   },
