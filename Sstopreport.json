@@ -24,7 +24,7 @@
     "direction":0,
     "NextStop":1,
     "Chi":"歡迎乘搭豬怕巴士",
-    "ChiSoundId":"rbxassetid://12325302256",
+    "ChiSoundId":"",
     "Eng":"WELCOME ONBOARD",
     "EngSoundId":"",
     "Notification":0
@@ -34,69 +34,749 @@
     "direction":0,
     "NextStop":2,
     "Chi":"歡迎乘搭豬怕巴士",
-    "ChiSoundId":"rbxassetid://12325244566",
-    "Eng":"WELCOME ONBOARD",
-    "EngSoundId":"rbxassetid://12300414559",
-    "Notification":0
-  },
-  {
-    "route":"50",
-    "direction":0,
-    "NextStop":3,
-    "Chi":"皇后徑",
-    "ChiSoundId":"rbxassetid://12257701416",
-    "Eng":"EMPRESS RISE",
-    "EngSoundId":"rbxassetid://12257523335",
-    "Notification":1
-  },
-  {
-    "route":"50",
-    "direction":0,
-    "NextStop":4,
-    "Chi":"多謝選乘豬怕巴士",
-    "ChiSoundId":"rbxassetid://12285327650",
-    "Eng":"THANK YOU\nFOR TRAVELLING",
-    "EngSoundId":"rbxassetid://12285327925",
-    "Notification":0
-  },
-  {
-    "route":"50",
-    "direction":1,
-    "NextStop":1,
-    "Chi":"歡迎乘搭豬怕巴士",
-    "ChiSoundId":"rbxassetid://12325302256",
+    "ChiSoundId":"",
     "Eng":"WELCOME ONBOARD",
     "EngSoundId":"",
     "Notification":0
   },
   {
     "route":"50",
-    "direction":1,
-    "NextStop":2,
-    "Chi":"歡迎乘搭豬怕巴士",
-    "ChiSoundId":"rbxassetid://12325244153",
-    "Eng":"WELCOME ONBOARD",
-    "EngSoundId":"rbxassetid://12300410514",
-    "Notification":0
-  },
-  {
-    "route":"50",
-    "direction":1,
+    "direction":0,
     "NextStop":3,
-    "Chi":"百合臺",
-    "ChiSoundId":"rbxassetid://12257699910",
-    "Eng":"LILY TERRACE",
-    "EngSoundId":"rbxassetid://12257520371",
+    "Chi":"神山公園",
+    "ChiSoundId":"",
+    "Eng":"SHENSHAN PARK",
+    "EngSoundId":"",
     "Notification":1
   },
   {
     "route":"50",
-    "direction":1,
+    "direction":0,
     "NextStop":4,
+    "Chi":"神山洒店",
+    "ChiSoundId":"",
+    "Eng":"SHENSHAN HOTEL",
+    "EngSoundId":"",
+    "Notification":1
+  },
+  {
+    "route": "50",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "神山沙灘",
+    "ChiSoundId":"",
+    "Eng": "SHESHAN BEACH",
+    "EngSoundId":"",
+    "Notification": 1
+  },
+  {
+    "route": "50",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "神山大學",
+    "ChiSoundId":"",
+    "Eng": "SHENSHAN UNIVERSITY",
+    "EngSoundId":"",
+    "Notification": 1
+  },
+  {
+    "route": "50",
+    "direction": 0,
+    "NextStop": 7,
+    "Chi": "高日邨",
+    "ChiSoundId":"",
+    "Eng": "HEIGHTSUN ESTATE",
+    "EngSoundId":"",
+    "Notification": 1
+  },
+  {
+    "route": "50",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "高日高鐵站",
+    "ChiSoundId":"",
+    "Eng": "HIGHTSUN\nHIGH SPEED RAIL STATION",
+    "EngSoundId":"",
+    "Notification": 1
+  },
+  {
+    "route":"50",
+    "direction":0,
+    "NextStop":9,
+    "Chi":"會展中心",
+    "ChiSoundId":"",
+    "Eng":"EXHIBITION CENTRE",
+    "EngSoundId":"",
+    "Notification":1
+  },
+  {
+    "route":"50",
+    "direction":0,
+    "NextStop":10,
     "Chi":"多謝選乘豬怕巴士",
-    "ChiSoundId":"rbxassetid://12285327650",
+    "ChiSoundId":"",
     "Eng":"THANK YOU\nFOR TRAVELLING",
-    "EngSoundId":"rbxassetid://12285327925",
+    "EngSoundId":"",
     "Notification":0
+  },
+  {
+    "route": "50",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "50",
+    "direction": 1,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "50",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "高日苑",
+    "ChiSoundId": "",
+    "Eng": "HIGHTSUN COURT",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50",
+    "direction": 1,
+    "NextStop": 4,
+    "Chi": "高日高鐵站",
+    "ChiSoundId": "",
+    "Eng": "HIGHTSUN\nHIGH SPEED RAIL STATION",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50",
+    "direction": 1,
+    "NextStop": 5,
+    "Chi": "高日邨",
+    "ChiSoundId": "",
+    "Eng": "HIGHTSUN ESTATE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50",
+    "direction": 1,
+    "NextStop": 6,
+    "Chi": "神山邨",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN ESTATE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50",
+    "direction": 1,
+    "NextStop": 7,
+    "Chi": "神山大學",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN UNIVERSITY",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50",
+    "direction": 1,
+    "NextStop": 8,
+    "Chi": "神山沙灘",
+    "ChiSoundId": "",
+    "Eng": "SHESHAN BEACH",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50",
+    "direction": 1,
+    "NextStop": 9,
+    "Chi": "神山北邨",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN\nNORTH ESTATE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50",
+    "direction": 1,
+    "NextStop": 10,
+    "Chi": "葵芳站",
+    "ChiSoundId": "",
+    "Eng": "KWAI FONG STATION",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50",
+    "direction": 1,
+    "NextStop": 11,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "50H",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "50H",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "50H",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "神山公園",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN PARK",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50H",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "神山醫院",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN HOSPITAL",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50H",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "神山苑",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN COURT",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50H",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "神山洒店",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN HOTEL",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50H",
+    "direction": 0,
+    "NextStop": 7,
+    "Chi": "神山沙灘",
+    "ChiSoundId": "",
+    "Eng": "SHESHAN BEACH",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50H",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "神山北邨",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN\nNORTH ESTATE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50H",
+    "direction": 0,
+    "NextStop": 9,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "50H",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "50H",
+    "direction": 1,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "50H",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "神山苑",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN COURT",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50H",
+    "direction": 1,
+    "NextStop": 4,
+    "Chi": "神山醫院",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN HOSPITAL",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50H",
+    "direction": 1,
+    "NextStop": 5,
+    "Chi": "神山公園",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN PARK",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50H",
+    "direction": 1,
+    "NextStop": 6,
+    "Chi": "城市國際運輸車廠",
+    "ChiSoundId": "",
+    "Eng": "CITY INTERNATIONAL\nTRANSPORT DEPOT",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50H",
+    "direction": 1,
+    "NextStop": 7,
+    "Chi": "神山街",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN STREET",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50H",
+    "direction": 1,
+    "NextStop": 8,
+    "Chi": "神山花園",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN GARDEN",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50H",
+    "direction": 1,
+    "NextStop": 9,
+    "Chi": "葵芳站",
+    "ChiSoundId": "",
+    "Eng": "KWAI FONG STATION",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50H",
+    "direction": 1,
+    "NextStop": 10,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "50X",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "50X",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "50X",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "高日高鐵站",
+    "ChiSoundId": "",
+    "Eng": "HIGHTSUN\nHIGH SPEED RAIL STATION",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50X",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "高日邨",
+    "ChiSoundId": "",
+    "Eng": "HIGHTSUN ESTATE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50X",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "神山邨",
+    "ChiSoundId": "",
+    "Eng": "SHESHAN ESTATE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50X",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "神山大學",
+    "ChiSoundId": "",
+    "Eng": "SHESHAN UNIVERSITY",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50X",
+    "direction": 0,
+    "NextStop": 7,
+    "Chi": "神山沙灘",
+    "ChiSoundId": "",
+    "Eng": "SHESHAN BEACH",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50X",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "神山北邨",
+    "ChiSoundId": "",
+    "Eng": "SHESHAN\nNORTH ESTATE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50X",
+    "direction": 0,
+    "NextStop": 9,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "50X",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "50X",
+    "direction": 1,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "50X",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "城市國際運輸車廠",
+    "ChiSoundId": "",
+    "Eng": "CITY INTERNATIONAL\nTRANSPORT DEPOT",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50X",
+    "direction": 1,
+    "NextStop": 4,
+    "Chi": "神山邨",
+    "ChiSoundId": "",
+    "Eng": "SHESHAN ESTATE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50X",
+    "direction": 1,
+    "NextStop": 5,
+    "Chi": "高日邨",
+    "ChiSoundId": "",
+    "Eng": "HIGHTSUN ESTATE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50X",
+    "direction": 1,
+    "NextStop": 6,
+    "Chi": "高日高鐵站",
+    "ChiSoundId": "",
+    "Eng": "HIGHTSUN\nHIGH SPEED RAIL STATION",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50X",
+    "direction": 1,
+    "NextStop": 7,
+    "Chi": "會展中心",
+    "ChiSoundId": "",
+    "Eng": "EXHIBITION CENTRE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "50X",
+    "direction": 1,
+    "NextStop": 8,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "B5A",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "B5A",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "B5A",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "神山南邨",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN\nNORTH ESTATE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "B5A",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "神山體育館",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN STADIUM",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "B5A",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "神山邨",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN ESTATE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "B5A",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "高日邨",
+    "ChiSoundId": "",
+    "Eng": "HIGHTSUN ESTATE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "B5A",
+    "direction": 0,
+    "NextStop": 7,
+    "Chi": "高日高鐵站",
+    "ChiSoundId": "",
+    "Eng": "HIGHTSUN\nHIGH SPEED RAIL STATION",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "B5A",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "會展中心",
+    "ChiSoundId": "",
+    "Eng": "EXHIBITION CENTRE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "B5A",
+    "direction": 0,
+    "NextStop": 9,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "B5A",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "B5A",
+    "direction": 1,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "B5A",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "高日苑",
+    "ChiSoundId": "",
+    "Eng": "HIGHTSUN COURT",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "B5A",
+    "direction": 1,
+    "NextStop": 4,
+    "Chi": "高日高鐵站",
+    "ChiSoundId": "",
+    "Eng": "HIGHTSUN\nHIGH SPEED RAIL STATION",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "B5A",
+    "direction": 1,
+    "NextStop": 5,
+    "Chi": "高日邨",
+    "ChiSoundId": "",
+    "Eng": "HIGHTSUN ESTATE",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "B5A",
+    "direction": 1,
+    "NextStop": 6,
+    "Chi": "城市國際運輸車廠",
+    "ChiSoundId": "",
+    "Eng": "CITY INTERNATIONAL\nTRANSPORT DEPOT",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "B5A",
+    "direction": 1,
+    "NextStop": 7,
+    "Chi": "神山洒店",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN HOTEL",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "B5A",
+    "direction": 1,
+    "NextStop": 8,
+    "Chi": "神山沙灘",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN BEACH",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "B5A",
+    "direction": 1,
+    "NextStop": 9,
+    "Chi": "神山口岸",
+    "ChiSoundId": "",
+    "Eng": "SHENSHAN PORT",
+    "EngSoundId": "",
+    "Notification": 1
+  },
+  {
+    "route": "B5A",
+    "direction": 1,
+    "NextStop": 10,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiSoundId": "",
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngSoundId": "",
+    "Notification": 0
   }
 ]
