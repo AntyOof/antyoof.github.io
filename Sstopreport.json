@@ -20,7 +20,7 @@
     "Notification":0
   },
   {
-    "route":"22",
+    "route":"50",
     "direction":0,
     "NextStop":1,
     "Chi":"歡迎乘搭豬怕巴士",
@@ -30,7 +30,7 @@
     "Notification":0
   },
   {
-    "route":"22",
+    "route":"50",
     "direction":0,
     "NextStop":2,
     "Chi":"歡迎乘搭豬怕巴士",
@@ -40,7 +40,7 @@
     "Notification":0
   },
   {
-    "route":"22",
+    "route":"50",
     "direction":0,
     "NextStop":3,
     "Chi":"皇后徑",
@@ -50,9 +50,9 @@
     "Notification":1
   },
   {
-    "route":"22",
+    "route":"50",
     "direction":0,
-    "NextStop":10,
+    "NextStop":4,
     "Chi":"多謝選乘豬怕巴士",
     "ChiSoundId":"rbxassetid://12285327650",
     "Eng":"THANK YOU\nFOR TRAVELLING",
@@ -60,7 +60,7 @@
     "Notification":0
   },
   {
-    "route":"22",
+    "route":"50",
     "direction":1,
     "NextStop":1,
     "Chi":"歡迎乘搭豬怕巴士",
@@ -70,7 +70,7 @@
     "Notification":0
   },
   {
-    "route":"22",
+    "route":"50",
     "direction":1,
     "NextStop":2,
     "Chi":"歡迎乘搭豬怕巴士",
@@ -80,7 +80,7 @@
     "Notification":0
   },
   {
-    "route":"22",
+    "route":"50",
     "direction":1,
     "NextStop":3,
     "Chi":"百合臺",
@@ -90,9 +90,9 @@
     "Notification":1
   },
   {
-    "route":"22",
+    "route":"50",
     "direction":1,
-    "NextStop":11,
+    "NextStop":4,
     "Chi":"多謝選乘豬怕巴士",
     "ChiSoundId":"rbxassetid://12285327650",
     "Eng":"THANK YOU\nFOR TRAVELLING",
