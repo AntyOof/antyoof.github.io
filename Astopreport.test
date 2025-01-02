@@ -532,7 +532,7 @@
     "engsound":"rbxassetid://15835572922",
     "arrtexture":"rbxassetid://15834855611",
     "texture":"rbxassetid://15834855346,rbxassetid://15834855136",
-    "stoptexture":"!rbxassetid://15834855869",
+    "stoptexture":"rbxassetid://15834855869",
     "notification":1,
     "section":"Z1",
     "hanover":"25AZ",
