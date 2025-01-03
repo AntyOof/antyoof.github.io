@@ -49,7 +49,7 @@
     "stoptexture":"rbxassetid://13755274576",
     "notification":8964,
     "section":"Z1",
-    "hanover":"XMAS",
+    "hanover":"P",
     "distance":0,
     "time":0
   },
@@ -67,7 +67,7 @@
     "stoptexture":"rbxassetid://13755274576",
     "notification":8964,
     "section":"Y1",
-    "hanover":"XMAS",
+    "hanover":"P",
     "distance":0,
     "time":0
   },
