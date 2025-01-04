@@ -9,8 +9,8 @@
       "orig_tc": "恆馳火車站",
       "orig_en": "Hang Chi Railway Station",
       "orig_routeing": "正常路線",
-      "dest_tc": "",
-      "dest_en": "恆馳碼頭Hang Chi Ferry Piers",
+      "dest_tc": "恆馳碼頭",
+      "dest_en": "Hang Chi Ferry Piers",
       "dest_routeing": "加班車只往恆馳碼頭"
     }
   ]
