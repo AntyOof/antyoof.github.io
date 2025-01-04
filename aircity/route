@@ -12,6 +12,106 @@
       "dest_tc": "恆馳碼頭",
       "dest_en": "Hang Chi Ferry Piers",
       "dest_routeing": "加班車只往恆馳碼頭"
+    },
+    {
+      "co": "GB",
+      "route": "25A",
+      "orig_tc": "菁松山邨",
+      "orig_en": "Tsing Chong Hill Estate",
+      "orig_routeing": "正常路線",
+      "dest_tc": "禮雋圍(東)",
+      "dest_en": "Lai Chun Wai (East)",
+      "dest_routeing": "正常路線"
+    },
+    {
+      "co": "GB",
+      "route": "25B",
+      "orig_tc": "菁松山邨",
+      "orig_en": "Tsing Chong Hill Estate",
+      "orig_routeing": "正常路線",
+      "dest_tc": "工廠街",
+      "dest_en": "Kung Choeng Street",
+      "dest_routeing": "正常路線"
+    },
+    {
+      "co": "GB",
+      "route": "26",
+      "orig_tc": "恆馳碼頭",
+      "orig_en": "Hang Chi Ferry Piers",
+      "orig_routeing": "環埔角道開經鹿坑,環埔角道開不經鹿坑,不經鹿坑,經鹿坑",
+      "dest_tc": "環埔角",
+      "dest_en": "Wan Po Kok",
+      "dest_routeing": "經鹿坑,不經鹿坑"
+    },
+    {
+      "co": "GB",
+      "route": "26A",
+      "orig_tc": "恆馳碼頭",
+      "orig_en": "Hang Chi Ferry Piers",
+      "orig_routeing": "正常路線",
+      "dest_tc": "氡漕灣",
+      "dest_en": "Radon Bay",
+      "dest_routeing": "正常路線"
+    },
+    {
+      "co": "GB",
+      "route": "26P",
+      "orig_tc": "恆馳碼頭",
+      "orig_en": "Hang Chi Ferry Piers",
+      "orig_routeing": "正常班次",
+      "dest_tc": "環埔角道",
+      "dest_en": "Wan Po Kok Road",
+      "dest_routeing": "正常班次"
+    },
+    {
+      "co": "GB",
+      "route": "27",
+      "orig_tc": "恆馳碼頭",
+      "orig_en": "Hang Chi Ferry Piers",
+      "orig_routeing": "正常班次",
+      "dest_tc": "鹿坑邨",
+      "dest_en": "Luk Hang Estate",
+      "dest_routeing": "正常班次"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "orig_tc": "環埔角",
+      "orig_en": "Wa Po Kok",
+      "orig_routeing": "正常路線",
+      "dest_tc": "東燒坪邨",
+      "dest_en": "Tung Shiu Ping Estate",
+      "dest_routeing": ""
+    },
+    {
+      "co": "GB",
+      "route": "27T",
+      "orig_tc": "恆馳碼頭",
+      "orig_en": "Hang Chi Ferry Piers",
+      "orig_routeing": "正常班次,環埔角道開",
+      "dest_tc": "環埔角",
+      "dest_en": "Wan Po Kok",
+      "dest_routeing": "正常班次,經環埔角道"
+    },
+    {
+      "co": "GB",
+      "route": "H26",
+      "orig_tc": "恆馳碼頭",
+      "orig_en": "Hang Chi Ferry Piers",
+      "orig_routeing": "聖誕路線",
+      "dest_tc": "環埔角",
+      "dest_en": "Wan Po Kok",
+      "dest_routeing": "聖誕路線"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "orig_tc": "恆馳碼頭",
+      "orig_en": "Hang Chi Ferry Piers",
+      "orig_routeing": "正常路線",
+      "dest_tc": "菁松山邨",
+      "dest_en": "Tsing Chong Hill Estate",
+      "dest_routeing": "正常路線"
     }
   ]
 }
