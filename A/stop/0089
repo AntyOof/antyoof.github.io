@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0089",
+    "name_en": "Lai Chun Wai (East)",
+    "supp_en": "",
+    "sound_en": "rbxassetid://134853833975166",
+    "name_tc": "禮雋圍(東)",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://131353517158163",
+    "lat": "",
+    "long": ""
+  }
+}

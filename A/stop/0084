@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0084",
+    "name_en": "Wan Po Kok Road Service Reservoir",
+    "supp_en": "",
+    "sound_en": "rbxassetid://100397010738909",
+    "name_tc": "",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://81907099343895",
+    "lat": "",
+    "long": ""
+  }
+}

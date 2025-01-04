@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0080",
+    "name_en": "Wan Po Kok Mansion",
+    "supp_en": "",
+    "sound_en": "rbxassetid://88372461612561",
+    "name_tc": "",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://82718737115911",
+    "lat": "",
+    "long": ""
+  }
+}

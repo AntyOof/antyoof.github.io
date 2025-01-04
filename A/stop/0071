@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0071",
+    "name_en": "The Victoria",
+    "supp_en": "",
+    "sound_en": "rbxassetid://128983010114305",
+    "name_tc": "",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://120859028120653",
+    "lat": "",
+    "long": ""
+  }
+}

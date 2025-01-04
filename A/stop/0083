@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0083",
+    "name_en": "Wan Po Kok Road Roundabout",
+    "supp_en": "",
+    "sound_en": "rbxassetid://126552439123169",
+    "name_tc": "",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://82262620858215",
+    "lat": "",
+    "long": ""
+  }
+}
