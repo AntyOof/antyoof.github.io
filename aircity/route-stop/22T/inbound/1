@@ -8,14 +8,18 @@
       "route": "22T",
       "dir": "I",
       "seq": 1,
-      "stop": "0020"
+      "stop": "0020",
+      "section": "Y1",
+      "hanover": ""22T"
     },
     {
       "co": "GB",
       "route": "22T",
       "dir": "I",
       "seq": 2,
-      "stop": "0020"
+      "stop": "0020",
+      "section": "Y1",
+      "hanover": ""22T"
     }
   ]
 }
