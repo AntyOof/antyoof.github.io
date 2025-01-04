@@ -10,7 +10,7 @@
       "seq": 1,
       "stop": "0020",
       "section": "Y1",
-      "hanover": ""22T"
+      "hanover": "22T"
     },
     {
       "co": "GB",
@@ -19,7 +19,7 @@
       "seq": 2,
       "stop": "0020",
       "section": "Y1",
-      "hanover": ""22T"
+      "hanover": "22T"
     }
   ]
 }
