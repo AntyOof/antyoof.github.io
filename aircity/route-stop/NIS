@@ -1,0 +1,10 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2025-01-04T17:12:39+08:00",
+  "data": [
+    {
+      "hanover": "P"
+    }
+  ]
+}
