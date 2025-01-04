@@ -17,9 +17,90 @@
       "route": "22T",
       "dir": "I",
       "seq": 2,
-      "stop": "0020",
+      "stop": "0011",
       "section": "Y1",
       "hanover": "22T"
+    },
+    {
+      "co": "GB",
+      "route": "22T",
+      "dir": "I",
+      "seq": 3,
+      "stop": "0039",
+      "section": "Y1",
+      "hanover": "22T"
+    },
+    {
+      "co": "GB",
+      "route": "22T",
+      "dir": "I",
+      "seq": 4,
+      "stop": "0013",
+      "section": "Y1",
+      "hanover": "22T"
+    },
+    {
+      "co": "GB",
+      "route": "22T",
+      "dir": "I",
+      "seq": 5,
+      "stop": "0025",
+      "section": "Y1",
+      "hanover": "22T"
+    },
+    {
+      "co": "GB",
+      "route": "22T",
+      "dir": "I",
+      "seq": 6,
+      "stop": "0015",
+      "section": "Z1",
+      "hanover": "22TZ"
+    },
+    {
+      "co": "GB",
+      "route": "22T",
+      "dir": "I",
+      "seq": 7,
+      "stop": "0018",
+      "section": "Z1",
+      "hanover": "22TZ"
+    },
+    {
+      "co": "GB",
+      "route": "22T",
+      "dir": "I",
+      "seq": 8,
+      "stop": "0014",
+      "section": "Z1",
+      "hanover": "22TZ"
+    },
+    {
+      "co": "GB",
+      "route": "22T",
+      "dir": "I",
+      "seq": 9,
+      "stop": "0040",
+      "section": "Z1",
+      "hanover": "22TZ"
+    },
+    {
+      "co": "GB",
+      "route": "22T",
+      "dir": "I",
+      "seq": 10,
+      "stop": "0028",
+      "section": "Z1",
+      "hanover": "22TZ"
+    },
+    {
+      "co": "GB",
+      "route": "22T",
+      "dir": "I",
+      "seq": 11,
+      "stop": "0020",
+      "section": "Z1",
+      "hanover": "22TZ"
     }
   ]
 }
