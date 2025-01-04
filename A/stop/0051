@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0051",
+    "name_en": "Ng Sik Driving School",
+    "supp_en": "",
+    "sound_en": "rbxassetid://14084145076",
+    "name_tc": "吳軾駕駛學院",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://14085347448",
+    "lat": "",
+    "long": ""
+  }
+}

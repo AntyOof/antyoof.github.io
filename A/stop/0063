@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0063",
+    "name_en": "Shiu King Village",
+    "supp_en": "",
+    "sound_en": "rbxassetid://14084143261",
+    "name_tc": "蕭瓊村",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://14082862167",
+    "lat": "",
+    "long": ""
+  }
+}

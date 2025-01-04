@@ -1,0 +1,16 @@
+{
+    "type": "Stop",
+    "version": "2.0",
+    "generated_timestamp": "2024-12-20T14:35:17+08:00",
+    "data": {
+      "stop": "0004",
+      "name_en": "Chun Fat Street",
+      "supp_en": "",
+      "sound_en": "rbxassetid://14084149710",
+      "name_tc": "雋發街",
+      "supp_tc": "",
+      "sound_tc": "rbxassetid://14082867788",
+      "lat": "",
+      "long": ""
+    }
+  }

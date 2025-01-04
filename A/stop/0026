@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0026",
+    "name_en": "Hang Chi Waterfront Park",
+    "supp_en": "",
+    "sound_en": "rbxassetid://14084147172",
+    "name_tc": "恆馳海濱公園",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://14085355316",
+    "lat": "",
+    "long": ""
+  }
+}

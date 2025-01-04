@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0019",
+    "name_en": "Hang Chi Hospital",
+    "supp_en": "",
+    "sound_en": "rbxassetid://14084147648",
+    "name_tc": "恆馳醫院",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://14082864709",
+    "lat": "",
+    "long": ""
+  }
+}

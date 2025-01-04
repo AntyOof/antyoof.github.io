@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0060",
+    "name_en": "Shiu Hill",
+    "supp_en": "",
+    "sound_en": "rbxassetid://15835572922",
+    "name_tc": "蕭山",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://15835613707",
+    "lat": "",
+    "long": ""
+  }
+}

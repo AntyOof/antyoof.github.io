@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0057",
+    "name_en": "Radon Bay Pier",
+    "supp_en": "",
+    "sound_en": "rbxassetid://14084144717",
+    "name_tc": "氡漕灣碼頭",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://14085346790",
+    "lat": "",
+    "long": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0059",
+    "name_en": "Sheung Tseun",
+    "supp_en": "",
+    "sound_en": "rbxassetid://14084144382",
+    "name_tc": "尚村",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://14085347222",
+    "lat": "",
+    "long": ""
+  }
+}

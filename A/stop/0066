@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0066",
+    "name_en": "Shiu Yiu House, Tung Shiu Ping Estate",
+    "supp_en": "",
+    "sound_en": "rbxassetid://14084143102",
+    "name_tc": "東燒坪邨燒瑤樓",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://14082861400",
+    "lat": "",
+    "long": ""
+  }
+}

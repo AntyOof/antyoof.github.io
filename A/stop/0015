@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0015",
+    "name_en": "Hang Chi Ferry Piers",
+    "supp_en": "",
+    "sound_en": "rbxassetid://14084147978",
+    "name_tc": "恆馳碼頭",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://14082866601",
+    "lat": "",
+    "long": ""
+  }
+}

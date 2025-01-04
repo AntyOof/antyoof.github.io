@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0032",
+    "name_en": "Heng Shun Commercial Centre",
+    "supp_en": "",
+    "sound_en": "rbxassetid://15835590620",
+    "name_tc": "",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://15835616910",
+    "lat": "",
+    "long": ""
+  }
+}

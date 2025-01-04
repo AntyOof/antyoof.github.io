@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0027",
+    "name_en": "Hang Cho Street",
+    "supp_en": "",
+    "sound_en": "rbxassetid://104566572452381",
+    "name_tc": "",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://100910682893727",
+    "lat": "",
+    "long": ""
+  }
+}

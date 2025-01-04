@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0044",
+    "name_en": "Lai Chun Wai Sports Centre",
+    "supp_en": "",
+    "sound_en": "rbxassetid://114278939718479",
+    "name_tc": "禮雋圍商場",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://127631779417585",
+    "lat": "",
+    "long": ""
+  }
+}

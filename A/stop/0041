@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0041",
+    "name_en": "Lai Chun Wai Market",
+    "supp_en": "",
+    "sound_en": "rbxassetid://14084146424",
+    "name_tc": "禮雋圍街市",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://14082863377",
+    "lat": "",
+    "long": ""
+  }
+}
