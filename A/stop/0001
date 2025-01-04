@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0001",
+    "name_en": "Air Garden",
+    "supp_en": "",
+    "sound_en": "rbxassetid://14084149885",
+    "name_tc": "空氣花園",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://14082868268",
+    "lat": "",
+    "long": ""
+  }
+}
