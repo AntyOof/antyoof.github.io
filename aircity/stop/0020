@@ -7,8 +7,10 @@
     "stop": "0020",
     "name_en": "Hang Chi Railway Station",
     "supp_en": "Hang Chi, Railway Station",
+    "sound_en": "rbxassetid://14084147506",
     "name_tc": "恆馳火車站",
     "supp_tc": "恆馳、火車站",
+    "sound_tc": "rbxassetid://14082864495",
     "lat": "22.383006712091",
     "long": "114.20168939053"
   }
