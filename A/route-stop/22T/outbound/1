@@ -10,7 +10,7 @@
       "seq": 1,
       "stop": "0020",
       "section": "Y1",
-      "hanover": "22T"
+      "hanover": "22TA"
     },
     {
       "co": "GB",
@@ -18,7 +18,7 @@
       "seq": 2,
       "stop": "0011",
       "section": "Y1",
-      "hanover": "22T"
+      "hanover": "22TA"
     },
     {
       "co": "GB",
@@ -26,7 +26,7 @@
       "seq": 3,
       "stop": "0039",
       "section": "Y1",
-      "hanover": "22T"
+      "hanover": "22TA"
     },
     {
       "co": "GB",
@@ -34,7 +34,7 @@
       "seq": 4,
       "stop": "0013",
       "section": "Y1",
-      "hanover": "22T"
+      "hanover": "22TA"
     },
     {
       "co": "GB",
@@ -42,7 +42,15 @@
       "seq": 5,
       "stop": "0025",
       "section": "Y1",
-      "hanover": "22T"
-    }
+      "hanover": "22TA"
+    },
+    {
+      "co": "GB",
+      "route": "22T",
+      "seq": 6,
+      "stop": "0015",
+      "section": "Y1",
+      "hanover": "22TA"
+    },
   ]
 }
