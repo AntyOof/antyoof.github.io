@@ -3,13 +3,13 @@
   "version": "2.0",
   "generated_timestamp": "2024-12-20T14:35:17+08:00",
   "data": {
-    "stop": "0078",
-    "name_en": "Wan Po Kok",
+    "stop": "0090",
+    "name_en": "Hang Cho Street",
     "supp_en": "",
-    "sound_en": "rbxassetid://118267734364237",
-    "name_tc": "環埔角",
+    "sound_en": "rbxassetid://104566572452381",
+    "name_tc": "",
     "supp_tc": "",
-    "sound_tc": "rbxassetid://87730548869769",
+    "sound_tc": "rbxassetid://100910682893727",
     "lat": "",
     "long": ""
   }

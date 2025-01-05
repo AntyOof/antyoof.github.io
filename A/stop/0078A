@@ -3,12 +3,12 @@
   "version": "2.0",
   "generated_timestamp": "2024-12-20T14:35:17+08:00",
   "data": {
-    "stop": "0078",
+    "stop": "0078A",
     "name_en": "Wan Po Kok",
-    "supp_en": "",
+    "supp_en": "Wan Po Kok Beach",
     "sound_en": "rbxassetid://118267734364237",
     "name_tc": "環埔角",
-    "supp_tc": "",
+    "supp_tc": "環埔角泳灘",
     "sound_tc": "rbxassetid://87730548869769",
     "lat": "",
     "long": ""

@@ -5,10 +5,10 @@
   "data": {
     "stop": "0033",
     "name_en": "Hong Luk House, Luk Hang Estate",
-    "supp_en": "",
+    "supp_en": "Wan Yan Court",
     "sound_en": "rbxassetid://134999899270285",
-    "name_tc": "",
-    "supp_tc": "",
+    "name_tc": "鹿坑邨康鹿樓",
+    "supp_tc": "環欣苑",
     "sound_tc": "rbxassetid://139221302768458",
     "lat": "",
     "long": ""
