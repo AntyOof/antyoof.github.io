@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "0047",
+    "name_en": "Ling Yin Building",
+    "supp_en": "",
+    "sound_en": "rbxassetid://15835594364",
+    "name_tc": "澪泫大廈",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://15835611086",
+    "lat": "",
+    "long": ""
+  }
+}
