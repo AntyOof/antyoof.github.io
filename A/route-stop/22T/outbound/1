@@ -1,1 +1,48 @@
 
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2025-01-04T17:12:39+08:00",
+  "data": [
+    {
+      "co": "GB",
+      "route": "22T",
+      "seq": 1,
+      "stop": "0020",
+      "section": "Y1",
+      "hanover": "22T"
+    },
+    {
+      "co": "GB",
+      "route": "22T",
+      "seq": 2,
+      "stop": "0011",
+      "section": "Y1",
+      "hanover": "22T"
+    },
+    {
+      "co": "GB",
+      "route": "22T",
+      "seq": 3,
+      "stop": "0039",
+      "section": "Y1",
+      "hanover": "22T"
+    },
+    {
+      "co": "GB",
+      "route": "22T",
+      "seq": 4,
+      "stop": "0013",
+      "section": "Y1",
+      "hanover": "22T"
+    },
+    {
+      "co": "GB",
+      "route": "22T",
+      "seq": 5,
+      "stop": "0025",
+      "section": "Y1",
+      "hanover": "22T"
+    }
+  ]
+}
