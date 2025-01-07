@@ -1,0 +1,10 @@
+{
+  "1": [
+    {
+      "time": 1,
+      "style": "Enum.EasingStyle.Linear",
+      "direction": "Enum.EasingDirection.Out",
+      "wait_time": 2
+    }
+  ]
+}
