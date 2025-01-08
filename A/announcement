@@ -1,9 +1,12 @@
 {
   "1": [
     {
+      "image": "",
+      "old_position": "UDim2.new(1, 0, 0, 0)",
       "time": 1,
       "style": "Enum.EasingStyle.Linear",
       "direction": "Enum.EasingDirection.Out",
+      "new_position": "UDim2.new(-1, 0, 0, 0)",
       "wait_time": 2
     }
   ]
