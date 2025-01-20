@@ -201,19 +201,19 @@
   },
   {
     "number":25,
+    "route":"CNY",
+    "controllerid":"rbxassetid://135904003232716",
+    "frontid":"rbxassetid://99537531235404",
+    "sideid":"rbxassetid://99537531235404",
+    "backid":"rbxassetid://99537531235404"
+  },
+  {
+    "number":26,
     "route":"H26",
     "controllerid":"rbxassetid://99188634173568,rbxassetid://117877063941105,rbxassetid://99188634173568,rbxassetid://91636823578283",
     "frontid":"rbxassetid://132236203861520,rbxassetid://140108456062132,rbxassetid://132236203861520,rbxassetid://120576219920395",
     "sideid":"rbxassetid://132236203861520,rbxassetid://140108456062132,rbxassetid://120576219920395",
     "backid":"rbxassetid://132236203861520,rbxassetid://140108456062132,rbxassetid://120576219920395"
-  },
-  {
-    "number":26,
-    "route":"CNY",
-    "controllerid":"rbxassetid://16286552633",
-    "frontid":"rbxassetid://16286531440",
-    "sideid":"rbxassetid://16286531440",
-    "backid":"rbxassetid://16286531440"
   },
   {
     "number":27,
