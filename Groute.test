@@ -109,6 +109,18 @@
   },
   {
     "number": 9,
+    "route": "30R",
+    "destZ": "馬嶺站",
+    "destY": "蔡村許願樹",
+    "maxPZ": "1",
+    "priceZ1": "6.1",
+    "halfpriceZ1": "3.1",
+    "maxPY": "1",
+    "priceY1": "6.1",
+    "halfpriceY1": "3.1"
+  },
+  {
+    "number": 10,
     "route": "N24",
     "destZ": "沙善邨",
     "destY": "馬嶺",
