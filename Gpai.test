@@ -2,9 +2,13 @@
   {
     "number":0,
     "route":"P",
-    "front":1,
-    "frontid1":"rbxassetid://",
+    "front":3,
+    "frontid1":"rbxassetid://15834762440",
+    "frontid2":"rbxassetid://15834762440",
+    "frontid3":"rbxassetid://15834762440",
     "controllerid1":"rbxassetid://",
+    "controllerid2":"rbxassetid://",
+    "controllerid3":"rbxassetid://",
     "side":1,
     "sideid1":"rbxassetid://"
   },
