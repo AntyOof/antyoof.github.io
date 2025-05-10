@@ -11,7 +11,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":1,
       "carplate":"XA 175",
       "fleetnum":"V6L1",
@@ -21,7 +21,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":2,
       "carplate":"XA 1812",
       "fleetnum":"V6L2",
@@ -31,7 +31,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":3,
       "carplate":"XA 2099",
       "fleetnum":"V6L3",
@@ -41,7 +41,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":4,
       "carplate":"XA 5627",
       "fleetnum":"V6L4",
@@ -51,7 +51,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":5,
       "carplate":"XA 7700",
       "fleetnum":"V6L5",
@@ -61,7 +61,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":6,
       "carplate":"XA 787",
       "fleetnum":"V6L6",
@@ -71,7 +71,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":7,
       "carplate":"XA 8322",
       "fleetnum":"V6L7",
@@ -81,7 +81,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":8,
       "carplate":"XA 8736",
       "fleetnum":"V6L8",
@@ -91,7 +91,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":9,
       "carplate":"XA 8903",
       "fleetnum":"V6L9",
@@ -101,7 +101,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":10,
       "carplate":"XA 9788",
       "fleetnum":"V6L10",
@@ -111,7 +111,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":11,
       "carplate":"XA 8372",
       "fleetnum":"V6L11",
@@ -121,7 +121,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":12,
       "carplate":"XA 8354",
       "fleetnum":"V6L12",
@@ -131,7 +131,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":13,
       "carplate":"XA 8368",
       "fleetnum":"V6L13",
@@ -141,7 +141,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":14,
       "carplate":"XA 8382",
       "fleetnum":"V6L14",
@@ -151,7 +151,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":15,
       "carplate":"XA 8395",
       "fleetnum":"V6L15",
@@ -511,7 +511,7 @@
       "backad":"rbxassetid://17406313765"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":51,
       "carplate":"XJ 8900",
       "fleetnum":"V6L51",
@@ -521,7 +521,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":52,
       "carplate":"XJ 8964",
       "fleetnum":"V6L52",
@@ -541,7 +541,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":54,
       "carplate":"XK 451",
       "fleetnum":"V6L54",
@@ -551,7 +551,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":55,
       "carplate":"XK 651",
       "fleetnum":"V6L55",
@@ -561,7 +561,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":56,
       "carplate":"XK 2356",
       "fleetnum":"V6L56",
@@ -571,7 +571,7 @@
       "backad":"rbxassetid://8373801085"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":57,
       "carplate":"XK 5427",
       "fleetnum":"V6L57",
@@ -581,7 +581,7 @@
       "backad":"rbxassetid://8373801085"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":58,
       "carplate":"XK 6754",
       "fleetnum":"V6L58",
@@ -591,7 +591,7 @@
       "backad":"rbxassetid://8373801085"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":59,
       "carplate":"XK 7291",
       "fleetnum":"V6L59",
@@ -601,7 +601,7 @@
       "backad":"rbxassetid://8373801085"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":60,
       "carplate":"XK 8462",
       "fleetnum":"V6L60",
@@ -611,7 +611,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":61,
       "carplate":"XK 8591",
       "fleetnum":"V6L61",
@@ -621,7 +621,7 @@
       "backad":"rbxassetid://8373801085"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":62,
       "carplate":"XL 682",
       "fleetnum":"V6L62",
@@ -631,7 +631,7 @@
       "backad":"rbxassetid://8373801085"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":63,
       "carplate":"XL 1734",
       "fleetnum":"V6L63",
@@ -641,7 +641,7 @@
       "backad":"rbxassetid://8373801085"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":64,
       "carplate":"XL 1823",
       "fleetnum":"V6L64",
@@ -651,7 +651,7 @@
       "backad":"rbxassetid://8373801085"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":65,
       "carplate":"XL 2047",
       "fleetnum":"V6L65",
@@ -661,7 +661,7 @@
       "backad":"rbxassetid://8373801085"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":66,
       "carplate":"XL 2084",
       "fleetnum":"V6L66",
@@ -671,7 +671,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":67,
       "carplate":"XL 2136",
       "fleetnum":"V6L67",
@@ -681,7 +681,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":68,
       "carplate":"XL 4466",
       "fleetnum":"V6L68",
@@ -691,7 +691,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":69,
       "carplate":"XL 7560",
       "fleetnum":"V6L69",
@@ -701,7 +701,7 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusB8L12000highway",
+      "busname":"GeoBusB8L12000normal",
       "number":70,
       "carplate":"XL 9487",
       "fleetnum":"V6L70",
