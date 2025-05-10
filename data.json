@@ -15,7 +15,7 @@
       "number":1,
       "carplate":"XA 175",
       "fleetnum":"V6L1",
-      "depot":"T",
+      "depot": "A",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -215,7 +215,7 @@
       "number":21,
       "carplate":"XA 8447",
       "fleetnum":"V6L21",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://105556137925268",
       "rightad":"rbxassetid://117830355097869",
       "backad":"rbxassetid://"
@@ -225,7 +225,7 @@
       "number":22,
       "carplate":"XA 8469",
       "fleetnum":"V6L22",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -235,7 +235,7 @@
       "number":23,
       "carplate":"XA 8450",
       "fleetnum":"V6L23",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -245,7 +245,7 @@
       "number":24,
       "carplate":"XA 8479",
       "fleetnum":"V6L24",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -255,7 +255,7 @@
       "number":25,
       "carplate":"XA 8481",
       "fleetnum":"V6L25",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -265,7 +265,7 @@
       "number":26,
       "carplate":"XA 8964",
       "fleetnum":"V6L26",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://14126689128",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -275,7 +275,7 @@
       "number":27,
       "carplate":"XB 954",
       "fleetnum":"V6L27",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -285,7 +285,7 @@
       "number":28,
       "carplate":"XB 969",
       "fleetnum":"V6L28",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -295,7 +295,7 @@
       "number":29,
       "carplate":"XB 1059",
       "fleetnum":"V6L29",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -305,7 +305,7 @@
       "number":30,
       "carplate":"XB 1176",
       "fleetnum":"V6L30",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -315,7 +315,7 @@
       "number":31,
       "carplate":"XB 1337",
       "fleetnum":"V6L31",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -325,7 +325,7 @@
       "number":32,
       "carplate":"XB 1984",
       "fleetnum":"V6L32",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://105556137925268",
       "rightad":"rbxassetid://117830355097869",
       "backad":"rbxassetid://"
@@ -335,7 +335,7 @@
       "number":33,
       "carplate":"XB 1967",
       "fleetnum":"V6L33",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -345,7 +345,7 @@
       "number":34,
       "carplate":"XB 2075",
       "fleetnum":"V6L34",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -355,7 +355,7 @@
       "number":35,
       "carplate":"XB 2123",
       "fleetnum":"V6L35",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -365,7 +365,7 @@
       "number":36,
       "carplate":"XB 2394",
       "fleetnum":"V6L36",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -375,7 +375,7 @@
       "number":37,
       "carplate":"XB 2351",
       "fleetnum":"V6L37",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -385,7 +385,7 @@
       "number":38,
       "carplate":"XB 2587",
       "fleetnum":"V6L38",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://14126689128",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -395,7 +395,7 @@
       "number":39,
       "carplate":"XB 2694",
       "fleetnum":"V6L39",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://105556137925268",
       "rightad":"rbxassetid://117830355097869",
       "backad":"rbxassetid://"
@@ -405,7 +405,7 @@
       "number":40,
       "carplate":"XB 2713",
       "fleetnum":"V6L40",
-      "depot":"S",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -425,7 +425,7 @@
       "number":42,
       "carplate":"XB 2844",
       "fleetnum":"V6L42",
-      "depot":"A",
+      "depot":"G",
       "leftad":"rbxassetid://17328121027",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://17406313765"
@@ -515,7 +515,7 @@
       "number":51,
       "carplate":"XJ 8900",
       "fleetnum":"V6L51",
-      "depot":"G",
+      "depot":"A",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -525,7 +525,7 @@
       "number":52,
       "carplate":"XJ 8964",
       "fleetnum":"V6L52",
-      "depot":"G",
+      "depot":"A",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -535,7 +535,7 @@
       "number":53,
       "carplate":"XJ 9734",
       "fleetnum":"V6L53",
-      "depot":"G",
+      "depot":"A",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -555,7 +555,7 @@
       "number":55,
       "carplate":"XK 651",
       "fleetnum":"V6L55",
-      "depot":"G",
+      "depot":"A",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
@@ -565,7 +565,7 @@
       "number":56,
       "carplate":"XK 2356",
       "fleetnum":"V6L56",
-      "depot":"G",
+      "depot":"A",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://8373801085"
@@ -575,7 +575,7 @@
       "number":57,
       "carplate":"XK 5427",
       "fleetnum":"V6L57",
-      "depot":"G",
+      "depot":"A",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://8373801085"
@@ -585,7 +585,7 @@
       "number":58,
       "carplate":"XK 6754",
       "fleetnum":"V6L58",
-      "depot":"G",
+      "depot":"A",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://8373801085"
@@ -595,7 +595,7 @@
       "number":59,
       "carplate":"XK 7291",
       "fleetnum":"V6L59",
-      "depot":"G",
+      "depot":"A",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://8373801085"
@@ -675,7 +675,7 @@
       "number":67,
       "carplate":"XL 2136",
       "fleetnum":"V6L67",
-      "depot":"A",
+      "depot":"G",
       "leftad":"rbxassetid://",
       "rightad":"rbxassetid://",
       "backad":"rbxassetid://"
