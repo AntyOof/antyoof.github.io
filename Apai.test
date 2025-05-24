@@ -474,10 +474,10 @@
    {
       "number":59,
       "route":"27RN",
-      "controllerid":"rbxassetid://95186843892209",
-      "frontid":"rbxassetid://109821217285211",
-      "sideid":"rbxassetid://109821217285211,rbxassetid://107671517382048",
-      "backid":"rbxassetid://109821217285211,rbxassetid://107671517382048"
+      "controllerid":"rbxassetid://85715705883352",
+      "frontid":"rbxassetid://126314481025937",
+      "sideid":"rbxassetid://126314481025937",
+      "backid":"rbxassetid://126314481025937"
    },
    {
       "number":60,
