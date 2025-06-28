@@ -26,10 +26,10 @@
    {
       "number":3,
       "route":"V",
-      "controllerid":"rbxassetid://118398456455261",
-      "frontid":"rbxassetid://97974867459407",
-      "sideid":"rbxassetid://97974867459407",
-      "backid":"rbxassetid://97974867459407"
+      "controllerid":"rbxassetid://121370438793482",
+      "frontid":"rbxassetid://126476187948082",
+      "sideid":"rbxassetid://126476187948082",
+      "backid":"rbxassetid://126476187948082"
    },
    {
       "number":4,
@@ -538,10 +538,10 @@
    {
       "number":67,
       "route":"EBUS",
-      "controllerid":"rbxassetid://82090091762422,rbxassetid://104389387750815",
-      "frontid":"rbxassetid://90359016983901,rbxassetid://88526572210227",
-      "sideid":"rbxassetid://125181534505298",
-      "backid":"rbxassetid://90359016983901,rbxassetid://88526572210227"
+      "controllerid":"rbxassetid://113355094000178,rbxassetid://80976384182754",
+      "frontid":"rbxassetid://97678532194470,rbxassetid://74357988574885",
+      "sideid":"rbxassetid://97678532194470",
+      "backid":"rbxassetid://97678532194470,rbxassetid://74357988574885"
    },
    {
       "number":68,
