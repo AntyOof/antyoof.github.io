@@ -1321,21 +1321,21 @@
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusE500EV12000",
+      "busname":"GeoBusE500EV120001",
       "number":1,
       "carplate":"WE 208",
       "fleetnum":"EEL1",
-      "depot":"A",
+      "depot":"E",
       "leftad":"rbxassetid://109917068191407",
       "rightad":"rbxassetid://114101443795848",
       "backad":"rbxassetid://"
     },
     {
-      "busname":"GeoBusE500EV12000",
+      "busname":"GeoBusE500EV120002",
       "number":2,
       "carplate":"WE 216",
       "fleetnum":"EEL2",
-      "depot":"A",
+      "depot":"E",
       "leftad":"rbxassetid://109917068191407",
       "rightad":"rbxassetid://114101443795848",
       "backad":"rbxassetid://"
