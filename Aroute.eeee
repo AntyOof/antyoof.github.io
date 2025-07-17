@@ -1,0 +1,40 @@
+[
+  {
+    "number":0,
+    "route":"GEO",
+    "attribute":"normal",
+    "pigYZ":"",
+    "destZ":"暫停服務",
+    "engdestZ":"Not In Service",
+    "routeingZ":"正常路線",
+    "destY":"暫停服務",
+    "engdestY":"Not In Service",
+    "routeingY":"正常路線",
+    "maxPZ":"1",
+    "priceZ1":"0.0",
+    "halfpriceZ1":"0.0",
+    "maxPY":"1",
+    "priceY1":"0.0",
+    "halfpriceY1":"0.0"
+  },
+  {
+    "number":1,
+    "route":"25A",
+    "attribute":"normal",
+    "pigYZ":"",
+    "destZ":"菁松山邨",
+    "engdestZ":"Tsing Chong Hill Estate",
+    "routeingZ":"正常路線",
+    "destY":"禮雋圍(東)",
+    "engdestY":"Lai Chun Wai (East)",
+    "routeingY":"正常路線",
+    "maxPZ":"1",
+    "priceZ1":"6.0",
+    "halfpriceZ1":"3.0",
+    "maxPY":"2",
+    "priceY1":"6.0",
+    "halfpriceY1":"3.0",
+    "priceY2":"3.8",
+    "halfpriceY2":"1.9"
+  }
+]
