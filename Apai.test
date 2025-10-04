@@ -482,8 +482,8 @@
    {
       "number":60,
       "route":"27RZ",
-      "controllerid":"rbxassetid://92557078732709,rbxassetid://91753164993497",
-      "frontid":"rbxassetid://83157846740512,rbxassetid://107671517382048",
+      "controllerid":"rbxassetid://92557078732709",
+      "frontid":"rbxassetid://83157846740512",
       "sideid":"rbxassetid://83157846740512,rbxassetid://72860693086962",
       "backid":"rbxassetid://83157846740512,rbxassetid://72860693086962"
    },
