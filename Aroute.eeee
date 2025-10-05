@@ -19,6 +19,24 @@
   },
   {
     "number":1,
+    "route":"22T",
+    "attribute":"circular",
+    "pigYZ":"",
+    "destZ":"恆馳火車站",
+    "engdestZ":"Hang Chi Train Station",
+    "routeingZ":"正常路線",
+    "destY":"恆馳碼頭",
+    "engdestY":"Hang Chi Ferry Piers",
+    "routeingY":"加班車只往恆馳碼頭",
+    "maxPZ":"1",
+    "priceZ1":"3.8",
+    "halfpriceZ1":"1.9",
+    "maxPY":"1",
+    "priceY1":"3.8",
+    "halfpriceY1":"1.9"
+  },
+  {
+    "number":2,
     "route":"25A",
     "attribute":"normal",
     "pigYZ":"",
@@ -36,5 +54,23 @@
     "halfpriceY1":"3.0",
     "priceY2":"3.8",
     "halfpriceY2":"1.9"
+  },
+  {
+    "number":3,
+    "route":"25B",
+    "attribute":"normal",
+    "pigYZ":"",
+    "destZ":"菁松山邨",
+    "engdestZ":"Tsing Chong Hill Estate",
+    "routeingZ":"正常路線",
+    "destY":"工廠街",
+    "engdestY":"Kung Choeng Street",
+    "routeingY":"正常路線",
+    "maxPZ":"1",
+    "priceZ1":"6.0",
+    "halfpriceZ1":"3.0",
+    "maxPY":"1",
+    "priceY1":"6.0",
+    "halfpriceY1":"3.0"
   }
 ]
