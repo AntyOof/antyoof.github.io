@@ -37,6 +37,18 @@
   },
   {
     "number": 3,
+    "route": "22P",
+    "destZ": "馬嶺馬凱道",
+    "destY": "大新碼頭",
+    "maxPZ": "1",
+    "priceZ1": "4.3",
+    "halfpriceZ1": "2.2",
+    "maxPY": "1",
+    "priceY1": "4.3",
+    "halfpriceY1": "2.2"
+  },
+  {
+    "number": 4,
     "route": "23",
     "destZ": "豬怕邨",
     "destY": "大新碼頭",
@@ -48,7 +60,7 @@
     "halfpriceY1": "2.2"
   },
   {
-    "number": 4,
+    "number": 5,
     "route": "23U",
     "destZ": "豬怕南",
     "destY": "馬嶺",
@@ -60,7 +72,7 @@
     "halfpriceY1": "2.2"
   },
   {
-    "number": 5,
+    "number": 6,
     "route": "24",
     "destZ": "沙善邨",
     "destY": "大新碼頭",
@@ -72,7 +84,7 @@
     "halfpriceY1": "2.2"
   },
   {
-    "number": 6,
+    "number": 7,
     "route": "24D",
     "destZ": "沙善邨",
     "destY": "豬怕學校村",
@@ -84,7 +96,7 @@
     "halfpriceY1": "2.2"
   },
   {
-    "number": 7,
+    "number": 8,
     "route": "24H",
     "destZ": "沙嶺市中心",
     "destY": "聖保祿火車站",
@@ -96,7 +108,7 @@
     "halfpriceY1": "2.2"
   },
   {
-    "number": 8,
+    "number": 9,
     "route": "24U",
     "destZ": "寰宇",
     "destY": "馬嶺",
@@ -108,7 +120,19 @@
     "halfpriceY1": "2.2"
   },
   {
-    "number": 9,
+    "number": 10,
+    "route": "30",
+    "destZ": "紀念碑",
+    "destY": "馬嶺馬凱道",
+    "maxPZ": "1",
+    "priceZ1": "4.3",
+    "halfpriceZ1": "2.2",
+    "maxPY": "1",
+    "priceY1": "4.3",
+    "halfpriceY1": "2.2"
+  },
+  {
+    "number": 11,
     "route": "30R",
     "destZ": "馬嶺站",
     "destY": "蔡村許願樹",
@@ -120,7 +144,19 @@
     "halfpriceY1": "3.1"
   },
   {
-    "number": 10,
+    "number": 12,
+    "route": "30X",
+    "destZ": "紀念碑",
+    "destY": "大新碼頭",
+    "maxPZ": "1",
+    "priceZ1": "4.3",
+    "halfpriceZ1": "2.2",
+    "maxPY": "1",
+    "priceY1": "4.3",
+    "halfpriceY1": "2.2"
+  },
+  {
+    "number": 13,
     "route": "N24",
     "destZ": "沙善邨",
     "destY": "馬嶺",
