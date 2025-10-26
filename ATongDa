@@ -1,0 +1,26 @@
+[
+   {
+      "number":0,
+      "route":"P",
+      "controllerid":"rbxassetid://84685425574582",
+      "frontid":"rbxassetid://84685425574582",
+      "sideid":"rbxassetid://82229512945835",
+      "backid":"rbxassetid://82229512945835"
+   },
+     {
+      "number":1,
+      "route":"22T上行",
+      "controllerid":"rbxassetid://81703474878731",
+      "frontid":"rbxassetid://81703474878731",
+      "sideid":"rbxassetid://87319857783486",
+      "backid":"rbxassetid://87319857783486"
+   },
+       {
+      "number":2,
+      "route":"22T下行",
+      "controllerid":"rbxassetid://74818173196001",
+      "frontid":"rbxassetid://74818173196001",
+      "sideid":"rbxassetid://105395110747774",
+      "backid":"rbxassetid://105395110747774"
+   }
+]
