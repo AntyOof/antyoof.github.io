@@ -9,7 +9,7 @@
    },
      {
       "number":1,
-      "route":"22T上行",
+      "route":"22Ts",
       "controllerid":"rbxassetid://81703474878731",
       "frontid":"rbxassetid://81703474878731",
       "sideid":"rbxassetid://87319857783486",
@@ -17,7 +17,7 @@
    },
        {
       "number":2,
-      "route":"22T下行",
+      "route":"22Tx",
       "controllerid":"rbxassetid://74818173196001",
       "frontid":"rbxassetid://74818173196001",
       "sideid":"rbxassetid://105395110747774",
