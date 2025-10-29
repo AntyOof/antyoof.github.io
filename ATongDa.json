@@ -17,9 +17,14 @@
                       "backid": "rbxassetid://82229512945835"
                     },
                     {
-                      "frontid": "rbxassetid://12345678901234",
-                      "sideid": "rbxassetid://23456789012345",
-                      "backid": "rbxassetid://34567890123456"
+                      "frontid": "rbxassetid://81829547765413",
+                      "sideid": "rbxassetid://82229512945835",
+                      "backid": "rbxassetid://82229512945835"
+                    },
+                                        {
+                      "frontid": "rbxassetid://138263575804809",
+                      "sideid": "rbxassetid://82229512945835",
+                      "backid": "rbxassetid://82229512945835"
                     }
                   ]
                 }
