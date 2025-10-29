@@ -1,46 +1,48 @@
-{
-        route = "P",
-        dirs = {
-            [0] = {
-                stages = {
-                    [0] = {
-                        dest = "猪怕巴士",
-                        frontid = "rbxassetid://84685425574582",
-                        sideid = "rbxassetid://82229512945835",
-                        backid = "rbxassetid://82229512945835"
-                    }
-                }
-            }
+[
+  {
+    "route": "P",
+    "dirs": {
+      "0": {
+        "stages": {
+          "0": {
+            "dest": "猪怕巴士",
+            "frontid": "rbxassetid://84685425574582",
+            "sideid": "rbxassetid://82229512945835",
+            "backid": "rbxassetid://82229512945835"
+          }
         }
-    },
-    {
-        route = "22T",
-        dirs = {
-            [0] = {
-                stages = {
-                    [0] = {
-                        dest = "恒驰码头",
-                        frontid = "rbxassetid://81703474878731",
-                        sideid = "rbxassetid://87319857783486",
-                        backid = "rbxassetid://87319857783486"
-                    },
-                    [5] = {
-                        dest = "恒驰码头 (区间)",
-                        frontid = "rbxassetid://11111111111111",
-                        sideid = "rbxassetid://22222222222222",
-                        backid = "rbxassetid://33333333333333"
-                    }
-                }
-            },
-            [1] = {
-                stages = {
-                    [0] = {
-                        dest = "恒驰火车站",
-                        frontid = "rbxassetid://74818173196001",
-                        sideid = "rbxassetid://105395110747774",
-                        backid = "rbxassetid://105395110747774"
-                    }
-                }
-            }
-        }
+      }
     }
+  },
+  {
+    "route": "22T",
+    "dirs": {
+      "0": {
+        "stages": {
+          "0": {
+            "dest": "恒驰码头",
+            "frontid": "rbxassetid://81703474878731",
+            "sideid": "rbxassetid://87319857783486",
+            "backid": "rbxassetid://87319857783486"
+          },
+          "5": {
+            "dest": "恒驰码头 (区间)",
+            "frontid": "rbxassetid://11111111111111",
+            "sideid": "rbxassetid://22222222222222",
+            "backid": "rbxassetid://33333333333333"
+          }
+        }
+      },
+      "1": {
+        "stages": {
+          "0": {
+            "dest": "恒驰火车站",
+            "frontid": "rbxassetid://74818173196001",
+            "sideid": "rbxassetid://105395110747774",
+            "backid": "rbxassetid://105395110747774"
+          }
+        }
+      }
+    }
+  }
+]
