@@ -47,7 +47,7 @@
                     },
                                         {
                       "frontid": "rbxassetid://74409744967144",
-                      "sideid": "rbxassetid://98626418078376",
+                      "sideid": "rbxassetid://71248354875487",
                       "backid": "rbxassetid://71248354875487"
                     },
                     {
@@ -67,7 +67,7 @@
                     },
                                         {
                       "frontid": "rbxassetid://109055756158441",
-                      "sideid": "rbxassetid://128999462021622",
+                      "sideid": "rbxassetid://87319857783486",
                       "backid": "rbxassetid://71248354875487"
                     }
                   ]
@@ -77,18 +77,18 @@
                   "pages": [
                     {
                       "frontid": "rbxassetid://74818173196001",
-                      "sideid": "rbxassetid://105395110747774",
-                      "backid": "rbxassetid://105395110747774"
+                      "sideid": "rbxassetid://117137447073353",
+                      "backid": "rbxassetid://100419858326538"
                     },
                                                             {
                       "frontid": "rbxassetid://109055756158441",
-                      "sideid": "rbxassetid://128999462021622",
-                      "backid": "rbxassetid://71248354875487"
+                      "sideid": "rbxassetid://127863825215567",
+                      "backid": "rbxassetid://100419858326538"
                     },
                                                             {
                       "frontid": "rbxassetid://74409744967144",
-                      "sideid": "rbxassetid://98626418078376",
-                      "backid": "rbxassetid://71248354875487"
+                      "sideid": "rbxassetid://80327761914427",
+                      "backid": "rbxassetid://100419858326538"
                     }
                   ]
                 },
@@ -97,13 +97,13 @@
                   "pages": [
                     {
                       "frontid": "rbxassetid://74818173196001",
-                      "sideid": "rbxassetid://105395110747774",
-                      "backid": "rbxassetid://105395110747774"
+                      "sideid": "rbxassetid://117137447073353",
+                      "backid": "rbxassetid://100419858326538"
                     },
                                                             {
                       "frontid": "rbxassetid://74409744967144",
-                      "sideid": "rbxassetid://98626418078376",
-                      "backid": "rbxassetid://71248354875487"
+                      "sideid": "rbxassetid://80327761914427",
+                      "backid": "rbxassetid://100419858326538"
                     }
                   ]
                 },
@@ -112,13 +112,8 @@
                   "pages": [
                     {
                       "frontid": "rbxassetid://74818173196001",
-                      "sideid": "rbxassetid://105395110747774",
-                      "backid": "rbxassetid://105395110747774"
-                    },
-                                                            {
-                      "frontid": "rbxassetid://74409744967144",
                       "sideid": "rbxassetid://117137447073353",
-                      "backid": "rbxassetid://71248354875487"
+                      "backid": "rbxassetid://100419858326538"
                     }
                   ]
                 }
