@@ -42,17 +42,17 @@
                   "pages": [
                     {
                       "frontid": "rbxassetid://81703474878731",
-                      "sideid": "rbxassetid://87319857783486",
+                      "sideid": "rbxassetid://71248354875487",
                       "backid": "rbxassetid://71248354875487"
                     },
                                         {
                       "frontid": "rbxassetid://74409744967144",
-                      "sideid": "rbxassetid://71248354875487",
+                      "sideid": "rbxassetid://98626418078376",
                       "backid": "rbxassetid://71248354875487"
                     },
                     {
                       "frontid": "rbxassetid://109055756158441",
-                      "sideid": "rbxassetid://128999462021622",
+                      "sideid": "rbxassetid://71248354875487",
                       "backid": "rbxassetid://71248354875487"
                     }
                   ]
@@ -62,12 +62,12 @@
                   "pages": [
                     {
                       "frontid": "rbxassetid://81703474878731",
-                      "sideid": "rbxassetid://87319857783486",
+                      "sideid": "rbxassetid://71248354875487",
                       "backid": "rbxassetid://71248354875487"
                     },
                                         {
                       "frontid": "rbxassetid://109055756158441",
-                      "sideid": "rbxassetid://87319857783486",
+                      "sideid": "rbxassetid://71248354875487",
                       "backid": "rbxassetid://71248354875487"
                     }
                   ]
