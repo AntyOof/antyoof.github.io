@@ -38,11 +38,11 @@
             "0": {
               "stages": {
                 "0": {
-                  "dest": "恒驰码头",
+                  "dest": "恒驰码头\n经工厂街、恒驰医院",
                   "pages": [
                     {
                       "frontid": "rbxassetid://81703474878731",
-                      "sideid": "rbxassetid://71248354875487",
+                      "sideid": "rbxassetid://72329785952271",
                       "backid": "rbxassetid://71248354875487"
                     },
                                         {
@@ -52,28 +52,28 @@
                     },
                     {
                       "frontid": "rbxassetid://109055756158441",
-                      "sideid": "rbxassetid://71248354875487",
+                      "sideid": "rbxassetid://128999462021622",
                       "backid": "rbxassetid://71248354875487"
                     }
                   ]
                 },
                 "3": {
-                  "dest": "恒驰码头",
+                  "dest": "恒驰码头\n经恒驰医院",
                   "pages": [
                     {
                       "frontid": "rbxassetid://81703474878731",
-                      "sideid": "rbxassetid://71248354875487",
+                      "sideid": "rbxassetid://72329785952271",
                       "backid": "rbxassetid://71248354875487"
                     },
                                         {
                       "frontid": "rbxassetid://109055756158441",
-                      "sideid": "rbxassetid://71248354875487",
+                      "sideid": "rbxassetid://128999462021622",
                       "backid": "rbxassetid://71248354875487"
                     }
                   ]
                 },
                 "6": {
-                  "dest": "恒驰火车站",
+                  "dest": "恒驰火车站\n经恒驰医院、工厂街",
                   "pages": [
                     {
                       "frontid": "rbxassetid://74818173196001",
@@ -87,13 +87,13 @@
                     },
                                                             {
                       "frontid": "rbxassetid://74409744967144",
-                      "sideid": "rbxassetid://80327761914427",
+                      "sideid": "rbxassetid://73330819431519",
                       "backid": "rbxassetid://100419858326538"
                     }
                   ]
                 },
                  "7": {
-                  "dest": "恒驰火车站",
+                  "dest": "恒驰火车站\n经工厂街",
                   "pages": [
                     {
                       "frontid": "rbxassetid://74818173196001",
@@ -102,7 +102,7 @@
                     },
                                                             {
                       "frontid": "rbxassetid://74409744967144",
-                      "sideid": "rbxassetid://80327761914427",
+                      "sideid": "rbxassetid://73330819431519",
                       "backid": "rbxassetid://100419858326538"
                     }
                   ]
@@ -126,8 +126,8 @@
                   "pages": [
                     {
                       "frontid": "rbxassetid://125473618395064",
-                      "sideid": "rbxassetid://87319857783486",
-                      "backid": "rbxassetid://87319857783486"
+                      "sideid": "rbxassetid://71248354875487",
+                      "backid": "rbxassetid://71248354875487"
                     }
                   ]
                 }
