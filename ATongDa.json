@@ -7,8 +7,8 @@
           "route": "GEO",
           "dirs": {
             "0": {
-              "routings": {
-                "0": {
+              "routeings": {
+                "1": {
                   "stages": {
                     "0": {
                       "dest": "猪怕巴士",
@@ -40,8 +40,8 @@
           "route": "VOLVO",
           "dirs": {
             "0": {
-              "routings": {
-                "0": {
+              "routeings": {
+                "1": {
                   "stages": {
                     "0": {
                       "dest": "沃尔沃",
@@ -68,8 +68,8 @@
           "route": "22T",
           "dirs": {
             "0": {
-              "routings": {
-                "0": {
+              "routeings": {
+                "1": {
                   "stages": {
                     "0": {
                       "dest": "恒驰码头\n经工厂街、恒驰医院",
@@ -156,8 +156,8 @@
               }
             },
             "1": {
-              "routings": {
-                "0": {
+              "routeings": {
+                "1": {
                   "stages": {
                     "0": {
                       "dest": "恒驰码头 (区间)",
@@ -184,8 +184,8 @@
           "route": "5YA",
           "dirs": {
             "0": {
-              "routings": {
-                "0": {
+              "routeings": {
+                "1": {
                   "stages": {
                     "0": {
                       "dest": "猪怕大学学院",
@@ -202,8 +202,8 @@
               }
             },
             "1": {
-              "routings": {
-                "0": {
+              "routeings": {
+                "1": {
                   "stages": {
                     "0": {
                       "dest": "汇晴",
