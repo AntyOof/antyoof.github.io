@@ -186,9 +186,24 @@
                                  "dest":"恒驰码头(正常班次)",
                                  "pages":[
                                     {
-                                       "frontid":"rbxassetid://112587836837019",
-                                       "sideid":"rbxassetid://89510901775090",
-                                       "backid":"rbxassetid://97641976823268"
+                                       "frontid":"rbxassetid://71636168329795",
+                                       "sideid":"rbxassetid://77227369897793",
+                                       "backid":"rbxassetid://99288423635844"
+                                    },
+                                    {
+                                       "frontid":"rbxassetid://100554286215037",
+                                       "sideid":"rbxassetid://110552572965167",
+                                       "backid":"rbxassetid://99288423635844"
+                                    }
+                                 ]
+                              },
+                              "10":{
+                                 "dest":"恒驰码头(正常班次)",
+                                 "pages":[
+                                    {
+                                       "frontid":"rbxassetid://71636168329795",
+                                       "sideid":"rbxassetid://77227369897793",
+                                       "backid":"rbxassetid://99288423635844"
                                     }
                                  ]
                               }
@@ -200,9 +215,24 @@
                                  "dest":"恒驰码头(环埔角道开)",
                                  "pages":[
                                     {
-                                       "frontid":"rbxassetid://112587836837019",
-                                       "sideid":"rbxassetid://89510901775090",
-                                       "backid":"rbxassetid://97641976823268"
+                                       "frontid":"rbxassetid://71636168329795",
+                                       "sideid":"rbxassetid://77227369897793",
+                                       "backid":"rbxassetid://99288423635844"
+                                    },
+                                    {
+                                       "frontid":"rbxassetid://100554286215037",
+                                       "sideid":"rbxassetid://110552572965167",
+                                       "backid":"rbxassetid://99288423635844"
+                                    }
+                                 ]
+                              },
+                              "16":{
+                                 "dest":"恒驰码头(正常班次)",
+                                 "pages":[
+                                    {
+                                       "frontid":"rbxassetid://71636168329795",
+                                       "sideid":"rbxassetid://77227369897793",
+                                       "backid":"rbxassetid://99288423635844"
                                     }
                                  ]
                               }
@@ -219,13 +249,13 @@
                                  "pages":[
                                     {
                                        "frontid":"rbxassetid://103935791989033",
-                                       "sideid":"rbxassetid://",
-                                       "backid":"rbxassetid://"
+                                       "sideid":"rbxassetid://121660698041280",
+                                       "backid":"rbxassetid://78967833023283"
                                     },
                                     {
                                        "frontid":"rbxassetid://100554286215037",
-                                       "sideid":"rbxassetid://",
-                                       "backid":"rbxassetid://"
+                                       "sideid":"rbxassetid://99514267426517",
+                                       "backid":"rbxassetid://78967833023283"
                                     }
                                  ]
                               },
@@ -234,8 +264,8 @@
                                  "pages":[
                                     {
                                        "frontid":"rbxassetid://103935791989033",
-                                       "sideid":"rbxassetid://",
-                                       "backid":"rbxassetid://"
+                                       "sideid":"rbxassetid://121660698041280",
+                                       "backid":"rbxassetid://78967833023283"
                                     }
                                  ]
                               },
@@ -244,8 +274,8 @@
                                  "pages":[
                                     {
                                        "frontid":"rbxassetid://102059553089877",
-                                       "sideid":"rbxassetid://",
-                                       "backid":"rbxassetid://"
+                                       "sideid":"rbxassetid://101127072227652",
+                                       "backid":"rbxassetid://101127072227652"
                                     }
                                  ]
                               }
@@ -254,12 +284,75 @@
                         "2":{
                            "stages":{
                               "0":{
+                                 "dest":"鹿坑及环埔角(经环埔角道)\n经火车站",
+                                 "pages":[
+                                    {
+                                       "frontid":"rbxassetid://103935791989033",
+                                       "sideid":"rbxassetid://121660698041280",
+                                       "backid":"rbxassetid://78967833023283"
+                                    },
+                                    {
+                                       "frontid":"rbxassetid://100554286215037",
+                                       "sideid":"rbxassetid://99514267426517",
+                                       "backid":"rbxassetid://78967833023283"
+                                    },
+                                    {
+                                       "frontid":"rbxassetid://73975266944032",
+                                       "sideid":"rbxassetid://81534563102423",
+                                       "backid":"rbxassetid://101127072227652"
+                                    }
+                                 ]
+                              },
+                              "4":{
                                  "dest":"环埔角(经环埔角道)",
                                  "pages":[
                                     {
-                                       "frontid":"rbxassetid://81446883322708",
-                                       "sideid":"rbxassetid://108722527349029",
-                                       "backid":"rbxassetid://79371437307043"
+                                       "frontid":"rbxassetid://103935791989033",
+                                       "sideid":"rbxassetid://121660698041280",
+                                       "backid":"rbxassetid://78967833023283"
+                                    },
+                                    {
+                                       "frontid":"rbxassetid://73975266944032",
+                                       "sideid":"rbxassetid://81534563102423",
+                                       "backid":"rbxassetid://101127072227652"
+                                    }
+                                 ]
+                              },
+                              "12":{
+                                 "dest":"环埔角",
+                                 "pages":[
+                                    {
+                                       "frontid":"rbxassetid://102059553089877",
+                                       "sideid":"rbxassetid://",
+                                       "backid":"rbxassetid://"
+                                    },
+                                    {
+                                       "frontid":"rbxassetid://73975266944032",
+                                       "sideid":"rbxassetid://81534563102423",
+                                       "backid":"rbxassetid://101127072227652"
+                                    }
+                                 ]
+                              }
+                           }
+                        }
+                     }
+                  }
+               }
+            },
+            {
+               "route":"27TS",
+               "dirs":{
+                  "0":{
+                     "routeings":{
+                        "1":{
+                           "stages":{
+                              "0":{
+                                 "dest":"只往火车站",
+                                 "pages":[
+                                    {
+                                       "frontid":"rbxassetid://90943200281585",
+                                       "sideid":"rbxassetid://139333943483462",
+                                       "backid":"rbxassetid://79976075680937"
                                     }
                                  ]
                               }
