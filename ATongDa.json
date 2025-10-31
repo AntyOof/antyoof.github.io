@@ -299,7 +299,7 @@
                                     {
                                        "frontid":"rbxassetid://73975266944032",
                                        "sideid":"rbxassetid://81534563102423",
-                                       "backid":"rbxassetid://101127072227652"
+                                       "backid":"rbxassetid://78967833023283"
                                     }
                                  ]
                               },
@@ -309,7 +309,7 @@
                                     {
                                        "frontid":"rbxassetid://103935791989033",
                                        "sideid":"rbxassetid://121660698041280",
-                                       "backid":"rbxassetid://78967833023283"
+                                       "backid":"rbxassetid://101127072227652"
                                     },
                                     {
                                        "frontid":"rbxassetid://73975266944032",
@@ -323,12 +323,7 @@
                                  "pages":[
                                     {
                                        "frontid":"rbxassetid://102059553089877",
-                                       "sideid":"rbxassetid://",
-                                       "backid":"rbxassetid://"
-                                    },
-                                    {
-                                       "frontid":"rbxassetid://73975266944032",
-                                       "sideid":"rbxassetid://81534563102423",
+                                       "sideid":"rbxassetid://101127072227652",
                                        "backid":"rbxassetid://101127072227652"
                                     }
                                  ]
