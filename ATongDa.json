@@ -1,199 +1,227 @@
 {
-   "companies":[
-      {
-         "name":"特别数据",
-         "routes":[
-            {
-               "route":"GEO",
-               "dirs":{
-                  "0":{
-                     "stages":{
-                        "0":{
-                           "dest":"猪怕巴士",
-                           "pages":[
-                              {
-                                 "frontid":"rbxassetid://84685425574582",
-                                 "sideid":"rbxassetid://82229512945835",
-                                 "backid":"rbxassetid://82229512945835"
-                              },
-                              {
-                                 "frontid":"rbxassetid://81829547765413",
-                                 "sideid":"rbxassetid://82229512945835",
-                                 "backid":"rbxassetid://82229512945835"
-                              },
-                              {
-                                 "frontid":"rbxassetid://138263575804809",
-                                 "sideid":"rbxassetid://82229512945835",
-                                 "backid":"rbxassetid://82229512945835"
-                              }
-                           ]
+  "companies": [
+    {
+      "name": "特别数据",
+      "routes": [
+        {
+          "route": "GEO",
+          "dirs": {
+            "0": {
+              "routings": {
+                "0": {
+                  "stages": {
+                    "0": {
+                      "dest": "猪怕巴士",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://84685425574582",
+                          "sideid": "rbxassetid://82229512945835",
+                          "backid": "rbxassetid://82229512945835"
+                        },
+                        {
+                          "frontid": "rbxassetid://81829547765413",
+                          "sideid": "rbxassetid://82229512945835",
+                          "backid": "rbxassetid://82229512945835"
+                        },
+                        {
+                          "frontid": "rbxassetid://138263575804809",
+                          "sideid": "rbxassetid://82229512945835",
+                          "backid": "rbxassetid://82229512945835"
                         }
-                     }
+                      ]
+                    }
                   }
-               }
+                }
+              }
+            }
+          }
+        },
+        {
+          "route": "VOLVO",
+          "dirs": {
+            "0": {
+              "routings": {
+                "0": {
+                  "stages": {
+                    "0": {
+                      "dest": "沃尔沃",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://90943200281585",
+                          "sideid": "rbxassetid://79991662819215",
+                          "backid": "rbxassetid://79991662819215"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "空气市分公司",
+      "routes": [
+        {
+          "route": "22T",
+          "dirs": {
+            "0": {
+              "routings": {
+                "0": {
+                  "stages": {
+                    "0": {
+                      "dest": "恒驰码头\n经工厂街、恒驰医院",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://81703474878731",
+                          "sideid": "rbxassetid://72329785952271",
+                          "backid": "rbxassetid://71248354875487"
+                        },
+                        {
+                          "frontid": "rbxassetid://74409744967144",
+                          "sideid": "rbxassetid://98626418078376",
+                          "backid": "rbxassetid://71248354875487"
+                        },
+                        {
+                          "frontid": "rbxassetid://109055756158441",
+                          "sideid": "rbxassetid://128999462021622",
+                          "backid": "rbxassetid://71248354875487"
+                        }
+                      ]
+                    },
+                    "3": {
+                      "dest": "恒驰码头\n经恒驰医院",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://81703474878731",
+                          "sideid": "rbxassetid://72329785952271",
+                          "backid": "rbxassetid://71248354875487"
+                        },
+                        {
+                          "frontid": "rbxassetid://109055756158441",
+                          "sideid": "rbxassetid://128999462021622",
+                          "backid": "rbxassetid://71248354875487"
+                        }
+                      ]
+                    },
+                    "6": {
+                      "dest": "恒驰火车站\n经恒驰医院、工厂街",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://74818173196001",
+                          "sideid": "rbxassetid://117137447073353",
+                          "backid": "rbxassetid://100419858326538"
+                        },
+                        {
+                          "frontid": "rbxassetid://109055756158441",
+                          "sideid": "rbxassetid://127863825215567",
+                          "backid": "rbxassetid://100419858326538"
+                        },
+                        {
+                          "frontid": "rbxassetid://74409744967144",
+                          "sideid": "rbxassetid://73330819431519",
+                          "backid": "rbxassetid://100419858326538"
+                        }
+                      ]
+                    },
+                    "7": {
+                      "dest": "恒驰火车站\n经工厂街",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://74818173196001",
+                          "sideid": "rbxassetid://117137447073353",
+                          "backid": "rbxassetid://100419858326538"
+                        },
+                        {
+                          "frontid": "rbxassetid://74409744967144",
+                          "sideid": "rbxassetid://73330819431519",
+                          "backid": "rbxassetid://100419858326538"
+                        }
+                      ]
+                    },
+                    "9": {
+                      "dest": "恒驰火车站",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://74818173196001",
+                          "sideid": "rbxassetid://117137447073353",
+                          "backid": "rbxassetid://100419858326538"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
             },
-                       {
-               "route":"VOLVO",
-               "dirs":{
-                  "0":{
-                     "stages":{
-                        "0":{
-                           "dest":"沃尔沃",
-                           "pages":[
-                              {
-                                 "frontid":"rbxassetid://90943200281585",
-                                 "sideid":"rbxassetid://79991662819215",
-                                 "backid":"rbxassetid://79991662819215"
-                              }
-                           ]
+            "1": {
+              "routings": {
+                "0": {
+                  "stages": {
+                    "0": {
+                      "dest": "恒驰码头 (区间)",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://125473618395064",
+                          "sideid": "rbxassetid://72329785952271",
+                          "backid": "rbxassetid://71248354875487"
                         }
-                     }
+                      ]
+                    }
                   }
-               }
+                }
+              }
             }
-         ]
-      },
-      {
-         "name":"空气市分公司",
-         "routes":[
-            {
-               "route":"22T",
-               "dirs":{
-                  "0":{
-                     "stages":{
-                        "0":{
-                           "dest":"恒驰码头\n经工厂街、恒驰医院",
-                           "pages":[
-                              {
-                                 "frontid":"rbxassetid://81703474878731",
-                                 "sideid":"rbxassetid://72329785952271",
-                                 "backid":"rbxassetid://71248354875487"
-                              },
-                              {
-                                 "frontid":"rbxassetid://74409744967144",
-                                 "sideid":"rbxassetid://98626418078376",
-                                 "backid":"rbxassetid://71248354875487"
-                              },
-                              {
-                                 "frontid":"rbxassetid://109055756158441",
-                                 "sideid":"rbxassetid://128999462021622",
-                                 "backid":"rbxassetid://71248354875487"
-                              }
-                           ]
-                        },
-                        "3":{
-                           "dest":"恒驰码头\n经恒驰医院",
-                           "pages":[
-                              {
-                                 "frontid":"rbxassetid://81703474878731",
-                                 "sideid":"rbxassetid://72329785952271",
-                                 "backid":"rbxassetid://71248354875487"
-                              },
-                              {
-                                 "frontid":"rbxassetid://109055756158441",
-                                 "sideid":"rbxassetid://128999462021622",
-                                 "backid":"rbxassetid://71248354875487"
-                              }
-                           ]
-                        },
-                        "6":{
-                           "dest":"恒驰火车站\n经恒驰医院、工厂街",
-                           "pages":[
-                              {
-                                 "frontid":"rbxassetid://74818173196001",
-                                 "sideid":"rbxassetid://117137447073353",
-                                 "backid":"rbxassetid://100419858326538"
-                              },
-                              {
-                                 "frontid":"rbxassetid://109055756158441",
-                                 "sideid":"rbxassetid://127863825215567",
-                                 "backid":"rbxassetid://100419858326538"
-                              },
-                              {
-                                 "frontid":"rbxassetid://74409744967144",
-                                 "sideid":"rbxassetid://73330819431519",
-                                 "backid":"rbxassetid://100419858326538"
-                              }
-                           ]
-                        },
-                        "7":{
-                           "dest":"恒驰火车站\n经工厂街",
-                           "pages":[
-                              {
-                                 "frontid":"rbxassetid://74818173196001",
-                                 "sideid":"rbxassetid://117137447073353",
-                                 "backid":"rbxassetid://100419858326538"
-                              },
-                              {
-                                 "frontid":"rbxassetid://74409744967144",
-                                 "sideid":"rbxassetid://73330819431519",
-                                 "backid":"rbxassetid://100419858326538"
-                              }
-                           ]
-                        },
-                        "9":{
-                           "dest":"恒驰火车站",
-                           "pages":[
-                              {
-                                 "frontid":"rbxassetid://74818173196001",
-                                 "sideid":"rbxassetid://117137447073353",
-                                 "backid":"rbxassetid://100419858326538"
-                              }
-                           ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "猪怕市分公司",
+      "routes": [
+        {
+          "route": "5YA",
+          "dirs": {
+            "0": {
+              "routings": {
+                "0": {
+                  "stages": {
+                    "0": {
+                      "dest": "猪怕大学学院",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://112587836837019",
+                          "sideid": "rbxassetid://89510901775090",
+                          "backid": "rbxassetid://97641976823268"
                         }
-                     }
-                  },
-                  "1":{
-                     "stages":{
-                        "0":{
-                           "dest":"恒驰码头 (区间)",
-                           "pages":[
-                              {
-                                 "frontid":"rbxassetid://125473618395064",
-                                 "sideid":"rbxassetid://72329785952271",
-                                 "backid":"rbxassetid://71248354875487"
-                              }
-                           ]
-                        }
-                     }
+                      ]
+                    }
                   }
-               }
-            }
-         ]
-      },
-      {
-         "name":"猪怕市分公司",
-         "routes":[
-            {
-               "route":"5YA",
-               "dirs":{
-                  "0":{
-                     "stages":{
-                        "0":{
-                           "dest":"猪怕大学学院",
-                           "pages":[
-                              {
-                                 "frontid":"rbxassetid://112587836837019",
-                                 "sideid":"rbxassetid://89510901775090",
-                                 "backid":"rbxassetid://97641976823268"
-                              }
-                           ]
+                }
+              }
+            },
+            "1": {
+              "routings": {
+                "0": {
+                  "stages": {
+                    "0": {
+                      "dest": "汇晴",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://81446883322708",
+                          "sideid": "rbxassetid://108722527349029",
+                          "backid": "rbxassetid://79371437307043"
                         }
-                     }
-                  },
-                        "1":{
-                           "dest":"汇晴",
-                           "pages":[
-                              {
-                                 "frontid":"rbxassetid://81446883322708",
-                                 "sideid":"rbxassetid://108722527349029",
-                                 "backid":"rbxassetid://79371437307043"
-                              }
-                           ]
-                        }
-               }
+                      ]
+                    }
+                  }
+                }
+              }
             }
-         ]
-      }
-   ]
+          }
+        }
+      ]
+    }
+  ]
 }
