@@ -356,6 +356,47 @@
                      }
                   }
                }
+            },
+                        {
+               "route":"N25",
+               "dirs":{
+                  "0":{
+                     "routeings":{
+                        "1":{
+                           "stages":{
+                              "0":{
+                                 "dest":"恒驰码头",
+                                 "pages":[
+                                    {
+                                       "frontid":"rbxassetid://75690023131322",
+                                       "sideid":"rbxassetid://135002261767940",
+                                       "backid":"rbxassetid://98789082834926"
+                                    }
+                                 ]
+                              }
+                           }
+                        }
+                     }
+                  },
+                  "1":{
+                     "routeings":{
+                        "1":{
+                           "stages":{
+                              "0":{
+                                 "dest":"菁松山邨",
+                                 "pages":[
+                                    {
+                                       "frontid":"rbxassetid://79834722831194",
+                                       "sideid":"rbxassetid://126725663297267",
+                                       "backid":"rbxassetid://126725663297267"
+                                    }
+                                 ]
+                              }
+                           }
+                        }
+                     }
+                  }
+               }
             }
          ]
       },
