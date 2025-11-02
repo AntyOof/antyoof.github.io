@@ -183,7 +183,7 @@
                         "1":{
                            "stages":{
                               "0":{
-                                 "dest":"恒驰码头(正常班次)",
+                                 "dest":"恒驰码头(正常班次)\n经火车站",
                                  "pages":[
                                     {
                                        "frontid":"rbxassetid://71636168329795",
@@ -212,7 +212,7 @@
                         "2":{
                            "stages":{
                               "0":{
-                                 "dest":"恒驰码头(环埔角道开)",
+                                 "dest":"恒驰码头(环埔角道开)\n经火车站",
                                  "pages":[
                                     {
                                        "frontid":"rbxassetid://71636168329795",
@@ -227,7 +227,7 @@
                                  ]
                               },
                               "16":{
-                                 "dest":"恒驰码头(正常班次)",
+                                 "dest":"恒驰码头(环埔角道开)",
                                  "pages":[
                                     {
                                        "frontid":"rbxassetid://71636168329795",
@@ -309,12 +309,12 @@
                                     {
                                        "frontid":"rbxassetid://103935791989033",
                                        "sideid":"rbxassetid://121660698041280",
-                                       "backid":"rbxassetid://101127072227652"
+                                       "backid":"rbxassetid://78967833023283"
                                     },
                                     {
                                        "frontid":"rbxassetid://73975266944032",
                                        "sideid":"rbxassetid://81534563102423",
-                                       "backid":"rbxassetid://101127072227652"
+                                       "backid":"rbxassetid://78967833023283"
                                     }
                                  ]
                               },
