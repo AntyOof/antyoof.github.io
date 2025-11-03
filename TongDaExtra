@@ -1,0 +1,16 @@
+{
+  "specialDisplays": [
+    {
+      "name": "客满",
+      "image": "rbxassetid://83856360054820"
+    },
+    {
+      "name": "临时改道",
+      "image": "rbxassetid://80557900476582"
+    },
+    {
+      "name": "临时总站",
+      "image": "rbxassetid://91991212752575"
+    }
+  ]
+}
