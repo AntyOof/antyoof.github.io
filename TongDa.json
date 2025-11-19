@@ -14,7 +14,7 @@
                                  "dest":"猪怕巴士",
                                  "pages":[
                                     {
-                                       "frontid":"rbxassetid://84685425574582",
+                                       "frontid":"rbxassetid://102874254341236",
                                        "sideid":"rbxassetid://82229512945835",
                                        "backid":"rbxassetid://82229512945835"
                                     },
@@ -27,6 +27,29 @@
                                        "frontid":"rbxassetid://138263575804809",
                                        "sideid":"rbxassetid://82229512945835",
                                        "backid":"rbxassetid://82229512945835"
+                                    }
+                                 ]
+                              }
+                           }
+                        }
+                     }
+                  }
+               }
+            },
+            {
+               "route":"TONGDA",
+               "dirs":{
+                  "0":{
+                     "routeings":{
+                        "1":{
+                           "stages":{
+                              "0":{
+                                 "dest":"通达电气",
+                                 "pages":[
+                                    {
+                                       "frontid":"rbxassetid://127809358280833",
+                                       "sideid":"rbxassetid://91581978308874",
+                                       "backid":"rbxassetid://91581978308874"
                                     }
                                  ]
                               }
@@ -50,6 +73,75 @@
                                        "frontid":"rbxassetid://90943200281585",
                                        "sideid":"rbxassetid://79991662819215",
                                        "backid":"rbxassetid://79991662819215"
+                                    }
+                                 ]
+                              }
+                           }
+                        }
+                     }
+                  }
+               }
+            },
+                        {
+               "route":"ADL",
+               "dirs":{
+                  "0":{
+                     "routeings":{
+                        "1":{
+                           "stages":{
+                              "0":{
+                                 "dest":"亚历山大丹尼士",
+                                 "pages":[
+                                    {
+                                       "frontid":"rbxassetid://139229717510959",
+                                       "sideid":"rbxassetid://103269732204190",
+                                       "backid":"rbxassetid://103269732204190"
+                                    }
+                                 ]
+                              }
+                           }
+                        }
+                     }
+                  }
+               }
+            },
+            {
+               "route":"ADLO",
+               "dirs":{
+                  "0":{
+                     "routeings":{
+                        "1":{
+                           "stages":{
+                              "0":{
+                                 "dest":"亚历山大丹尼士(旧)",
+                                 "pages":[
+                                    {
+                                       "frontid":"rbxassetid://81652048020274",
+                                       "sideid":"rbxassetid://118296105874299",
+                                       "backid":"rbxassetid://118296105874299"
+                                    }
+                                 ]
+                              }
+                           }
+                        }
+                     }
+                  }
+               }
+            },
+                        {
+               "route":"EBUS",
+               "dirs":{
+                  "0":{
+                     "routeings":{
+                        "1":{
+                           "stages":{
+                              "0":{
+                                 "dest":"新动力开未来",
+                                 "pages":[
+                                    {
+                                       "frontid":"rbxassetid://139119817828967",
+                                       "sideid":"rbxassetid://110078170844996",
+                                       "backid":"rbxassetid://110078170844996"
                                     }
                                  ]
                               }
