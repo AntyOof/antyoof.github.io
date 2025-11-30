@@ -150,29 +150,6 @@
                      }
                   }
                }
-            },
-            {
-               "route":"1207",
-               "dirs":{
-                  "0":{
-                     "routeings":{
-                        "1":{
-                           "stages":{
-                              "0":{
-                                 "dest":"投入选举共创未来",
-                                 "pages":[
-                                    {
-                                       "frontid":"rbxassetid://103777291019779",
-                                       "sideid":"rbxassetid://115717779956751",
-                                       "backid":"rbxassetid://115717779956751"
-                                    }
-                                 ]
-                              }
-                           }
-                        }
-                     }
-                  }
-               }
             }
          ]
       },
