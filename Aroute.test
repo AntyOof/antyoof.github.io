@@ -169,6 +169,24 @@
   },
   {
     "number":8,
+    "route":"27C",
+    "attribute":"circular",
+    "pigYZ":"",
+    "destZ":"恆馳火車站",
+    "engdestZ":"Hang Chi Railway Station",
+    "routeingZ":"正常路線",
+    "destY":"環埔角",
+    "engdestY":"Wan Po Kok",
+    "routeingY":"正常路線",
+    "maxPZ":"1",
+    "priceZ1":"19.9",
+    "halfpriceZ1":"10.0",
+    "maxPY":"1",
+    "priceY1":"19.9",
+    "halfpriceY1":"10.0"
+  },
+  {
+    "number":9,
     "route":"27R",
     "attribute":"normal",
     "pigYZ":"",
@@ -190,7 +208,7 @@
     "halfpriceY1":"5.0"
   },
   {
-    "number":9,
+    "number":10,
     "route":"27T",
     "attribute":"normal",
     "pigYZ":"",
@@ -212,7 +230,7 @@
     "halfpriceY2":"3.0"
   },
   {
-    "number":10,
+    "number":11,
     "route":"H26",
     "attribute":"normal",
     "pigYZ":"",
@@ -230,7 +248,7 @@
     "halfpriceY1":"10.0"
   },
   {
-    "number":11,
+    "number":12,
     "route":"N25",
     "attribute":"normal",
     "pigYZ":"",
