@@ -11,7 +11,13 @@
       "orig_routeing": "正常路線",
       "dest_tc": "恆馳碼頭",
       "dest_en": "Hang Chi Ferry Piers",
-      "dest_routeing": "加班車只往恆馳碼頭"
+      "dest_routeing": "加班車只往恆馳碼頭",
+      "extra_tc_1": "總站1",
+      "extra_en_1": "Dest 1",
+      "extra_routeing_1": "正常路線1,正常路線2",
+      "extra_tc_2": "總站2",
+      "extra_en_2": "Dest 2",
+      "extra_routeing_2": "正常路線1,正常路線2"
     },
     {
       "co": "GB",
