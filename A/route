@@ -6,6 +6,15 @@
     {
       "co": "GB",
       "route": "22T",
+      "dirs": {
+        "1": {
+          "dest_tc": "恆馳火車站",
+          "dest_en": "Hang Chi Railway Station",
+          "routeings": {
+            "1": "正常路線"
+            }
+          }
+        },
       "dest_tc_1": "恆馳火車站",
       "dest_en_1": "Hang Chi Railway Station",
       "dest_routeing_1": "正常路線",
