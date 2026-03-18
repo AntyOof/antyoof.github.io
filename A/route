@@ -6,28 +6,28 @@
     {
       "co": "GB",
       "route": "22T",
-      "dirs": {
-        "1": {
+      "dirs": [
+        {
           "dest_tc": "恆馳火車站",
           "dest_en": "Hang Chi Railway Station",
           "rts_tc": ["正常路線"]
           },
-        "2": {
+        {
           "dest_tc": "總站1",
           "dest_en": "Dest 1",
           "rts_tc": ["正常路線1","正常路線2"]
           },
-        "3": {
+        {
           "dest_tc": "總站2",
           "dest_en": "Dest 2",
           "rts_tc": ["正常路線3","正常路線4"]
           },
-        "4": {
+        {
           "dest_tc": "恆馳碼頭",
           "dest_en": "Hang Chi Ferry Piers",
           "rts_tc": ["加班車只往恆馳碼頭"]
           }
-        }
+        ]
     },
     {
       "co": "GB",
