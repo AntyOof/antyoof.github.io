@@ -1,0 +1,87 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2026-06-04T02:38:00+08:00",
+  "data": [
+    {
+      "co": "GB",
+      "route": "25A",
+      "seq": 1,
+      "stop": "0089",
+      "section": "Z1",
+      "hanover": "25AZ"
+    },
+    {
+      "co": "GB",
+      "route": "25A",
+      "seq": 2,
+      "stop": "0090",
+      "section": "Z1",
+      "hanover": "25AZ"
+    },
+    {
+      "co": "GB",
+      "route": "25A",
+      "seq": 3,
+      "stop": "0071",
+      "section": "Z1",
+      "hanover": "25AZ"
+    },
+    {
+      "co": "GB",
+      "route": "25A",
+      "seq": 4,
+      "stop": "0009",
+      "section": "Z1",
+      "hanover": "25AZ"
+    },
+    {
+      "co": "GB",
+      "route": "25A",
+      "seq": 5,
+      "stop": "0004",
+      "section": "Z1",
+      "hanover": "25AZ"
+    },
+    {
+      "co": "GB",
+      "route": "25A",
+      "seq": 6,
+      "stop": "0042",
+      "section": "Z1",
+      "hanover": "25AZ"
+    },
+    {
+      "co": "GB",
+      "route": "25A",
+      "seq": 7,
+      "stop": "0043",
+      "section": "Z1",
+      "hanover": "25AZ"
+    },
+    {
+      "co": "GB",
+      "route": "25A",
+      "seq": 8,
+      "stop": "0007",
+      "section": "Z1",
+      "hanover": "25AZ"
+    },
+    {
+      "co": "GB",
+      "route": "25A",
+      "seq": 9,
+      "stop": "0061",
+      "section": "Z1",
+      "hanover": "25AZ"
+    },
+    {
+      "co": "GB",
+      "route": "25A",
+      "seq": 10,
+      "stop": "0073",
+      "section": "Z1",
+      "hanover": "25AZ"
+    }
+  ]
+}

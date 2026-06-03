@@ -1,0 +1,55 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2026-06-04T02:38:00+08:00",
+  "data": [
+    {
+      "co": "GB",
+      "route": "25B",
+      "seq": 1,
+      "stop": "0032",
+      "section": "Z1",
+      "hanover": "25BZ"
+    },
+    {
+      "co": "GB",
+      "route": "25B",
+      "seq": 2,
+      "stop": "0047",
+      "section": "Z1",
+      "hanover": "25BZ"
+    },
+    {
+      "co": "GB",
+      "route": "25B",
+      "seq": 3,
+      "stop": "0011",
+      "section": "Z1",
+      "hanover": "25BZ"
+    },
+    {
+      "co": "GB",
+      "route": "25B",
+      "seq": 4,
+      "stop": "0040",
+      "section": "Z1",
+      "hanover": "25BZ"
+    },
+    {
+      "co": "GB",
+      "route": "25B",
+      "seq": 5,
+      "stop": "0028",
+      "section": "Z1",
+      "hanover": "25BZ"
+    },
+    {
+      "co": "GB",
+      "route": "25B",
+      "seq": 6,
+      "stop": "0073",
+      "section": "Z1",
+      "hanover": "25BZ"
+    }
+  ]
+}
