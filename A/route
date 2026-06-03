@@ -115,14 +115,14 @@
           "dest_tc":"恆馳碼頭",
           "dest_en":"Hang Chi Ferry Piers",
           "rts_tc":[
-            "正常班次"
+            "正常路線"
           ]
         },
         {
           "dest_tc":"環埔角道",
           "dest_en":"Wan Po Kok Road",
           "rts_tc":[
-            "正常班次"
+            "正常路線"
           ]
         }
       ]
@@ -135,14 +135,14 @@
           "dest_tc":"恆馳碼頭",
           "dest_en":"Hang Chi Ferry Piers",
           "rts_tc":[
-            "正常班次"
+            "正常路線"
           ]
         },
         {
           "dest_tc":"鹿坑邨",
           "dest_en":"Luk Hang Estate",
           "rts_tc":[
-            "正常班次"
+            "正常路線"
           ]
         }
       ]
@@ -157,13 +157,6 @@
           "rts_tc":[
             "正常路線"
           ]
-        },
-        {
-          "dest_tc":"東燒坪邨",
-          "dest_en":"Tung Shiu Ping Estate",
-          "rts_tc":[
-            ""
-          ]
         }
       ]
     },
@@ -175,7 +168,7 @@
           "dest_tc":"恆馳碼頭",
           "dest_en":"Hang Chi Ferry Piers",
           "rts_tc":[
-            "正常班次",
+            "正常路線",
             "環埔角道開"
           ]
         },
@@ -183,7 +176,7 @@
           "dest_tc":"環埔角",
           "dest_en":"Wan Po Kok",
           "rts_tc":[
-            "正常班次",
+            "正常路線",
             "經環埔角道"
           ]
         }
