@@ -1,0 +1,119 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2026-06-04T02:38:00+08:00",
+  "data": [
+    {
+      "co": "GB",
+      "route": "27T",
+      "seq": 1,
+      "stop": "0078A",
+      "section": "Z1",
+      "hanover": "27TZ"
+    },
+    {
+      "co": "GB",
+      "route": "27T",
+      "seq": 2,
+      "stop": "0034",
+      "section": "Z1",
+      "hanover": "27TZ"
+    },
+    {
+      "co": "GB",
+      "route": "27T",
+      "seq": 3,
+      "stop": "0033",
+      "section": "Z1",
+      "hanover": "27TZ"
+    },
+    {
+      "co": "GB",
+      "route": "27T",
+      "seq": 4,
+      "stop": "0035",
+      "section": "Z1",
+      "hanover": "27TZ"
+    },
+    {
+      "co": "GB",
+      "route": "27T",
+      "seq": 5,
+      "stop": "0082",
+      "section": "Z1",
+      "hanover": "27TZ"
+    },
+    {
+      "co": "GB",
+      "route": "27T",
+      "seq": 6,
+      "stop": "0053",
+      "section": "Z1",
+      "hanover": "27TZ"
+    },
+    {
+      "co": "GB",
+      "route": "27T",
+      "seq": 7,
+      "stop": "0087",
+      "section": "Z1",
+      "hanover": "27TZ"
+    },
+    {
+      "co": "GB",
+      "route": "27T",
+      "seq": 8,
+      "stop": "0085",
+      "section": "Z1",
+      "hanover": "27TZ"
+    },
+    {
+      "co": "GB",
+      "route": "27T",
+      "seq": 9,
+      "stop": "0051",
+      "section": "Z1",
+      "hanover": "27TZ"
+    },
+    {
+      "co": "GB",
+      "route": "27T",
+      "seq": 10,
+      "stop": "0022",
+      "section": "Z2",
+      "hanover": "27TN"
+    },
+    {
+      "co": "GB",
+      "route": "27T",
+      "seq": 11,
+      "stop": "0012",
+      "section": "Z2",
+      "hanover": "27TN"
+    },
+    {
+      "co": "GB",
+      "route": "27T",
+      "seq": 12,
+      "stop": "0065",
+      "section": "Z2",
+      "hanover": "27TN"
+    },
+    {
+      "co": "GB",
+      "route": "27T",
+      "seq": 13,
+      "stop": "0026",
+      "section": "Z2",
+      "hanover": "27TN"
+    },
+    {
+      "co": "GB",
+      "route": "27T",
+      "seq": 14,
+      "stop": "0015",
+      "section": "Z2",
+      "hanover": "27TN"
+    }
+  ]
+}

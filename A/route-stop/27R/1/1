@@ -1,0 +1,183 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2026-06-04T02:38:00+08:00",
+  "data": [
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 1,
+      "stop": "0078A",
+      "section": "Y1",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 2,
+      "stop": "0079",
+      "section": "Y1",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 3,
+      "stop": "0053",
+      "section": "Y1",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 4,
+      "stop": "0056",
+      "section": "Y1",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 5,
+      "stop": "0046",
+      "section": "Z1",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 6,
+      "stop": "0042",
+      "section": "Z1",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 7,
+      "stop": "0009",
+      "section": "Z1",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 8,
+      "stop": "0017",
+      "section": "Z1",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 9,
+      "stop": "0002",
+      "section": "Z1",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 10,
+      "stop": "0024",
+      "section": "Z1",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 11,
+      "stop": "0076",
+      "section": "Z1",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 12,
+      "stop": "0030",
+      "section": "Z1",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 13,
+      "stop": "0022",
+      "section": "Z2",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 14,
+      "stop": "0051",
+      "section": "Z2",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 15,
+      "stop": "0085",
+      "section": "Z3",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 16,
+      "stop": "0087",
+      "section": "Z3",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 17,
+      "stop": "0053",
+      "section": "Z3",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 18,
+      "stop": "0082",
+      "section": "Z3",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 19,
+      "stop": "0035",
+      "section": "Z3",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 20,
+      "stop": "0088",
+      "section": "Z3",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 21,
+      "stop": "0034",
+      "section": "Z3",
+      "hanover": "GEV"
+    },
+    {
+      "co": "GB",
+      "route": "27R",
+      "seq": 22,
+      "stop": "0078A",
+      "section": "Z3",
+      "hanover": "GEV"
+    }
+  ]
+}

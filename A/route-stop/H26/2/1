@@ -1,0 +1,55 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2026-06-04T02:38:00+08:00",
+  "data": [
+    {
+      "co": "GB",
+      "route": "H26",
+      "seq": 1,
+      "stop": "0015",
+      "section": "Y1",
+      "hanover": "H26A"
+    },
+    {
+      "co": "GB",
+      "route": "H26",
+      "seq": 2,
+      "stop": "0026",
+      "section": "Y1",
+      "hanover": "H26A"
+    },
+    {
+      "co": "GB",
+      "route": "H26",
+      "seq": 3,
+      "stop": "0009",
+      "section": "Y1",
+      "hanover": "H26A"
+    },
+    {
+      "co": "GB",
+      "route": "H26",
+      "seq": 4,
+      "stop": "0061",
+      "section": "Y1",
+      "hanover": "H26A"
+    },
+    {
+      "co": "GB",
+      "route": "H26",
+      "seq": 5,
+      "stop": "0056",
+      "section": "Y1",
+      "hanover": "H26A"
+    },
+    {
+      "co": "GB",
+      "route": "H26",
+      "seq": 6,
+      "stop": "0078A",
+      "section": "Y1",
+      "hanover": "H26A"
+    }
+  ]
+}

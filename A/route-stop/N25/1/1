@@ -1,0 +1,159 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2026-06-04T02:38:00+08:00",
+  "data": [
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 1,
+      "stop": "0073",
+      "section": "Z1",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 2,
+      "stop": "0072",
+      "section": "Z1",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 3,
+      "stop": "0059",
+      "section": "Z1",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 4,
+      "stop": "0022",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 5,
+      "stop": "0070",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 6,
+      "stop": "0062",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 7,
+      "stop": "0063",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 8,
+      "stop": "0046",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 9,
+      "stop": "0042",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 10,
+      "stop": "0004",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 11,
+      "stop": "0010",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 12,
+      "stop": "0031",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 13,
+      "stop": "0002",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 14,
+      "stop": "0024",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 15,
+      "stop": "0076",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 16,
+      "stop": "0030",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 17,
+      "stop": "0065",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 18,
+      "stop": "0019",
+      "section": "Z2",
+      "hanover": "N25Z"
+    },
+    {
+      "co": "GB",
+      "route": "N25",
+      "seq": 19,
+      "stop": "0015",
+      "section": "Z2",
+      "hanover": "N25Z"
+    }
+  ]
+}
