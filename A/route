@@ -173,6 +173,13 @@
           ]
         },
         {
+          "dest_tc":"恆馳火車站",
+          "dest_en":"Hang Chi Ferry Piers",
+          "rts_tc":[
+            "加班車只往恆火"
+          ]
+        },
+        {
           "dest_tc":"環埔角",
           "dest_en":"Wan Po Kok",
           "rts_tc":[
